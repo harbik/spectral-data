@@ -1,0 +1,11 @@
+[package]
+name = "spectral-index-gen"
+version = "0.1.0"
+edition = "2021"
+publish = false
+
+[dependencies]
+spectral-io = "0.1"
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+walkdir = "2"

@@ -1,0 +1,8 @@
+[package]
+name = "spectral-validate"
+version = "0.1.0"
+edition = "2021"
+publish = false
+
+[dependencies]
+spectral-io = "0.1"

@@ -1,0 +1,35 @@
+name: Validate spectral data
+
+on:
+  pull_request:
+    paths:
+      - "spectra/**/*.json"
+
+jobs:
+  validate:
+    name: Validate changed JSON files
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: dtolnay/rust-toolchain@stable
+
+      - uses: Swatinem/rust-cache@v2
+        with:
+          workspaces: tools
+
+      - name: Build validator
+        run: cargo build --release --manifest-path tools/Cargo.toml -p spectral-validate
+
+      - name: Find changed JSON files
+        id: changed
+        uses: tj-actions/changed-files@v46
+        with:
+          files: "spectra/**/*.json"
+
+      - name: Validate changed files
+        if: steps.changed.outputs.any_changed == 'true'
+        run: |
+          echo "Validating files:"
+          echo "${{ steps.changed.outputs.all_changed_files }}"
+          ./tools/target/release/spectral-validate ${{ steps.changed.outputs.all_changed_files }}

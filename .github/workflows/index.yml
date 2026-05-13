@@ -1,0 +1,37 @@
+name: Regenerate index
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "spectra/**/*.json"
+
+jobs:
+  regenerate:
+    name: Regenerate index.json
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: dtolnay/rust-toolchain@stable
+
+      - uses: Swatinem/rust-cache@v2
+        with:
+          workspaces: tools
+
+      - name: Build index generator
+        run: cargo build --release --manifest-path tools/Cargo.toml -p spectral-index-gen
+
+      - name: Regenerate index.json
+        run: ./tools/target/release/spectral-index-gen spectra/ index.json
+
+      - name: Commit updated index
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: regenerate index.json [skip ci]"
+          file_pattern: index.json
+          commit_user_name: github-actions[bot]
+          commit_user_email: github-actions[bot]@users.noreply.github.com
