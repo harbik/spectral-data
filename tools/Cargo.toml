@@ -2,5 +2,3 @@
 members = ["validate", "index-gen"]
 resolver = "2"
 
-[patch.crates-io]
-spectral-io = { path = "../../spectral-io" }
