@@ -1,7 +1,7 @@
 {
   "schema_version": "1",
   "generated": "2026-05-15",
-  "count": 6863,
+  "count": 6882,
   "spectra": [
     {
       "path": "spectra/candies/uef_dyes.json",
@@ -90493,6 +90493,424 @@
         "aotf"
       ],
       "copyright": "© University of Eastern Finland (UEF) / Markku Hauta-Kasari. Non-commercial use only. Source: https://sites.uef.fi/spectral/munsell-colors-matt-aotf-measured/"
+    },
+    {
+      "path": "spectra/elements/laserstars_emission_lines.json",
+      "file_type": "batch",
+      "id": "hydrogen",
+      "title": "Hydrogen (H) — Gas Discharge Emission Lines",
+      "measurement_type": "Emission",
+      "wavelength_range_nm": [
+        397.007,
+        656.285
+      ],
+      "n_points": 6,
+      "date": "1981-01-01",
+      "tags": [
+        "emission",
+        "gas-discharge",
+        "line-spectrum",
+        "atomic-spectroscopy",
+        "hydrogen",
+        "h"
+      ],
+      "copyright": "Public domain. Original data: Reader J. and Corliss Ch.H., 'Line Spectra of the Elements,' NSRDS-NBS 68 (1981), a publication of the US National Bureau of Standards (now NIST). Digitised as NASA Astronomical Data Center catalog A6016. Source: https://laserstars.org/data/elements/"
+    },
+    {
+      "path": "spectra/elements/laserstars_emission_lines.json",
+      "file_type": "batch",
+      "id": "helium",
+      "title": "Helium (He) — Gas Discharge Emission Lines",
+      "measurement_type": "Emission",
+      "wavelength_range_nm": [
+        396.473,
+        706.571
+      ],
+      "n_points": 26,
+      "date": "1981-01-01",
+      "tags": [
+        "emission",
+        "gas-discharge",
+        "line-spectrum",
+        "atomic-spectroscopy",
+        "helium",
+        "he"
+      ],
+      "copyright": "Public domain. Original data: Reader J. and Corliss Ch.H., 'Line Spectra of the Elements,' NSRDS-NBS 68 (1981), a publication of the US National Bureau of Standards (now NIST). Digitised as NASA Astronomical Data Center catalog A6016. Source: https://laserstars.org/data/elements/"
+    },
+    {
+      "path": "spectra/elements/laserstars_emission_lines.json",
+      "file_type": "batch",
+      "id": "lithium",
+      "title": "Lithium (Li) — Gas Discharge Emission Lines",
+      "measurement_type": "Emission",
+      "wavelength_range_nm": [
+        413.256,
+        670.791
+      ],
+      "n_points": 24,
+      "date": "1981-01-01",
+      "tags": [
+        "emission",
+        "gas-discharge",
+        "line-spectrum",
+        "atomic-spectroscopy",
+        "lithium",
+        "li"
+      ],
+      "copyright": "Public domain. Original data: Reader J. and Corliss Ch.H., 'Line Spectra of the Elements,' NSRDS-NBS 68 (1981), a publication of the US National Bureau of Standards (now NIST). Digitised as NASA Astronomical Data Center catalog A6016. Source: https://laserstars.org/data/elements/"
+    },
+    {
+      "path": "spectra/elements/laserstars_emission_lines.json",
+      "file_type": "batch",
+      "id": "carbon",
+      "title": "Carbon (C) — Gas Discharge Emission Lines",
+      "measurement_type": "Emission",
+      "wavelength_range_nm": [
+        391.898,
+        711.99
+      ],
+      "n_points": 34,
+      "date": "1981-01-01",
+      "tags": [
+        "emission",
+        "gas-discharge",
+        "line-spectrum",
+        "atomic-spectroscopy",
+        "carbon",
+        "c"
+      ],
+      "copyright": "Public domain. Original data: Reader J. and Corliss Ch.H., 'Line Spectra of the Elements,' NSRDS-NBS 68 (1981), a publication of the US National Bureau of Standards (now NIST). Digitised as NASA Astronomical Data Center catalog A6016. Source: https://laserstars.org/data/elements/"
+    },
+    {
+      "path": "spectra/elements/laserstars_emission_lines.json",
+      "file_type": "batch",
+      "id": "nitrogen",
+      "title": "Nitrogen (N) — Gas Discharge Emission Lines",
+      "measurement_type": "Emission",
+      "wavelength_range_nm": [
+        391.9,
+        672.262
+      ],
+      "n_points": 87,
+      "date": "1981-01-01",
+      "tags": [
+        "emission",
+        "gas-discharge",
+        "line-spectrum",
+        "atomic-spectroscopy",
+        "nitrogen",
+        "n"
+      ],
+      "copyright": "Public domain. Original data: Reader J. and Corliss Ch.H., 'Line Spectra of the Elements,' NSRDS-NBS 68 (1981), a publication of the US National Bureau of Standards (now NIST). Digitised as NASA Astronomical Data Center catalog A6016. Source: https://laserstars.org/data/elements/"
+    },
+    {
+      "path": "spectra/elements/laserstars_emission_lines.json",
+      "file_type": "batch",
+      "id": "oxygen",
+      "title": "Oxygen (O) — Gas Discharge Emission Lines",
+      "measurement_type": "Emission",
+      "wavelength_range_nm": [
+        391.196,
+        715.67
+      ],
+      "n_points": 85,
+      "date": "1981-01-01",
+      "tags": [
+        "emission",
+        "gas-discharge",
+        "line-spectrum",
+        "atomic-spectroscopy",
+        "oxygen",
+        "o"
+      ],
+      "copyright": "Public domain. Original data: Reader J. and Corliss Ch.H., 'Line Spectra of the Elements,' NSRDS-NBS 68 (1981), a publication of the US National Bureau of Standards (now NIST). Digitised as NASA Astronomical Data Center catalog A6016. Source: https://laserstars.org/data/elements/"
+    },
+    {
+      "path": "spectra/elements/laserstars_emission_lines.json",
+      "file_type": "batch",
+      "id": "neon",
+      "title": "Neon (Ne) — Gas Discharge Emission Lines",
+      "measurement_type": "Emission",
+      "wavelength_range_nm": [
+        421.974,
+        705.911
+      ],
+      "n_points": 79,
+      "date": "1981-01-01",
+      "tags": [
+        "emission",
+        "gas-discharge",
+        "line-spectrum",
+        "atomic-spectroscopy",
+        "neon",
+        "ne"
+      ],
+      "copyright": "Public domain. Original data: Reader J. and Corliss Ch.H., 'Line Spectra of the Elements,' NSRDS-NBS 68 (1981), a publication of the US National Bureau of Standards (now NIST). Digitised as NASA Astronomical Data Center catalog A6016. Source: https://laserstars.org/data/elements/"
+    },
+    {
+      "path": "spectra/elements/laserstars_emission_lines.json",
+      "file_type": "batch",
+      "id": "sodium",
+      "title": "Sodium (Na) — Gas Discharge Emission Lines",
+      "measurement_type": "Emission",
+      "wavelength_range_nm": [
+        371.107,
+        780.978
+      ],
+      "n_points": 92,
+      "date": "1981-01-01",
+      "tags": [
+        "emission",
+        "gas-discharge",
+        "line-spectrum",
+        "atomic-spectroscopy",
+        "sodium",
+        "na"
+      ],
+      "copyright": "Public domain. Original data: Reader J. and Corliss Ch.H., 'Line Spectra of the Elements,' NSRDS-NBS 68 (1981), a publication of the US National Bureau of Standards (now NIST). Digitised as NASA Astronomical Data Center catalog A6016. Source: https://laserstars.org/data/elements/"
+    },
+    {
+      "path": "spectra/elements/laserstars_emission_lines.json",
+      "file_type": "batch",
+      "id": "magnesium",
+      "title": "Magnesium (Mg) — Gas Discharge Emission Lines",
+      "measurement_type": "Emission",
+      "wavelength_range_nm": [
+        390.386,
+        706.041
+      ],
+      "n_points": 59,
+      "date": "1981-01-01",
+      "tags": [
+        "emission",
+        "gas-discharge",
+        "line-spectrum",
+        "atomic-spectroscopy",
+        "magnesium",
+        "mg"
+      ],
+      "copyright": "Public domain. Original data: Reader J. and Corliss Ch.H., 'Line Spectra of the Elements,' NSRDS-NBS 68 (1981), a publication of the US National Bureau of Standards (now NIST). Digitised as NASA Astronomical Data Center catalog A6016. Source: https://laserstars.org/data/elements/"
+    },
+    {
+      "path": "spectra/elements/laserstars_emission_lines.json",
+      "file_type": "batch",
+      "id": "aluminum",
+      "title": "Aluminum (Al) — Gas Discharge Emission Lines",
+      "measurement_type": "Emission",
+      "wavelength_range_nm": [
+        390.068,
+        708.464
+      ],
+      "n_points": 45,
+      "date": "1981-01-01",
+      "tags": [
+        "emission",
+        "gas-discharge",
+        "line-spectrum",
+        "atomic-spectroscopy",
+        "aluminum",
+        "al"
+      ],
+      "copyright": "Public domain. Original data: Reader J. and Corliss Ch.H., 'Line Spectra of the Elements,' NSRDS-NBS 68 (1981), a publication of the US National Bureau of Standards (now NIST). Digitised as NASA Astronomical Data Center catalog A6016. Source: https://laserstars.org/data/elements/"
+    },
+    {
+      "path": "spectra/elements/laserstars_emission_lines.json",
+      "file_type": "batch",
+      "id": "silicon",
+      "title": "Silicon (Si) — Gas Discharge Emission Lines",
+      "measurement_type": "Emission",
+      "wavelength_range_nm": [
+        390.552,
+        719.39
+      ],
+      "n_points": 124,
+      "date": "1981-01-01",
+      "tags": [
+        "emission",
+        "gas-discharge",
+        "line-spectrum",
+        "atomic-spectroscopy",
+        "silicon",
+        "si"
+      ],
+      "copyright": "Public domain. Original data: Reader J. and Corliss Ch.H., 'Line Spectra of the Elements,' NSRDS-NBS 68 (1981), a publication of the US National Bureau of Standards (now NIST). Digitised as NASA Astronomical Data Center catalog A6016. Source: https://laserstars.org/data/elements/"
+    },
+    {
+      "path": "spectra/elements/laserstars_emission_lines.json",
+      "file_type": "batch",
+      "id": "sulfur",
+      "title": "Sulfur (S) — Gas Discharge Emission Lines",
+      "measurement_type": "Emission",
+      "wavelength_range_nm": [
+        390.2,
+        757.9
+      ],
+      "n_points": 42,
+      "date": "1981-01-01",
+      "tags": [
+        "emission",
+        "gas-discharge",
+        "line-spectrum",
+        "atomic-spectroscopy",
+        "sulfur",
+        "s"
+      ],
+      "copyright": "Public domain. Original data: Reader J. and Corliss Ch.H., 'Line Spectra of the Elements,' NSRDS-NBS 68 (1981), a publication of the US National Bureau of Standards (now NIST). Digitised as NASA Astronomical Data Center catalog A6016. Source: https://laserstars.org/data/elements/"
+    },
+    {
+      "path": "spectra/elements/laserstars_emission_lines.json",
+      "file_type": "batch",
+      "id": "argon",
+      "title": "Argon (Ar) — Gas Discharge Emission Lines",
+      "measurement_type": "Emission",
+      "wavelength_range_nm": [
+        392.572,
+        715.884
+      ],
+      "n_points": 174,
+      "date": "1981-01-01",
+      "tags": [
+        "emission",
+        "gas-discharge",
+        "line-spectrum",
+        "atomic-spectroscopy",
+        "argon",
+        "ar"
+      ],
+      "copyright": "Public domain. Original data: Reader J. and Corliss Ch.H., 'Line Spectra of the Elements,' NSRDS-NBS 68 (1981), a publication of the US National Bureau of Standards (now NIST). Digitised as NASA Astronomical Data Center catalog A6016. Source: https://laserstars.org/data/elements/"
+    },
+    {
+      "path": "spectra/elements/laserstars_emission_lines.json",
+      "file_type": "batch",
+      "id": "calcium",
+      "title": "Calcium (Ca) — Gas Discharge Emission Lines",
+      "measurement_type": "Emission",
+      "wavelength_range_nm": [
+        392.348,
+        714.815
+      ],
+      "n_points": 89,
+      "date": "1981-01-01",
+      "tags": [
+        "emission",
+        "gas-discharge",
+        "line-spectrum",
+        "atomic-spectroscopy",
+        "calcium",
+        "ca"
+      ],
+      "copyright": "Public domain. Original data: Reader J. and Corliss Ch.H., 'Line Spectra of the Elements,' NSRDS-NBS 68 (1981), a publication of the US National Bureau of Standards (now NIST). Digitised as NASA Astronomical Data Center catalog A6016. Source: https://laserstars.org/data/elements/"
+    },
+    {
+      "path": "spectra/elements/laserstars_emission_lines.json",
+      "file_type": "batch",
+      "id": "iron",
+      "title": "Iron (Fe) — Gas Discharge Emission Lines",
+      "measurement_type": "Emission",
+      "wavelength_range_nm": [
+        400.524,
+        667.799
+      ],
+      "n_points": 195,
+      "date": "1981-01-01",
+      "tags": [
+        "emission",
+        "gas-discharge",
+        "line-spectrum",
+        "atomic-spectroscopy",
+        "iron",
+        "fe"
+      ],
+      "copyright": "Public domain. Original data: Reader J. and Corliss Ch.H., 'Line Spectra of the Elements,' NSRDS-NBS 68 (1981), a publication of the US National Bureau of Standards (now NIST). Digitised as NASA Astronomical Data Center catalog A6016. Source: https://laserstars.org/data/elements/"
+    },
+    {
+      "path": "spectra/elements/laserstars_emission_lines.json",
+      "file_type": "batch",
+      "id": "krypton",
+      "title": "Krypton (Kr) — Gas Discharge Emission Lines",
+      "measurement_type": "Emission",
+      "wavelength_range_nm": [
+        390.618,
+        690.468
+      ],
+      "n_points": 79,
+      "date": "1981-01-01",
+      "tags": [
+        "emission",
+        "gas-discharge",
+        "line-spectrum",
+        "atomic-spectroscopy",
+        "krypton",
+        "kr"
+      ],
+      "copyright": "Public domain. Original data: Reader J. and Corliss Ch.H., 'Line Spectra of the Elements,' NSRDS-NBS 68 (1981), a publication of the US National Bureau of Standards (now NIST). Digitised as NASA Astronomical Data Center catalog A6016. Source: https://laserstars.org/data/elements/"
+    },
+    {
+      "path": "spectra/elements/laserstars_emission_lines.json",
+      "file_type": "batch",
+      "id": "strontium",
+      "title": "Strontium (Sr) — Gas Discharge Emission Lines",
+      "measurement_type": "Emission",
+      "wavelength_range_nm": [
+        403.038,
+        689.259
+      ],
+      "n_points": 54,
+      "date": "1981-01-01",
+      "tags": [
+        "emission",
+        "gas-discharge",
+        "line-spectrum",
+        "atomic-spectroscopy",
+        "strontium",
+        "sr"
+      ],
+      "copyright": "Public domain. Original data: Reader J. and Corliss Ch.H., 'Line Spectra of the Elements,' NSRDS-NBS 68 (1981), a publication of the US National Bureau of Standards (now NIST). Digitised as NASA Astronomical Data Center catalog A6016. Source: https://laserstars.org/data/elements/"
+    },
+    {
+      "path": "spectra/elements/laserstars_emission_lines.json",
+      "file_type": "batch",
+      "id": "xenon",
+      "title": "Xenon (Xe) — Gas Discharge Emission Lines",
+      "measurement_type": "Emission",
+      "wavelength_range_nm": [
+        390.791,
+        708.215
+      ],
+      "n_points": 141,
+      "date": "1981-01-01",
+      "tags": [
+        "emission",
+        "gas-discharge",
+        "line-spectrum",
+        "atomic-spectroscopy",
+        "xenon",
+        "xe"
+      ],
+      "copyright": "Public domain. Original data: Reader J. and Corliss Ch.H., 'Line Spectra of the Elements,' NSRDS-NBS 68 (1981), a publication of the US National Bureau of Standards (now NIST). Digitised as NASA Astronomical Data Center catalog A6016. Source: https://laserstars.org/data/elements/"
+    },
+    {
+      "path": "spectra/elements/laserstars_emission_lines.json",
+      "file_type": "batch",
+      "id": "barium",
+      "title": "Barium (Ba) — Gas Discharge Emission Lines",
+      "measurement_type": "Emission",
+      "wavelength_range_nm": [
+        403.626,
+        687.409
+      ],
+      "n_points": 92,
+      "date": "1981-01-01",
+      "tags": [
+        "emission",
+        "gas-discharge",
+        "line-spectrum",
+        "atomic-spectroscopy",
+        "barium",
+        "ba"
+      ],
+      "copyright": "Public domain. Original data: Reader J. and Corliss Ch.H., 'Line Spectra of the Elements,' NSRDS-NBS 68 (1981), a publication of the US National Bureau of Standards (now NIST). Digitised as NASA Astronomical Data Center catalog A6016. Source: https://laserstars.org/data/elements/"
     },
     {
       "path": "spectra/nature/uef_daylight.json",
