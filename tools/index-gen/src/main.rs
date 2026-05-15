@@ -129,7 +129,20 @@ fn chrono_today() -> String {
         remaining -= days_in_year;
         y += 1;
     }
-    let month_days: [u64; 12] = [31, if is_leap(y) { 29 } else { 28 }, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31];
+    let month_days: [u64; 12] = [
+        31,
+        if is_leap(y) { 29 } else { 28 },
+        31,
+        30,
+        31,
+        30,
+        31,
+        31,
+        30,
+        31,
+        30,
+        31,
+    ];
     let mut m = 0u32;
     for (i, &md) in month_days.iter().enumerate() {
         if remaining < md {

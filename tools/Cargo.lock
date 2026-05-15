@@ -96,9 +96,9 @@ dependencies = [
 
 [[package]]
 name = "spectral-io"
-version = "0.1.0"
+version = "0.2.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "f0fc95ce73db756dee9fd51111baffe0a0bcf53ef6583f94db698e01d13bf498"
+checksum = "7f8345679e74390dff44b1c6f167ce00b643ef7138182f22392fe8d1bda0776f"
 dependencies = [
  "serde",
  "serde_json",
