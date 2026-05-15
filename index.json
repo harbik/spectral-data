@@ -1,7 +1,7 @@
 {
   "schema_version": "1",
   "generated": "2026-05-15",
-  "count": 5788,
+  "count": 6060,
   "spectra": [
     {
       "path": "spectra/candies/uef_dyes.json",
@@ -118052,6 +118052,6262 @@
         "aotf"
       ],
       "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_aspen.json",
+      "file_type": "batch",
+      "id": "aspen-wb-001",
+      "title": "Aspen — with branches #1",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "aspen",
+        "Populus tremula",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_aspen.json",
+      "file_type": "batch",
+      "id": "aspen-wb-002",
+      "title": "Aspen — with branches #2",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "aspen",
+        "Populus tremula",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_aspen.json",
+      "file_type": "batch",
+      "id": "aspen-wb-003",
+      "title": "Aspen — with branches #3",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "aspen",
+        "Populus tremula",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_aspen.json",
+      "file_type": "batch",
+      "id": "aspen-wb-004",
+      "title": "Aspen — with branches #4",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "aspen",
+        "Populus tremula",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_aspen.json",
+      "file_type": "batch",
+      "id": "aspen-wb-005",
+      "title": "Aspen — with branches #5",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "aspen",
+        "Populus tremula",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_aspen.json",
+      "file_type": "batch",
+      "id": "aspen-wb-006",
+      "title": "Aspen — with branches #6",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "aspen",
+        "Populus tremula",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_aspen.json",
+      "file_type": "batch",
+      "id": "aspen-wb-007",
+      "title": "Aspen — with branches #7",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "aspen",
+        "Populus tremula",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_aspen.json",
+      "file_type": "batch",
+      "id": "aspen-wb-008",
+      "title": "Aspen — with branches #8",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "aspen",
+        "Populus tremula",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_aspen.json",
+      "file_type": "batch",
+      "id": "aspen-wb-009",
+      "title": "Aspen — with branches #9",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "aspen",
+        "Populus tremula",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_aspen.json",
+      "file_type": "batch",
+      "id": "aspen-wb-010",
+      "title": "Aspen — with branches #10",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "aspen",
+        "Populus tremula",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_aspen.json",
+      "file_type": "batch",
+      "id": "aspen-wb-011",
+      "title": "Aspen — with branches #11",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "aspen",
+        "Populus tremula",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_aspen.json",
+      "file_type": "batch",
+      "id": "aspen-wb-012",
+      "title": "Aspen — with branches #12",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "aspen",
+        "Populus tremula",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_aspen.json",
+      "file_type": "batch",
+      "id": "aspen-wb-013",
+      "title": "Aspen — with branches #13",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "aspen",
+        "Populus tremula",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_aspen.json",
+      "file_type": "batch",
+      "id": "aspen-wb-014",
+      "title": "Aspen — with branches #14",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "aspen",
+        "Populus tremula",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_aspen.json",
+      "file_type": "batch",
+      "id": "aspen-wb-015",
+      "title": "Aspen — with branches #15",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "aspen",
+        "Populus tremula",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_aspen.json",
+      "file_type": "batch",
+      "id": "aspen-wb-016",
+      "title": "Aspen — with branches #16",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "aspen",
+        "Populus tremula",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_aspen.json",
+      "file_type": "batch",
+      "id": "aspen-wb-017",
+      "title": "Aspen — with branches #17",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "aspen",
+        "Populus tremula",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_aspen.json",
+      "file_type": "batch",
+      "id": "aspen-wb-018",
+      "title": "Aspen — with branches #18",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "aspen",
+        "Populus tremula",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_aspen.json",
+      "file_type": "batch",
+      "id": "aspen-wb-019",
+      "title": "Aspen — with branches #19",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "aspen",
+        "Populus tremula",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_aspen.json",
+      "file_type": "batch",
+      "id": "aspen-wb-020",
+      "title": "Aspen — with branches #20",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "aspen",
+        "Populus tremula",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_aspen.json",
+      "file_type": "batch",
+      "id": "aspen-wb-021",
+      "title": "Aspen — with branches #21",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "aspen",
+        "Populus tremula",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_aspen.json",
+      "file_type": "batch",
+      "id": "aspen-wb-022",
+      "title": "Aspen — with branches #22",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "aspen",
+        "Populus tremula",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_aspen.json",
+      "file_type": "batch",
+      "id": "aspen-wb-023",
+      "title": "Aspen — with branches #23",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "aspen",
+        "Populus tremula",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_aspen.json",
+      "file_type": "batch",
+      "id": "aspen-wb-024",
+      "title": "Aspen — with branches #24",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "aspen",
+        "Populus tremula",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_aspen.json",
+      "file_type": "batch",
+      "id": "aspen-wb-025",
+      "title": "Aspen — with branches #25",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "aspen",
+        "Populus tremula",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_aspen.json",
+      "file_type": "batch",
+      "id": "aspen-wb-026",
+      "title": "Aspen — with branches #26",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "aspen",
+        "Populus tremula",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_aspen.json",
+      "file_type": "batch",
+      "id": "aspen-wb-027",
+      "title": "Aspen — with branches #27",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "aspen",
+        "Populus tremula",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_aspen.json",
+      "file_type": "batch",
+      "id": "aspen-wb-028",
+      "title": "Aspen — with branches #28",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "aspen",
+        "Populus tremula",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_aspen.json",
+      "file_type": "batch",
+      "id": "aspen-wb-029",
+      "title": "Aspen — with branches #29",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "aspen",
+        "Populus tremula",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_aspen.json",
+      "file_type": "batch",
+      "id": "aspen-wb-030",
+      "title": "Aspen — with branches #30",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "aspen",
+        "Populus tremula",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_aspen.json",
+      "file_type": "batch",
+      "id": "aspen-wb-031",
+      "title": "Aspen — with branches #31",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "aspen",
+        "Populus tremula",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_aspen.json",
+      "file_type": "batch",
+      "id": "aspen-wb-032",
+      "title": "Aspen — with branches #32",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "aspen",
+        "Populus tremula",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_aspen.json",
+      "file_type": "batch",
+      "id": "aspen-wb-033",
+      "title": "Aspen — with branches #33",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "aspen",
+        "Populus tremula",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_aspen.json",
+      "file_type": "batch",
+      "id": "aspen-wb-034",
+      "title": "Aspen — with branches #34",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "aspen",
+        "Populus tremula",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_aspen.json",
+      "file_type": "batch",
+      "id": "aspen-wb-035",
+      "title": "Aspen — with branches #35",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "aspen",
+        "Populus tremula",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_aspen.json",
+      "file_type": "batch",
+      "id": "aspen-wb-036",
+      "title": "Aspen — with branches #36",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "aspen",
+        "Populus tremula",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_aspen.json",
+      "file_type": "batch",
+      "id": "aspen-wb-037",
+      "title": "Aspen — with branches #37",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "aspen",
+        "Populus tremula",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_aspen.json",
+      "file_type": "batch",
+      "id": "aspen-wb-038",
+      "title": "Aspen — with branches #38",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "aspen",
+        "Populus tremula",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_aspen.json",
+      "file_type": "batch",
+      "id": "aspen-wb-039",
+      "title": "Aspen — with branches #39",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "aspen",
+        "Populus tremula",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_aspen.json",
+      "file_type": "batch",
+      "id": "aspen-wb-040",
+      "title": "Aspen — with branches #40",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "aspen",
+        "Populus tremula",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_aspen.json",
+      "file_type": "batch",
+      "id": "aspen-wp-001",
+      "title": "Aspen — pure, no branches #1",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "aspen",
+        "Populus tremula",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_aspen.json",
+      "file_type": "batch",
+      "id": "aspen-wp-002",
+      "title": "Aspen — pure, no branches #2",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "aspen",
+        "Populus tremula",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_aspen.json",
+      "file_type": "batch",
+      "id": "aspen-wp-003",
+      "title": "Aspen — pure, no branches #3",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "aspen",
+        "Populus tremula",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_aspen.json",
+      "file_type": "batch",
+      "id": "aspen-wp-004",
+      "title": "Aspen — pure, no branches #4",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "aspen",
+        "Populus tremula",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_aspen.json",
+      "file_type": "batch",
+      "id": "aspen-wp-005",
+      "title": "Aspen — pure, no branches #5",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "aspen",
+        "Populus tremula",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_aspen.json",
+      "file_type": "batch",
+      "id": "aspen-wp-006",
+      "title": "Aspen — pure, no branches #6",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "aspen",
+        "Populus tremula",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_aspen.json",
+      "file_type": "batch",
+      "id": "aspen-wp-007",
+      "title": "Aspen — pure, no branches #7",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "aspen",
+        "Populus tremula",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_aspen.json",
+      "file_type": "batch",
+      "id": "aspen-wp-008",
+      "title": "Aspen — pure, no branches #8",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "aspen",
+        "Populus tremula",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_aspen.json",
+      "file_type": "batch",
+      "id": "aspen-wp-009",
+      "title": "Aspen — pure, no branches #9",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "aspen",
+        "Populus tremula",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_aspen.json",
+      "file_type": "batch",
+      "id": "aspen-wp-010",
+      "title": "Aspen — pure, no branches #10",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "aspen",
+        "Populus tremula",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_aspen.json",
+      "file_type": "batch",
+      "id": "aspen-wp-011",
+      "title": "Aspen — pure, no branches #11",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "aspen",
+        "Populus tremula",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_aspen.json",
+      "file_type": "batch",
+      "id": "aspen-wp-012",
+      "title": "Aspen — pure, no branches #12",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "aspen",
+        "Populus tremula",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_aspen.json",
+      "file_type": "batch",
+      "id": "aspen-wp-013",
+      "title": "Aspen — pure, no branches #13",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "aspen",
+        "Populus tremula",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_aspen.json",
+      "file_type": "batch",
+      "id": "aspen-wp-014",
+      "title": "Aspen — pure, no branches #14",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "aspen",
+        "Populus tremula",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_aspen.json",
+      "file_type": "batch",
+      "id": "aspen-wp-015",
+      "title": "Aspen — pure, no branches #15",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "aspen",
+        "Populus tremula",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_aspen.json",
+      "file_type": "batch",
+      "id": "aspen-wp-016",
+      "title": "Aspen — pure, no branches #16",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "aspen",
+        "Populus tremula",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_aspen.json",
+      "file_type": "batch",
+      "id": "aspen-wp-017",
+      "title": "Aspen — pure, no branches #17",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "aspen",
+        "Populus tremula",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_aspen.json",
+      "file_type": "batch",
+      "id": "aspen-wp-018",
+      "title": "Aspen — pure, no branches #18",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "aspen",
+        "Populus tremula",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_aspen.json",
+      "file_type": "batch",
+      "id": "aspen-wp-019",
+      "title": "Aspen — pure, no branches #19",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "aspen",
+        "Populus tremula",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_aspen.json",
+      "file_type": "batch",
+      "id": "aspen-wp-020",
+      "title": "Aspen — pure, no branches #20",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "aspen",
+        "Populus tremula",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_aspen.json",
+      "file_type": "batch",
+      "id": "aspen-wp-021",
+      "title": "Aspen — pure, no branches #21",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "aspen",
+        "Populus tremula",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_aspen.json",
+      "file_type": "batch",
+      "id": "aspen-wp-022",
+      "title": "Aspen — pure, no branches #22",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "aspen",
+        "Populus tremula",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_aspen.json",
+      "file_type": "batch",
+      "id": "aspen-wp-023",
+      "title": "Aspen — pure, no branches #23",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "aspen",
+        "Populus tremula",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_aspen.json",
+      "file_type": "batch",
+      "id": "aspen-wp-024",
+      "title": "Aspen — pure, no branches #24",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "aspen",
+        "Populus tremula",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_aspen.json",
+      "file_type": "batch",
+      "id": "aspen-wp-025",
+      "title": "Aspen — pure, no branches #25",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "aspen",
+        "Populus tremula",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_aspen.json",
+      "file_type": "batch",
+      "id": "aspen-wp-026",
+      "title": "Aspen — pure, no branches #26",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "aspen",
+        "Populus tremula",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_aspen.json",
+      "file_type": "batch",
+      "id": "aspen-wp-027",
+      "title": "Aspen — pure, no branches #27",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "aspen",
+        "Populus tremula",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_aspen.json",
+      "file_type": "batch",
+      "id": "aspen-wp-028",
+      "title": "Aspen — pure, no branches #28",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "aspen",
+        "Populus tremula",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_aspen.json",
+      "file_type": "batch",
+      "id": "aspen-wp-029",
+      "title": "Aspen — pure, no branches #29",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "aspen",
+        "Populus tremula",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_aspen.json",
+      "file_type": "batch",
+      "id": "aspen-wp-030",
+      "title": "Aspen — pure, no branches #30",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "aspen",
+        "Populus tremula",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_aspen.json",
+      "file_type": "batch",
+      "id": "aspen-wp-031",
+      "title": "Aspen — pure, no branches #31",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "aspen",
+        "Populus tremula",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_aspen.json",
+      "file_type": "batch",
+      "id": "aspen-wp-032",
+      "title": "Aspen — pure, no branches #32",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "aspen",
+        "Populus tremula",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_aspen.json",
+      "file_type": "batch",
+      "id": "aspen-wp-033",
+      "title": "Aspen — pure, no branches #33",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "aspen",
+        "Populus tremula",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_aspen.json",
+      "file_type": "batch",
+      "id": "aspen-wp-034",
+      "title": "Aspen — pure, no branches #34",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "aspen",
+        "Populus tremula",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_aspen.json",
+      "file_type": "batch",
+      "id": "aspen-wp-035",
+      "title": "Aspen — pure, no branches #35",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "aspen",
+        "Populus tremula",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_aspen.json",
+      "file_type": "batch",
+      "id": "aspen-wp-036",
+      "title": "Aspen — pure, no branches #36",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "aspen",
+        "Populus tremula",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_aspen.json",
+      "file_type": "batch",
+      "id": "aspen-wp-037",
+      "title": "Aspen — pure, no branches #37",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "aspen",
+        "Populus tremula",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_aspen.json",
+      "file_type": "batch",
+      "id": "aspen-wp-038",
+      "title": "Aspen — pure, no branches #38",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "aspen",
+        "Populus tremula",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_birch.json",
+      "file_type": "batch",
+      "id": "birch-wb-001",
+      "title": "Birch — with branches #1",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "birch",
+        "Betula",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_birch.json",
+      "file_type": "batch",
+      "id": "birch-wb-002",
+      "title": "Birch — with branches #2",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "birch",
+        "Betula",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_birch.json",
+      "file_type": "batch",
+      "id": "birch-wb-003",
+      "title": "Birch — with branches #3",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "birch",
+        "Betula",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_birch.json",
+      "file_type": "batch",
+      "id": "birch-wb-004",
+      "title": "Birch — with branches #4",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "birch",
+        "Betula",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_birch.json",
+      "file_type": "batch",
+      "id": "birch-wb-005",
+      "title": "Birch — with branches #5",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "birch",
+        "Betula",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_birch.json",
+      "file_type": "batch",
+      "id": "birch-wb-006",
+      "title": "Birch — with branches #6",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "birch",
+        "Betula",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_birch.json",
+      "file_type": "batch",
+      "id": "birch-wb-007",
+      "title": "Birch — with branches #7",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "birch",
+        "Betula",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_birch.json",
+      "file_type": "batch",
+      "id": "birch-wb-008",
+      "title": "Birch — with branches #8",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "birch",
+        "Betula",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_birch.json",
+      "file_type": "batch",
+      "id": "birch-wb-009",
+      "title": "Birch — with branches #9",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "birch",
+        "Betula",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_birch.json",
+      "file_type": "batch",
+      "id": "birch-wb-010",
+      "title": "Birch — with branches #10",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "birch",
+        "Betula",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_birch.json",
+      "file_type": "batch",
+      "id": "birch-wb-011",
+      "title": "Birch — with branches #11",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "birch",
+        "Betula",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_birch.json",
+      "file_type": "batch",
+      "id": "birch-wb-012",
+      "title": "Birch — with branches #12",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "birch",
+        "Betula",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_birch.json",
+      "file_type": "batch",
+      "id": "birch-wp-001",
+      "title": "Birch — pure, no branches #1",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "birch",
+        "Betula",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_birch.json",
+      "file_type": "batch",
+      "id": "birch-wp-002",
+      "title": "Birch — pure, no branches #2",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "birch",
+        "Betula",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_birch.json",
+      "file_type": "batch",
+      "id": "birch-wp-003",
+      "title": "Birch — pure, no branches #3",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "birch",
+        "Betula",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_birch.json",
+      "file_type": "batch",
+      "id": "birch-wp-004",
+      "title": "Birch — pure, no branches #4",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "birch",
+        "Betula",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_birch.json",
+      "file_type": "batch",
+      "id": "birch-wp-005",
+      "title": "Birch — pure, no branches #5",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "birch",
+        "Betula",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_birch.json",
+      "file_type": "batch",
+      "id": "birch-wp-006",
+      "title": "Birch — pure, no branches #6",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "birch",
+        "Betula",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_birch.json",
+      "file_type": "batch",
+      "id": "birch-wp-007",
+      "title": "Birch — pure, no branches #7",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "birch",
+        "Betula",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_birch.json",
+      "file_type": "batch",
+      "id": "birch-wp-008",
+      "title": "Birch — pure, no branches #8",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "birch",
+        "Betula",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_birch.json",
+      "file_type": "batch",
+      "id": "birch-wp-009",
+      "title": "Birch — pure, no branches #9",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "birch",
+        "Betula",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_birch.json",
+      "file_type": "batch",
+      "id": "birch-wp-010",
+      "title": "Birch — pure, no branches #10",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "birch",
+        "Betula",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_birch.json",
+      "file_type": "batch",
+      "id": "birch-wp-011",
+      "title": "Birch — pure, no branches #11",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "birch",
+        "Betula",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_birch.json",
+      "file_type": "batch",
+      "id": "birch-wp-012",
+      "title": "Birch — pure, no branches #12",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "birch",
+        "Betula",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wb-001",
+      "title": "Scots pine — with branches #1",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wb-002",
+      "title": "Scots pine — with branches #2",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wb-003",
+      "title": "Scots pine — with branches #3",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wb-004",
+      "title": "Scots pine — with branches #4",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wb-005",
+      "title": "Scots pine — with branches #5",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wb-006",
+      "title": "Scots pine — with branches #6",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wb-007",
+      "title": "Scots pine — with branches #7",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wb-008",
+      "title": "Scots pine — with branches #8",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wb-009",
+      "title": "Scots pine — with branches #9",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wb-010",
+      "title": "Scots pine — with branches #10",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wb-011",
+      "title": "Scots pine — with branches #11",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wb-012",
+      "title": "Scots pine — with branches #12",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wb-013",
+      "title": "Scots pine — with branches #13",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wb-014",
+      "title": "Scots pine — with branches #14",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wb-015",
+      "title": "Scots pine — with branches #15",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wb-016",
+      "title": "Scots pine — with branches #16",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wb-017",
+      "title": "Scots pine — with branches #17",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wb-018",
+      "title": "Scots pine — with branches #18",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wb-019",
+      "title": "Scots pine — with branches #19",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wb-020",
+      "title": "Scots pine — with branches #20",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wb-021",
+      "title": "Scots pine — with branches #21",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wb-022",
+      "title": "Scots pine — with branches #22",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wb-023",
+      "title": "Scots pine — with branches #23",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wb-024",
+      "title": "Scots pine — with branches #24",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wb-025",
+      "title": "Scots pine — with branches #25",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wb-026",
+      "title": "Scots pine — with branches #26",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wb-027",
+      "title": "Scots pine — with branches #27",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wb-028",
+      "title": "Scots pine — with branches #28",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wb-029",
+      "title": "Scots pine — with branches #29",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wb-030",
+      "title": "Scots pine — with branches #30",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wb-031",
+      "title": "Scots pine — with branches #31",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wb-032",
+      "title": "Scots pine — with branches #32",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wb-033",
+      "title": "Scots pine — with branches #33",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wb-034",
+      "title": "Scots pine — with branches #34",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wb-035",
+      "title": "Scots pine — with branches #35",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wb-036",
+      "title": "Scots pine — with branches #36",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wb-037",
+      "title": "Scots pine — with branches #37",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wb-038",
+      "title": "Scots pine — with branches #38",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wb-039",
+      "title": "Scots pine — with branches #39",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wb-040",
+      "title": "Scots pine — with branches #40",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wb-041",
+      "title": "Scots pine — with branches #41",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wb-042",
+      "title": "Scots pine — with branches #42",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wb-043",
+      "title": "Scots pine — with branches #43",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wb-044",
+      "title": "Scots pine — with branches #44",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wb-045",
+      "title": "Scots pine — with branches #45",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wb-046",
+      "title": "Scots pine — with branches #46",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wb-047",
+      "title": "Scots pine — with branches #47",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wb-048",
+      "title": "Scots pine — with branches #48",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wb-049",
+      "title": "Scots pine — with branches #49",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wb-050",
+      "title": "Scots pine — with branches #50",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wb-051",
+      "title": "Scots pine — with branches #51",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wp-001",
+      "title": "Scots pine — pure, no branches #1",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wp-002",
+      "title": "Scots pine — pure, no branches #2",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wp-003",
+      "title": "Scots pine — pure, no branches #3",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wp-004",
+      "title": "Scots pine — pure, no branches #4",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wp-005",
+      "title": "Scots pine — pure, no branches #5",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wp-006",
+      "title": "Scots pine — pure, no branches #6",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wp-007",
+      "title": "Scots pine — pure, no branches #7",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wp-008",
+      "title": "Scots pine — pure, no branches #8",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wp-009",
+      "title": "Scots pine — pure, no branches #9",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wp-010",
+      "title": "Scots pine — pure, no branches #10",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wp-011",
+      "title": "Scots pine — pure, no branches #11",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wp-012",
+      "title": "Scots pine — pure, no branches #12",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wp-013",
+      "title": "Scots pine — pure, no branches #13",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wp-014",
+      "title": "Scots pine — pure, no branches #14",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wp-015",
+      "title": "Scots pine — pure, no branches #15",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wp-016",
+      "title": "Scots pine — pure, no branches #16",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wp-017",
+      "title": "Scots pine — pure, no branches #17",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wp-018",
+      "title": "Scots pine — pure, no branches #18",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wp-019",
+      "title": "Scots pine — pure, no branches #19",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wp-020",
+      "title": "Scots pine — pure, no branches #20",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wp-021",
+      "title": "Scots pine — pure, no branches #21",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wp-022",
+      "title": "Scots pine — pure, no branches #22",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wp-023",
+      "title": "Scots pine — pure, no branches #23",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wp-024",
+      "title": "Scots pine — pure, no branches #24",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wp-025",
+      "title": "Scots pine — pure, no branches #25",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wp-026",
+      "title": "Scots pine — pure, no branches #26",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wp-027",
+      "title": "Scots pine — pure, no branches #27",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wp-028",
+      "title": "Scots pine — pure, no branches #28",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wp-029",
+      "title": "Scots pine — pure, no branches #29",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wp-030",
+      "title": "Scots pine — pure, no branches #30",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wp-031",
+      "title": "Scots pine — pure, no branches #31",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wp-032",
+      "title": "Scots pine — pure, no branches #32",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wp-033",
+      "title": "Scots pine — pure, no branches #33",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wp-034",
+      "title": "Scots pine — pure, no branches #34",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wp-035",
+      "title": "Scots pine — pure, no branches #35",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wp-036",
+      "title": "Scots pine — pure, no branches #36",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wp-037",
+      "title": "Scots pine — pure, no branches #37",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wp-038",
+      "title": "Scots pine — pure, no branches #38",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wp-039",
+      "title": "Scots pine — pure, no branches #39",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wp-040",
+      "title": "Scots pine — pure, no branches #40",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wp-041",
+      "title": "Scots pine — pure, no branches #41",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wp-042",
+      "title": "Scots pine — pure, no branches #42",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wp-043",
+      "title": "Scots pine — pure, no branches #43",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_pine.json",
+      "file_type": "batch",
+      "id": "pine-wp-044",
+      "title": "Scots pine — pure, no branches #44",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "pine",
+        "Pinus sylvestris",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_spruce.json",
+      "file_type": "batch",
+      "id": "spruce-wb-001",
+      "title": "Norway spruce — with branches #1",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "spruce",
+        "Picea abies",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_spruce.json",
+      "file_type": "batch",
+      "id": "spruce-wb-002",
+      "title": "Norway spruce — with branches #2",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "spruce",
+        "Picea abies",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_spruce.json",
+      "file_type": "batch",
+      "id": "spruce-wb-003",
+      "title": "Norway spruce — with branches #3",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "spruce",
+        "Picea abies",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_spruce.json",
+      "file_type": "batch",
+      "id": "spruce-wb-004",
+      "title": "Norway spruce — with branches #4",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "spruce",
+        "Picea abies",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_spruce.json",
+      "file_type": "batch",
+      "id": "spruce-wb-005",
+      "title": "Norway spruce — with branches #5",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "spruce",
+        "Picea abies",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_spruce.json",
+      "file_type": "batch",
+      "id": "spruce-wb-006",
+      "title": "Norway spruce — with branches #6",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "spruce",
+        "Picea abies",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_spruce.json",
+      "file_type": "batch",
+      "id": "spruce-wb-007",
+      "title": "Norway spruce — with branches #7",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "spruce",
+        "Picea abies",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_spruce.json",
+      "file_type": "batch",
+      "id": "spruce-wb-008",
+      "title": "Norway spruce — with branches #8",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "spruce",
+        "Picea abies",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_spruce.json",
+      "file_type": "batch",
+      "id": "spruce-wb-009",
+      "title": "Norway spruce — with branches #9",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "spruce",
+        "Picea abies",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_spruce.json",
+      "file_type": "batch",
+      "id": "spruce-wb-010",
+      "title": "Norway spruce — with branches #10",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "spruce",
+        "Picea abies",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_spruce.json",
+      "file_type": "batch",
+      "id": "spruce-wb-011",
+      "title": "Norway spruce — with branches #11",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "spruce",
+        "Picea abies",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_spruce.json",
+      "file_type": "batch",
+      "id": "spruce-wb-012",
+      "title": "Norway spruce — with branches #12",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "spruce",
+        "Picea abies",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_spruce.json",
+      "file_type": "batch",
+      "id": "spruce-wb-013",
+      "title": "Norway spruce — with branches #13",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "spruce",
+        "Picea abies",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_spruce.json",
+      "file_type": "batch",
+      "id": "spruce-wb-014",
+      "title": "Norway spruce — with branches #14",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "spruce",
+        "Picea abies",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_spruce.json",
+      "file_type": "batch",
+      "id": "spruce-wb-015",
+      "title": "Norway spruce — with branches #15",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "spruce",
+        "Picea abies",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_spruce.json",
+      "file_type": "batch",
+      "id": "spruce-wb-016",
+      "title": "Norway spruce — with branches #16",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "spruce",
+        "Picea abies",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_spruce.json",
+      "file_type": "batch",
+      "id": "spruce-wb-017",
+      "title": "Norway spruce — with branches #17",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "spruce",
+        "Picea abies",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_spruce.json",
+      "file_type": "batch",
+      "id": "spruce-wb-018",
+      "title": "Norway spruce — with branches #18",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "spruce",
+        "Picea abies",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_spruce.json",
+      "file_type": "batch",
+      "id": "spruce-wb-019",
+      "title": "Norway spruce — with branches #19",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "spruce",
+        "Picea abies",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_spruce.json",
+      "file_type": "batch",
+      "id": "spruce-wb-020",
+      "title": "Norway spruce — with branches #20",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "spruce",
+        "Picea abies",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_spruce.json",
+      "file_type": "batch",
+      "id": "spruce-wb-021",
+      "title": "Norway spruce — with branches #21",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "spruce",
+        "Picea abies",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_spruce.json",
+      "file_type": "batch",
+      "id": "spruce-wb-022",
+      "title": "Norway spruce — with branches #22",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "spruce",
+        "Picea abies",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_spruce.json",
+      "file_type": "batch",
+      "id": "spruce-wb-023",
+      "title": "Norway spruce — with branches #23",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "spruce",
+        "Picea abies",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_spruce.json",
+      "file_type": "batch",
+      "id": "spruce-wb-024",
+      "title": "Norway spruce — with branches #24",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "spruce",
+        "Picea abies",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_spruce.json",
+      "file_type": "batch",
+      "id": "spruce-wb-025",
+      "title": "Norway spruce — with branches #25",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "spruce",
+        "Picea abies",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_spruce.json",
+      "file_type": "batch",
+      "id": "spruce-wb-026",
+      "title": "Norway spruce — with branches #26",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "spruce",
+        "Picea abies",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_spruce.json",
+      "file_type": "batch",
+      "id": "spruce-wb-027",
+      "title": "Norway spruce — with branches #27",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "spruce",
+        "Picea abies",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_spruce.json",
+      "file_type": "batch",
+      "id": "spruce-wb-028",
+      "title": "Norway spruce — with branches #28",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "spruce",
+        "Picea abies",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_spruce.json",
+      "file_type": "batch",
+      "id": "spruce-wb-029",
+      "title": "Norway spruce — with branches #29",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "spruce",
+        "Picea abies",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_spruce.json",
+      "file_type": "batch",
+      "id": "spruce-wb-030",
+      "title": "Norway spruce — with branches #30",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "spruce",
+        "Picea abies",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_spruce.json",
+      "file_type": "batch",
+      "id": "spruce-wb-031",
+      "title": "Norway spruce — with branches #31",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "spruce",
+        "Picea abies",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_spruce.json",
+      "file_type": "batch",
+      "id": "spruce-wb-032",
+      "title": "Norway spruce — with branches #32",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "spruce",
+        "Picea abies",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_spruce.json",
+      "file_type": "batch",
+      "id": "spruce-wb-033",
+      "title": "Norway spruce — with branches #33",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "spruce",
+        "Picea abies",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_spruce.json",
+      "file_type": "batch",
+      "id": "spruce-wb-034",
+      "title": "Norway spruce — with branches #34",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "spruce",
+        "Picea abies",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_spruce.json",
+      "file_type": "batch",
+      "id": "spruce-wb-035",
+      "title": "Norway spruce — with branches #35",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "spruce",
+        "Picea abies",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_spruce.json",
+      "file_type": "batch",
+      "id": "spruce-wb-036",
+      "title": "Norway spruce — with branches #36",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "spruce",
+        "Picea abies",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_spruce.json",
+      "file_type": "batch",
+      "id": "spruce-wb-037",
+      "title": "Norway spruce — with branches #37",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "spruce",
+        "Picea abies",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_spruce.json",
+      "file_type": "batch",
+      "id": "spruce-wb-038",
+      "title": "Norway spruce — with branches #38",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "spruce",
+        "Picea abies",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_spruce.json",
+      "file_type": "batch",
+      "id": "spruce-wb-039",
+      "title": "Norway spruce — with branches #39",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "spruce",
+        "Picea abies",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_spruce.json",
+      "file_type": "batch",
+      "id": "spruce-wb-040",
+      "title": "Norway spruce — with branches #40",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "spruce",
+        "Picea abies",
+        "knotty"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_spruce.json",
+      "file_type": "batch",
+      "id": "spruce-wp-001",
+      "title": "Norway spruce — pure, no branches #1",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "spruce",
+        "Picea abies",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_spruce.json",
+      "file_type": "batch",
+      "id": "spruce-wp-002",
+      "title": "Norway spruce — pure, no branches #2",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "spruce",
+        "Picea abies",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_spruce.json",
+      "file_type": "batch",
+      "id": "spruce-wp-003",
+      "title": "Norway spruce — pure, no branches #3",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "spruce",
+        "Picea abies",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_spruce.json",
+      "file_type": "batch",
+      "id": "spruce-wp-004",
+      "title": "Norway spruce — pure, no branches #4",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "spruce",
+        "Picea abies",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_spruce.json",
+      "file_type": "batch",
+      "id": "spruce-wp-005",
+      "title": "Norway spruce — pure, no branches #5",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "spruce",
+        "Picea abies",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_spruce.json",
+      "file_type": "batch",
+      "id": "spruce-wp-006",
+      "title": "Norway spruce — pure, no branches #6",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "spruce",
+        "Picea abies",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_spruce.json",
+      "file_type": "batch",
+      "id": "spruce-wp-007",
+      "title": "Norway spruce — pure, no branches #7",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "spruce",
+        "Picea abies",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_spruce.json",
+      "file_type": "batch",
+      "id": "spruce-wp-008",
+      "title": "Norway spruce — pure, no branches #8",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "spruce",
+        "Picea abies",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_spruce.json",
+      "file_type": "batch",
+      "id": "spruce-wp-009",
+      "title": "Norway spruce — pure, no branches #9",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "spruce",
+        "Picea abies",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_spruce.json",
+      "file_type": "batch",
+      "id": "spruce-wp-010",
+      "title": "Norway spruce — pure, no branches #10",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "spruce",
+        "Picea abies",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_spruce.json",
+      "file_type": "batch",
+      "id": "spruce-wp-011",
+      "title": "Norway spruce — pure, no branches #11",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "spruce",
+        "Picea abies",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_spruce.json",
+      "file_type": "batch",
+      "id": "spruce-wp-012",
+      "title": "Norway spruce — pure, no branches #12",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "spruce",
+        "Picea abies",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_spruce.json",
+      "file_type": "batch",
+      "id": "spruce-wp-013",
+      "title": "Norway spruce — pure, no branches #13",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "spruce",
+        "Picea abies",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_spruce.json",
+      "file_type": "batch",
+      "id": "spruce-wp-014",
+      "title": "Norway spruce — pure, no branches #14",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "spruce",
+        "Picea abies",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_spruce.json",
+      "file_type": "batch",
+      "id": "spruce-wp-015",
+      "title": "Norway spruce — pure, no branches #15",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "spruce",
+        "Picea abies",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_spruce.json",
+      "file_type": "batch",
+      "id": "spruce-wp-016",
+      "title": "Norway spruce — pure, no branches #16",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "spruce",
+        "Picea abies",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_spruce.json",
+      "file_type": "batch",
+      "id": "spruce-wp-017",
+      "title": "Norway spruce — pure, no branches #17",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "spruce",
+        "Picea abies",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_spruce.json",
+      "file_type": "batch",
+      "id": "spruce-wp-018",
+      "title": "Norway spruce — pure, no branches #18",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "spruce",
+        "Picea abies",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_spruce.json",
+      "file_type": "batch",
+      "id": "spruce-wp-019",
+      "title": "Norway spruce — pure, no branches #19",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "spruce",
+        "Picea abies",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_spruce.json",
+      "file_type": "batch",
+      "id": "spruce-wp-020",
+      "title": "Norway spruce — pure, no branches #20",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "spruce",
+        "Picea abies",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_spruce.json",
+      "file_type": "batch",
+      "id": "spruce-wp-021",
+      "title": "Norway spruce — pure, no branches #21",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "spruce",
+        "Picea abies",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_spruce.json",
+      "file_type": "batch",
+      "id": "spruce-wp-022",
+      "title": "Norway spruce — pure, no branches #22",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "spruce",
+        "Picea abies",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_spruce.json",
+      "file_type": "batch",
+      "id": "spruce-wp-023",
+      "title": "Norway spruce — pure, no branches #23",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "spruce",
+        "Picea abies",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_spruce.json",
+      "file_type": "batch",
+      "id": "spruce-wp-024",
+      "title": "Norway spruce — pure, no branches #24",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "spruce",
+        "Picea abies",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_spruce.json",
+      "file_type": "batch",
+      "id": "spruce-wp-025",
+      "title": "Norway spruce — pure, no branches #25",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "spruce",
+        "Picea abies",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_spruce.json",
+      "file_type": "batch",
+      "id": "spruce-wp-026",
+      "title": "Norway spruce — pure, no branches #26",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "spruce",
+        "Picea abies",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_spruce.json",
+      "file_type": "batch",
+      "id": "spruce-wp-027",
+      "title": "Norway spruce — pure, no branches #27",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "spruce",
+        "Picea abies",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_spruce.json",
+      "file_type": "batch",
+      "id": "spruce-wp-028",
+      "title": "Norway spruce — pure, no branches #28",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "spruce",
+        "Picea abies",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_spruce.json",
+      "file_type": "batch",
+      "id": "spruce-wp-029",
+      "title": "Norway spruce — pure, no branches #29",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "spruce",
+        "Picea abies",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_spruce.json",
+      "file_type": "batch",
+      "id": "spruce-wp-030",
+      "title": "Norway spruce — pure, no branches #30",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "spruce",
+        "Picea abies",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_spruce.json",
+      "file_type": "batch",
+      "id": "spruce-wp-031",
+      "title": "Norway spruce — pure, no branches #31",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "spruce",
+        "Picea abies",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_spruce.json",
+      "file_type": "batch",
+      "id": "spruce-wp-032",
+      "title": "Norway spruce — pure, no branches #32",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "spruce",
+        "Picea abies",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_spruce.json",
+      "file_type": "batch",
+      "id": "spruce-wp-033",
+      "title": "Norway spruce — pure, no branches #33",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "spruce",
+        "Picea abies",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_spruce.json",
+      "file_type": "batch",
+      "id": "spruce-wp-034",
+      "title": "Norway spruce — pure, no branches #34",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "spruce",
+        "Picea abies",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
+    },
+    {
+      "path": "spectra/wood/uef_lumber_spruce.json",
+      "file_type": "batch",
+      "id": "spruce-wp-035",
+      "title": "Norway spruce — pure, no branches #35",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        2700.0
+      ],
+      "n_points": 2321,
+      "date": "1994-10-10",
+      "tags": [
+        "wood",
+        "lumber",
+        "timber",
+        "sawn",
+        "spruce",
+        "Picea abies",
+        "clear"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Hiltunen. Non-commercial use only. Source: https://sites.uef.fi/spectral/lumber-spectra/"
     }
   ]
 }
