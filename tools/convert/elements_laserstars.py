@@ -29,10 +29,11 @@ from pathlib import Path
 MEASUREMENT_DATE = "1981-01-01"
 
 COPYRIGHT = (
-    "Data courtesy of the NASA Astronomical Data Center, the National Space "
-    "Science Data Center, and the World Data Center A for Rockets and Satellites. "
-    "Source: https://laserstars.org/data/elements/ "
-    "(applet by John Talbot; underlying data: Reader & Corliss, NSRDS-NBS 68, 1981)"
+    "Public domain. Original data: Reader J. and Corliss Ch.H., "
+    "'Line Spectra of the Elements,' NSRDS-NBS 68 (1981), "
+    "a publication of the US National Bureau of Standards (now NIST). "
+    "Digitised as NASA Astronomical Data Center catalog A6016. "
+    "Source: https://laserstars.org/data/elements/"
 )
 
 ELEMENTS = [
