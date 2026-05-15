@@ -1,7 +1,7 @@
 {
   "schema_version": "1",
   "generated": "2026-05-15",
-  "count": 5569,
+  "count": 5788,
   "spectra": [
     {
       "path": "spectra/candies/uef_dyes.json",
@@ -113672,6 +113672,4386 @@
         "forest"
       ],
       "copyright": "© University of Eastern Finland (UEF) / Raimo Silvennoinen. Non-commercial use only. Source: https://sites.uef.fi/spectral/forest-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "green-leaf-leskenlehti",
+      "title": "green leaf (leskenlehti)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "yellow-flower-keltano",
+      "title": "yellow flower (keltano)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "green-leaf-keltano-01",
+      "title": "green leaf (keltano)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "yellow-flower-kannusruoho-01",
+      "title": "yellow flower (kannusruoho)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "yellow-flower-kannusruoho-02",
+      "title": "yellow flower (kannusruoho)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "gray-dry-flower-pelto-ohake",
+      "title": "gray dry flower (pelto-ohake)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "violet-flower-pelto-ohake",
+      "title": "violet flower (pelto-ohake)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "green-leaf-pelto-ohake",
+      "title": "green leaf (pelto-ohake)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "violet-flower-alsikeapila",
+      "title": "violet flower (alsikeapila)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "green-leaf-alsikeapila",
+      "title": "green leaf (alsikeapila)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "brown-dry-leaf-hevonhierakka",
+      "title": "brown dry leaf (hevonhierakka)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "brown-dry-flower-hevonhierakka",
+      "title": "brown dry flower (hevonhierakka)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "green-leaf-koristeherukka",
+      "title": "green leaf (koristeherukka)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "red-berry-koristeherukka",
+      "title": "red berry (koristeherukka)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "red-leaf-koristeherukka",
+      "title": "red leaf (koristeherukka)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "blue-flower-hiidenvirna",
+      "title": "blue flower (hiidenvirna)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "yellow-flower-voikukka",
+      "title": "yellow flower (voikukka)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "green-rod-voikukka",
+      "title": "green rod (voikukka)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "green-leaf-voikukka",
+      "title": "green leaf (voikukka)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "yellow-flower-niittyleinikki",
+      "title": "yellow flower (niittyleinikki)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "white-petal-ojakaersaemoe",
+      "title": "white petal (ojakaersaemoe)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "white-flower-petunia-01",
+      "title": "white flower (petunia)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "green-rod-petunia",
+      "title": "green rod (petunia)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "red-flower-petunia",
+      "title": "red flower (petunia)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "yellow-flower-pietaryrtti",
+      "title": "yellow flower (pietaryrtti)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "white-petal-peltosaunio",
+      "title": "white petal (peltosaunio)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "yellow-flower-peltosaunio",
+      "title": "yellow flower (peltosaunio)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "green-leaf-poimulehti-01",
+      "title": "green leaf (poimulehti)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "brown-dry-leaf-poimulehti-01",
+      "title": "brown dry leaf (poimulehti)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "violet-flower-harakankello",
+      "title": "violet flower (harakankello)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "white-petal-siankaersaemoe",
+      "title": "white petal (siankaersaemoe)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "violet-flower-niittyhumala",
+      "title": "violet flower (niittyhumala)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "green-leaf-niittyhumala",
+      "title": "green leaf (niittyhumala)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "green-leaf-paju-01",
+      "title": "green leaf (paju)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "green-leaf-hopeapaju",
+      "title": "green leaf (hopeapaju)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "violet-flower-maitohorsma",
+      "title": "violet flower (maitohorsma)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "green-leaf-maitohorsma",
+      "title": "green leaf (maitohorsma)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "green-leaf-lehmus",
+      "title": "green leaf (lehmus)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "green-flower-lehmus-linden",
+      "title": "green flower (lehmus=linden)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "yellow-petal-lehmus",
+      "title": "yellow petal (lehmus)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "green-leaf-pihlaja-01",
+      "title": "green leaf (pihlaja)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "orange-berry-pihlaja-01",
+      "title": "orange berry (pihlaja)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "green-leaf-kehaekukka",
+      "title": "green leaf (kehaekukka)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "orange-flower-kehaekukka",
+      "title": "orange flower (kehaekukka)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "brown-rod-uuden-guinean-liisa",
+      "title": "brown rod (uuden guinean liisa)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "green-leaf-uuden-guinean-liisa",
+      "title": "green leaf (uuden guinean liisa)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "red-flower-uuden-guinean-liisa",
+      "title": "red flower (uuden guinean liisa)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "violet-flower-orvokki-01",
+      "title": "violet flower (orvokki)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "green-leaf-orvokki-01",
+      "title": "green leaf (orvokki)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "violet-flower-akilleija",
+      "title": "violet flower (akilleija)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "green-leaf-akilleija",
+      "title": "green leaf (akilleija)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "yellow-flower-suikeroalpi",
+      "title": "yellow flower (suikeroalpi)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "green-leaf-suikeroalpi",
+      "title": "green leaf (suikeroalpi)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "violet-flower-kissankello",
+      "title": "violet flower (kissankello)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "brown-dry-flower-kissankello",
+      "title": "brown dry flower (kissankello)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "light-red-flower-lupiini",
+      "title": "light red flower (lupiini)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "brown-dry-flower-lupiini",
+      "title": "brown dry flower (lupiini)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "violet-flower-lupiini-01",
+      "title": "violet flower (lupiini)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "violet-flower-lupiini-02",
+      "title": "violet flower (lupiini)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "blue-flower-kurkkuyrtti",
+      "title": "blue flower (kurkkuyrtti)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "green-leaf-kurkkuyrtti",
+      "title": "green leaf (kurkkuyrtti)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "red-flower-hevosminttu",
+      "title": "red flower (hevosminttu)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "brown-dry-leaf-hevosminttu",
+      "title": "brown dry leaf (hevosminttu)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "green-rod-hevosminttu",
+      "title": "green rod (hevosminttu)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "green-leaf-nukkajaekkaerae",
+      "title": "green leaf (nukkajaekkaerae)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "green-rod-nukkajaekkaerae",
+      "title": "green rod (nukkajaekkaerae)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "white-flower-nukkajaekkaerae",
+      "title": "white flower (nukkajaekkaerae)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "green-leaf-maksaruoho",
+      "title": "green leaf (maksaruoho)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "green-rod-maksaruoho",
+      "title": "green rod (maksaruoho)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "white-rod-inner-part-maksaruoho",
+      "title": "white rod, inner part (maksaruoho)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "blue-flower-ukonhattu",
+      "title": "blue flower (ukonhattu)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "green-leaf-ukonhattu",
+      "title": "green leaf (ukonhattu)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "yelllow-flower-pietaryrtti",
+      "title": "yelllow flower (pietaryrtti)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "blue-flower-sinisievikki",
+      "title": "blue flower (sinisievikki)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "white-petal-sinisievikki",
+      "title": "white petal (sinisievikki)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "yellow-flower-pensashanhikki",
+      "title": "yellow flower (pensashanhikki)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "yellow-sepal-pensashanhikki",
+      "title": "yellow sepal (pensashanhikki)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "blue-flower-iisoppi",
+      "title": "blue flower (iisoppi)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "red-flower-kurttulehtiruusu",
+      "title": "red flower (kurttulehtiruusu)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "green-leaf-pajuangervo",
+      "title": "green leaf (pajuangervo)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "red-flower-pajuangervo",
+      "title": "red flower (pajuangervo)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "yellow-flower-dalia",
+      "title": "yellow flower (dalia)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "red-flower-dalia",
+      "title": "red flower (dalia)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "red-flower-jaloangervo",
+      "title": "red flower (jaloangervo)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "red-flower-neilikka",
+      "title": "red flower (neilikka)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "red-petal-pelargonia",
+      "title": "red petal (pelargonia)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "white-petal-pelargonia",
+      "title": "white petal (pelargonia)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "white-petal-paeivaenkakkara",
+      "title": "white petal (paeivaenkakkara)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "yellow-flower-paeivaenkakkara",
+      "title": "yellow flower (paeivaenkakkara)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "green-leaf-paeivaenkakkara",
+      "title": "green leaf (paeivaenkakkara)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "violet-flower-punataehkae",
+      "title": "violet flower (punataehkae)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "red-flower-talvio",
+      "title": "red flower (talvio)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "green-leaf-talvio-01",
+      "title": "green leaf (talvio)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "green-leaf-talvio-02",
+      "title": "green leaf (talvio)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "blue-flower-lobelia-dortmanna",
+      "title": "blue flower (lobelia dortmanna)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "blue-flower-malvikki",
+      "title": "blue flower (malvikki)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "green-leaf-malvikki",
+      "title": "green leaf (malvikki)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "red-flower-malvikki-01",
+      "title": "red flower (malvikki)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "red-flower-malvikki-02",
+      "title": "red flower (malvikki)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "red-pale-flower-ruusu",
+      "title": "red, pale flower (ruusu)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "red-dark-flower-ruusu",
+      "title": "red, dark flower (ruusu)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "green-sepal-ruusu",
+      "title": "green sepal (ruusu)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "white-flower-ruusu",
+      "title": "white flower (ruusu)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "red-flower-unikko",
+      "title": "red flower (unikko)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "green-lichen-peltigeracaniina-nahkajaekaelae",
+      "title": "green lichen (peltigeracaniina nahkajaekaelae)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "brown-lichen-peltigeracaniina-nahkajaekaelae",
+      "title": "brown lichen (peltigeracaniina nahkajaekaelae)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "white-lichen-peltigeracaniina",
+      "title": "white lichen (peltigeracaniina)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "reddish-brown-leaf-haapa",
+      "title": "reddish brown leaf (haapa)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "red-leaf-haapa-01",
+      "title": "red leaf (haapa)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "red-leaf-haapa-02",
+      "title": "red leaf (haapa)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "brown-dry-leaf-haapa",
+      "title": "brown dry leaf (haapa)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "reddish-yellow-leaf-haapa",
+      "title": "reddish yellow leaf (haapa)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "green-leaf-haapa",
+      "title": "green leaf (haapa)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "yellow-leaf-takiainen",
+      "title": "yellow leaf (takiainen)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "brown-leaf-takiainen",
+      "title": "brown leaf (takiainen)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "red-leaf-maitohorsma",
+      "title": "red leaf (maitohorsma)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "black-dry-leaf-maitohorsma",
+      "title": "black dry leaf (maitohorsma)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "green-leaf-piharatamo",
+      "title": "green leaf (piharatamo)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "red-leaf-pihlaja-01",
+      "title": "red leaf (pihlaja)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "reddish-yellow-leaf-pihlaja",
+      "title": "reddish yellow leaf (pihlaja)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "orange-berry-pihlaja-02",
+      "title": "orange berry (pihlaja)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "green-leaf-pihlaja-02",
+      "title": "green leaf (pihlaja)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "green-leaf-koivu-01",
+      "title": "green leaf (koivu)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "green-leaf-koivu-02",
+      "title": "green leaf (koivu)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "yellow-leaf-koivu-01",
+      "title": "yellow leaf (koivu)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "green-leaf-koristepensas-tuntematon",
+      "title": "green leaf (koristepensas, tuntematon)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "yellow-leaf-koristepensas-tuntematon-01",
+      "title": "yellow leaf (koristepensas, tuntematon)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "yellow-leaf-koristepensas-tuntematon-02",
+      "title": "yellow leaf (koristepensas, tuntematon)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "orange-leaf-koristepensas-tuntematon-01",
+      "title": "orange leaf (koristepensas, tuntematon)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "yellow-leaf-koristepensas-tuntematon-03",
+      "title": "yellow leaf (koristepensas, tuntematon)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "pink-siankaersaemoe",
+      "title": "pink (siankaersaemoe)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "violet-flower-petunia",
+      "title": "violet flower (petunia)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "white-flower-petunia-02",
+      "title": "white flower (petunia)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "white-flower-orvokki-01",
+      "title": "white flower (orvokki)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "blue-flower-orvokki",
+      "title": "blue flower (orvokki)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "violet-flower-orvokki-02",
+      "title": "violet flower (orvokki)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "yellow-flower-orvokki",
+      "title": "yellow flower (orvokki)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "brown-dead-flower-orvokki",
+      "title": "brown, dead flower (orvokki)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "white-flower-orvokki-02",
+      "title": "white flower (orvokki)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "green-leaf-orvokki-02",
+      "title": "green leaf (orvokki)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "red-berry-puolukka",
+      "title": "red berry (puolukka)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "yellow-petal-auringonkukka",
+      "title": "yellow petal (auringonkukka)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "green-sepal-auringonkukka",
+      "title": "green sepal (auringonkukka)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "green-berry-kataja",
+      "title": "green berry (kataja)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "white-flower-silmaeruoho",
+      "title": "white flower (silmaeruoho)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "yellow-leaf-maitohorsma",
+      "title": "yellow leaf (maitohorsma)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "brown-dry-leaf-maitohorsma",
+      "title": "brown dry leaf (maitohorsma)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "light-brown-dry-rod-koiranputki",
+      "title": "light brown dry rod (koiranputki)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "yellow-flower-linnunkaali",
+      "title": "yellow flower (linnunkaali)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "green-leaf-linnunkaali",
+      "title": "green leaf (linnunkaali)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "green-leaf-poimulehti-02",
+      "title": "green leaf (poimulehti)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "green-leaf-poimulehti-03",
+      "title": "green leaf (poimulehti)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "yellow-leaf-poimulehti",
+      "title": "yellow leaf (poimulehti)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "brown-dry-leaf-poimulehti-02",
+      "title": "brown dry leaf (poimulehti)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "orange-leaf-koristepensas-tuntematon-02",
+      "title": "orange leaf (koristepensas, tuntematon)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "green-leaf-kanukka",
+      "title": "green leaf (kanukka)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "red-leaf-kanukka",
+      "title": "red leaf (kanukka)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "reddish-brown-leaf-kanukka",
+      "title": "reddish brown leaf (kanukka)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "green-leaf-keltano-02",
+      "title": "green leaf (keltano)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "green-leaf-korvakeltano",
+      "title": "green leaf (korvakeltano)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "yellow-leaf-keltano",
+      "title": "yellow leaf (keltano)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "green-leaf-koiranheisi",
+      "title": "green leaf (koiranheisi)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "red-berry-koiranheisi",
+      "title": "red berry (koiranheisi)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "green-moss-nuotiosammal",
+      "title": "green moss (nuotiosammal)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "brown-moss-nuotiosammal",
+      "title": "brown moss (nuotiosammal)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "black-soil",
+      "title": "black soil",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "gray-lichen-nahkajaekaelae",
+      "title": "gray lichen (nahkajaekaelae)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "yellow-leaf-tuomi",
+      "title": "yellow leaf (tuomi)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "black-berry-tuomi",
+      "title": "black berry (tuomi)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "green-fruit-maenty",
+      "title": "green fruit (maenty)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "brown-fruit-maenty",
+      "title": "brown fruit (maenty)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "green-neadle-maenty",
+      "title": "green neadle (maenty)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "yellow-leaf-koivu-02",
+      "title": "yellow leaf (koivu)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "yellow-leaf-koivu-03",
+      "title": "yellow leaf (koivu)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "green-leaf-koivu-03",
+      "title": "green leaf (koivu)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "brown-dry-leaf-koivu-01",
+      "title": "brown, dry leaf (koivu)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "brown-dry-leaf-koivu-02",
+      "title": "brown, dry leaf (koivu)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "yellow-leaf-lehmus-01",
+      "title": "yellow leaf (lehmus)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "orange-leaf-lehmus",
+      "title": "orange leaf (lehmus)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "brown-dry-leaf-lehmus",
+      "title": "brown, dry leaf (lehmus)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "yellow-leaf-lehmus-02",
+      "title": "yellow leaf (lehmus)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "orange-leaf-mustikka",
+      "title": "orange leaf (mustikka)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "green-leaf-mustikka",
+      "title": "green leaf (mustikka)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "red-leaf-mustikka",
+      "title": "red leaf (mustikka)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "yellow-leaf-pihlaja",
+      "title": "yellow leaf (pihlaja)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "orange-leaf-pihlaja",
+      "title": "orange leaf (pihlaja)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "red-leaf-pihlaja-02",
+      "title": "red leaf (pihlaja)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "red-leaf-pihlaja-03",
+      "title": "red leaf (pihlaja)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "brown-leaf-pihlaja",
+      "title": "brown leaf (pihlaja)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "black-dry-leaf-pihlaja",
+      "title": "black, dry leaf (pihlaja)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "red-berry-pihlaja",
+      "title": "red berry (pihlaja)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "brown-old-berry-pihlaja",
+      "title": "brown, old berry (pihlaja)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "orange-leaf-terttuselja",
+      "title": "orange leaf (terttuselja)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "red-berry-terttuselja",
+      "title": "red berry (terttuselja)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "green-leaf-paju-02",
+      "title": "green leaf (paju)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "yellow-leaf-paju-01",
+      "title": "yellow leaf (paju)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "yellow-leaf-paju-02",
+      "title": "yellow leaf (paju)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "brown-leaf-paju",
+      "title": "brown leaf (paju)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "white-leaf-vadelma",
+      "title": "white leaf (vadelma)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "brown-leaf-vadelma",
+      "title": "brown leaf (vadelma)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "brown-old-leaf-voikukka",
+      "title": "brown, old leaf (voikukka)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "red-leaf-voikukka",
+      "title": "red leaf (voikukka)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "gray-dry-leaf-kielo",
+      "title": "gray, dry leaf (kielo)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "green-leaf-koristeviinimarjapensas",
+      "title": "green leaf (koristeviinimarjapensas)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "orange-leaf-koristeviinimarjapensas",
+      "title": "orange leaf (koristeviinimarjapensas)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "red-leaf-koristeviinimarjapensas",
+      "title": "red leaf (koristeviinimarjapensas)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "orange-leaf-koristepensas-tuntematon-03",
+      "title": "orange leaf (koristepensas, tuntematon)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "yellow-leaf-koristepensas-tuntematon-04",
+      "title": "yellow leaf (koristepensas, tuntematon)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "yellow-leaf-koristepensas-tuntematon-05",
+      "title": "yellow leaf (koristepensas, tuntematon)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "yellow-leaf-vaahtera-01",
+      "title": "yellow leaf (vaahtera)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "yellow-leaf-vaahtera-02",
+      "title": "yellow leaf (vaahtera)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "yellow-leaf-vaahtera-03",
+      "title": "yellow leaf (vaahtera)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "orange-leaf-vaahtera",
+      "title": "orange leaf (vaahtera)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "red-leaf-vaahtera",
+      "title": "red leaf (vaahtera)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "brown-leaf-vaahtera-01",
+      "title": "brown leaf (vaahtera)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "brown-leaf-vaahtera-02",
+      "title": "brown leaf (vaahtera)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "brown-leaf-vaahtera-03",
+      "title": "brown leaf (vaahtera)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "brown-leaf-vaahtera-04",
+      "title": "brown leaf (vaahtera)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
+    },
+    {
+      "path": "spectra/nature/uef_natural.json",
+      "file_type": "batch",
+      "id": "red-leaf-pihlaja-04",
+      "title": "red leaf (pihlaja)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 61,
+      "date": "1988-01-01",
+      "tags": [
+        "natural",
+        "vegetation",
+        "plant",
+        "aotf"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Esa Koivisto. Non-commercial use only. Source: https://sites.uef.fi/spectral/natural-colors/"
     }
   ]
 }
