@@ -1,8 +1,449 @@
 {
   "schema_version": "1",
   "generated": "2026-05-15",
-  "count": 4440,
+  "count": 4461,
   "spectra": [
+    {
+      "path": "spectra/candies/uef_dyes.json",
+      "file_type": "batch",
+      "id": "blank",
+      "title": "Pure water (blank reference)",
+      "measurement_type": "Absorbance",
+      "wavelength_range_nm": [
+        190.0,
+        820.0
+      ],
+      "n_points": 316,
+      "date": "1994-10-11",
+      "tags": [
+        "candy",
+        "food-dye",
+        "eu-e-number",
+        "absorbance",
+        "solution"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Haanpalo. Non-commercial use only. Source: https://sites.uef.fi/spectral/candy-colors/"
+    },
+    {
+      "path": "spectra/candies/uef_dyes.json",
+      "file_type": "batch",
+      "id": "E163-5",
+      "title": "E163 – Anthocyanins (5 µl / 10 ml H₂O)",
+      "measurement_type": "Absorbance",
+      "wavelength_range_nm": [
+        190.0,
+        820.0
+      ],
+      "n_points": 316,
+      "date": "1994-10-11",
+      "tags": [
+        "candy",
+        "food-dye",
+        "eu-e-number",
+        "absorbance",
+        "solution"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Haanpalo. Non-commercial use only. Source: https://sites.uef.fi/spectral/candy-colors/"
+    },
+    {
+      "path": "spectra/candies/uef_dyes.json",
+      "file_type": "batch",
+      "id": "E163-20",
+      "title": "E163 – Anthocyanins (20 µl / 10 ml H₂O)",
+      "measurement_type": "Absorbance",
+      "wavelength_range_nm": [
+        190.0,
+        820.0
+      ],
+      "n_points": 316,
+      "date": "1994-10-11",
+      "tags": [
+        "candy",
+        "food-dye",
+        "eu-e-number",
+        "absorbance",
+        "solution"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Haanpalo. Non-commercial use only. Source: https://sites.uef.fi/spectral/candy-colors/"
+    },
+    {
+      "path": "spectra/candies/uef_dyes.json",
+      "file_type": "batch",
+      "id": "E160a-5",
+      "title": "E160a – Beta-carotene (5 µl / 10 ml H₂O)",
+      "measurement_type": "Absorbance",
+      "wavelength_range_nm": [
+        190.0,
+        820.0
+      ],
+      "n_points": 316,
+      "date": "1994-10-11",
+      "tags": [
+        "candy",
+        "food-dye",
+        "eu-e-number",
+        "absorbance",
+        "solution"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Haanpalo. Non-commercial use only. Source: https://sites.uef.fi/spectral/candy-colors/"
+    },
+    {
+      "path": "spectra/candies/uef_dyes.json",
+      "file_type": "batch",
+      "id": "E160a-20",
+      "title": "E160a – Beta-carotene (20 µl / 10 ml H₂O)",
+      "measurement_type": "Absorbance",
+      "wavelength_range_nm": [
+        190.0,
+        820.0
+      ],
+      "n_points": 316,
+      "date": "1994-10-11",
+      "tags": [
+        "candy",
+        "food-dye",
+        "eu-e-number",
+        "absorbance",
+        "solution"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Haanpalo. Non-commercial use only. Source: https://sites.uef.fi/spectral/candy-colors/"
+    },
+    {
+      "path": "spectra/candies/uef_dyes.json",
+      "file_type": "batch",
+      "id": "E162-5",
+      "title": "E162 – Betanin (Beetroot Red) (5 µl / 10 ml H₂O)",
+      "measurement_type": "Absorbance",
+      "wavelength_range_nm": [
+        190.0,
+        820.0
+      ],
+      "n_points": 316,
+      "date": "1994-10-11",
+      "tags": [
+        "candy",
+        "food-dye",
+        "eu-e-number",
+        "absorbance",
+        "solution"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Haanpalo. Non-commercial use only. Source: https://sites.uef.fi/spectral/candy-colors/"
+    },
+    {
+      "path": "spectra/candies/uef_dyes.json",
+      "file_type": "batch",
+      "id": "E162-20",
+      "title": "E162 – Betanin (Beetroot Red) (20 µl / 10 ml H₂O)",
+      "measurement_type": "Absorbance",
+      "wavelength_range_nm": [
+        190.0,
+        820.0
+      ],
+      "n_points": 316,
+      "date": "1994-10-11",
+      "tags": [
+        "candy",
+        "food-dye",
+        "eu-e-number",
+        "absorbance",
+        "solution"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Haanpalo. Non-commercial use only. Source: https://sites.uef.fi/spectral/candy-colors/"
+    },
+    {
+      "path": "spectra/candies/uef_dyes.json",
+      "file_type": "batch",
+      "id": "E160e-5",
+      "title": "E160e – Beta-apo-8'-carotenic acid ethyl ester (5 µl / 10 ml H₂O)",
+      "measurement_type": "Absorbance",
+      "wavelength_range_nm": [
+        190.0,
+        820.0
+      ],
+      "n_points": 316,
+      "date": "1994-10-11",
+      "tags": [
+        "candy",
+        "food-dye",
+        "eu-e-number",
+        "absorbance",
+        "solution"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Haanpalo. Non-commercial use only. Source: https://sites.uef.fi/spectral/candy-colors/"
+    },
+    {
+      "path": "spectra/candies/uef_dyes.json",
+      "file_type": "batch",
+      "id": "E160e-20",
+      "title": "E160e – Beta-apo-8'-carotenic acid ethyl ester (20 µl / 10 ml H₂O)",
+      "measurement_type": "Absorbance",
+      "wavelength_range_nm": [
+        190.0,
+        820.0
+      ],
+      "n_points": 316,
+      "date": "1994-10-11",
+      "tags": [
+        "candy",
+        "food-dye",
+        "eu-e-number",
+        "absorbance",
+        "solution"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Haanpalo. Non-commercial use only. Source: https://sites.uef.fi/spectral/candy-colors/"
+    },
+    {
+      "path": "spectra/candies/uef_dyes.json",
+      "file_type": "batch",
+      "id": "E132-5",
+      "title": "E132 – Indigotine (5 µl / 10 ml H₂O)",
+      "measurement_type": "Absorbance",
+      "wavelength_range_nm": [
+        190.0,
+        820.0
+      ],
+      "n_points": 316,
+      "date": "1994-10-11",
+      "tags": [
+        "candy",
+        "food-dye",
+        "eu-e-number",
+        "absorbance",
+        "solution"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Haanpalo. Non-commercial use only. Source: https://sites.uef.fi/spectral/candy-colors/"
+    },
+    {
+      "path": "spectra/candies/uef_dyes.json",
+      "file_type": "batch",
+      "id": "E132-20",
+      "title": "E132 – Indigotine (20 µl / 10 ml H₂O)",
+      "measurement_type": "Absorbance",
+      "wavelength_range_nm": [
+        190.0,
+        820.0
+      ],
+      "n_points": 316,
+      "date": "1994-10-11",
+      "tags": [
+        "candy",
+        "food-dye",
+        "eu-e-number",
+        "absorbance",
+        "solution"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Haanpalo. Non-commercial use only. Source: https://sites.uef.fi/spectral/candy-colors/"
+    },
+    {
+      "path": "spectra/candies/uef_dyes.json",
+      "file_type": "batch",
+      "id": "E120-5",
+      "title": "E120 – Carmine (Cochineal) (5 µl / 10 ml H₂O)",
+      "measurement_type": "Absorbance",
+      "wavelength_range_nm": [
+        190.0,
+        820.0
+      ],
+      "n_points": 316,
+      "date": "1994-10-11",
+      "tags": [
+        "candy",
+        "food-dye",
+        "eu-e-number",
+        "absorbance",
+        "solution"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Haanpalo. Non-commercial use only. Source: https://sites.uef.fi/spectral/candy-colors/"
+    },
+    {
+      "path": "spectra/candies/uef_dyes.json",
+      "file_type": "batch",
+      "id": "E120-20",
+      "title": "E120 – Carmine (Cochineal) (20 µl / 10 ml H₂O)",
+      "measurement_type": "Absorbance",
+      "wavelength_range_nm": [
+        190.0,
+        820.0
+      ],
+      "n_points": 316,
+      "date": "1994-10-11",
+      "tags": [
+        "candy",
+        "food-dye",
+        "eu-e-number",
+        "absorbance",
+        "solution"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Haanpalo. Non-commercial use only. Source: https://sites.uef.fi/spectral/candy-colors/"
+    },
+    {
+      "path": "spectra/candies/uef_dyes.json",
+      "file_type": "batch",
+      "id": "E141-5",
+      "title": "E141 – Copper chlorophyllin (5 µl / 10 ml H₂O)",
+      "measurement_type": "Absorbance",
+      "wavelength_range_nm": [
+        190.0,
+        820.0
+      ],
+      "n_points": 316,
+      "date": "1994-10-11",
+      "tags": [
+        "candy",
+        "food-dye",
+        "eu-e-number",
+        "absorbance",
+        "solution"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Haanpalo. Non-commercial use only. Source: https://sites.uef.fi/spectral/candy-colors/"
+    },
+    {
+      "path": "spectra/candies/uef_dyes.json",
+      "file_type": "batch",
+      "id": "E141-20",
+      "title": "E141 – Copper chlorophyllin (20 µl / 10 ml H₂O)",
+      "measurement_type": "Absorbance",
+      "wavelength_range_nm": [
+        190.0,
+        820.0
+      ],
+      "n_points": 316,
+      "date": "1994-10-11",
+      "tags": [
+        "candy",
+        "food-dye",
+        "eu-e-number",
+        "absorbance",
+        "solution"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Haanpalo. Non-commercial use only. Source: https://sites.uef.fi/spectral/candy-colors/"
+    },
+    {
+      "path": "spectra/candies/uef_dyes.json",
+      "file_type": "batch",
+      "id": "E100-5",
+      "title": "E100 – Curcumin (5 µl / 10 ml H₂O)",
+      "measurement_type": "Absorbance",
+      "wavelength_range_nm": [
+        190.0,
+        820.0
+      ],
+      "n_points": 316,
+      "date": "1994-10-11",
+      "tags": [
+        "candy",
+        "food-dye",
+        "eu-e-number",
+        "absorbance",
+        "solution"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Haanpalo. Non-commercial use only. Source: https://sites.uef.fi/spectral/candy-colors/"
+    },
+    {
+      "path": "spectra/candies/uef_dyes.json",
+      "file_type": "batch",
+      "id": "E100-20",
+      "title": "E100 – Curcumin (20 µl / 10 ml H₂O)",
+      "measurement_type": "Absorbance",
+      "wavelength_range_nm": [
+        190.0,
+        820.0
+      ],
+      "n_points": 316,
+      "date": "1994-10-11",
+      "tags": [
+        "candy",
+        "food-dye",
+        "eu-e-number",
+        "absorbance",
+        "solution"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Haanpalo. Non-commercial use only. Source: https://sites.uef.fi/spectral/candy-colors/"
+    },
+    {
+      "path": "spectra/candies/uef_dyes.json",
+      "file_type": "batch",
+      "id": "E131-5",
+      "title": "E131 – Patent Blue V (5 µl / 10 ml H₂O)",
+      "measurement_type": "Absorbance",
+      "wavelength_range_nm": [
+        190.0,
+        820.0
+      ],
+      "n_points": 316,
+      "date": "1994-10-11",
+      "tags": [
+        "candy",
+        "food-dye",
+        "eu-e-number",
+        "absorbance",
+        "solution"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Haanpalo. Non-commercial use only. Source: https://sites.uef.fi/spectral/candy-colors/"
+    },
+    {
+      "path": "spectra/candies/uef_dyes.json",
+      "file_type": "batch",
+      "id": "E131-20",
+      "title": "E131 – Patent Blue V (20 µl / 10 ml H₂O)",
+      "measurement_type": "Absorbance",
+      "wavelength_range_nm": [
+        190.0,
+        820.0
+      ],
+      "n_points": 316,
+      "date": "1994-10-11",
+      "tags": [
+        "candy",
+        "food-dye",
+        "eu-e-number",
+        "absorbance",
+        "solution"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Haanpalo. Non-commercial use only. Source: https://sites.uef.fi/spectral/candy-colors/"
+    },
+    {
+      "path": "spectra/candies/uef_dyes.json",
+      "file_type": "batch",
+      "id": "E100E141-5",
+      "title": "E100E141 – E100 + E141 mixture (Curcumin + Copper chlorophyllin) (5 µl / 10 ml H₂O)",
+      "measurement_type": "Absorbance",
+      "wavelength_range_nm": [
+        190.0,
+        820.0
+      ],
+      "n_points": 316,
+      "date": "1994-10-11",
+      "tags": [
+        "candy",
+        "food-dye",
+        "eu-e-number",
+        "absorbance",
+        "solution"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Haanpalo. Non-commercial use only. Source: https://sites.uef.fi/spectral/candy-colors/"
+    },
+    {
+      "path": "spectra/candies/uef_dyes.json",
+      "file_type": "batch",
+      "id": "E100E141-20",
+      "title": "E100E141 – E100 + E141 mixture (Curcumin + Copper chlorophyllin) (20 µl / 10 ml H₂O)",
+      "measurement_type": "Absorbance",
+      "wavelength_range_nm": [
+        190.0,
+        820.0
+      ],
+      "n_points": 316,
+      "date": "1994-10-11",
+      "tags": [
+        "candy",
+        "food-dye",
+        "eu-e-number",
+        "absorbance",
+        "solution"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jouni Haanpalo. Non-commercial use only. Source: https://sites.uef.fi/spectral/candy-colors/"
+    },
     {
       "path": "spectra/charts/agfa_it8_7_2.json",
       "file_type": "batch",
