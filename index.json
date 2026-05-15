@@ -1,8 +1,5788 @@
 {
   "schema_version": "1",
   "generated": "2026-05-15",
-  "count": 4151,
+  "count": 4440,
   "spectra": [
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "A01",
+      "title": "Munsell 9.4 RP 3.2/.8",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "A02",
+      "title": "Munsell 0.1 R 3.2/2.0",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "A03",
+      "title": "Munsell 0.8 R 3.3/3.9",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "A04",
+      "title": "Munsell 1.0 R 3.4/4.8",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "A05",
+      "title": "Munsell 2.5 R 4.5/2.4",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "A06",
+      "title": "Munsell 2.1 R 4.5/4.6",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "A07",
+      "title": "Munsell 1.0 R 4.4/6.9",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "A08",
+      "title": "Munsell 1.5 R 4.5/9.2",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "A09",
+      "title": "Munsell 2.1 R 6.8/1.6",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "A10",
+      "title": "Munsell 2.4 R 7.0/2.4",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "A11",
+      "title": "Munsell 1.6 R 7.0/4.2",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "A12",
+      "title": "Munsell 1.5 R 7.0/5.5",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "A13",
+      "title": "Munsell 7.2 P 8.8/1.3",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "A14",
+      "title": "Munsell 7.1 P 9.0/1.3",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "A15",
+      "title": "Munsell 7.7 R 9.0/.8",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "A16",
+      "title": "Munsell 7.9 R 9.0/.3",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "A17",
+      "title": "Munsell 5.8 R 9.0/.9",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "A18",
+      "title": "Munsell 3.8 YR 8.9/.2",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "A19",
+      "title": "Munsell 1.6 P 8.9/.9",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "A20",
+      "title": "Munsell 8.0 P 2.8/.4",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "A21",
+      "title": "Munsell 3.9 R 3.3/4.1",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "A22",
+      "title": "Munsell 4.6 R 3.7/7.3",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "B01",
+      "title": "Munsell 2.1 YR 3.2/.6",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "B02",
+      "title": "Munsell 8.8 R 3.2/1.6",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "B03",
+      "title": "Munsell 7.0 R 3.4/3.0",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "B04",
+      "title": "Munsell 6.5 R 3.4/3.2",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "B05",
+      "title": "Munsell 1.5 YR 4.5/2.4",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "B06",
+      "title": "Munsell 10.0 R 4.5/4.4",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "B07",
+      "title": "Munsell 8.6 R 4.4/6.6",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "B08",
+      "title": "Munsell 7.5 R 4.5/8.5",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "B09",
+      "title": "Munsell 1.9 YR 7.0/1.1",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "B10",
+      "title": "Munsell 10.0 R 6.9/2.2",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "B11",
+      "title": "Munsell 9.1 R 7.0/3.6",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "B12",
+      "title": "Munsell 8.9 R 7.1/5.1",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "B13",
+      "title": "Munsell 7.2 B 8.5/2.3",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "B14",
+      "title": "Munsell 8.3 P 8.6/3.5",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "B15",
+      "title": "Munsell 2.5 Y 8.8/1.4",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "B16",
+      "title": "Munsell 5.0 GY 8.0/.1",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "B17",
+      "title": "Munsell 7.6 R 8.4/2.5",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "B18",
+      "title": "Munsell 10.0 GY 8.4/1.1",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "B19",
+      "title": "Munsell 7.7 PB 8.2/3.1",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "B20",
+      "title": "Munsell 3.4 R 3.0/1.6",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "B21",
+      "title": "Munsell 4.7 R 3.6/6.4",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "B22",
+      "title": "Munsell 8.3 R 5.9/4.0",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "C01",
+      "title": "Munsell 3.9 Y 3.5/.7",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "C02",
+      "title": "Munsell 0.7 Y 3.5/1.4",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "C03",
+      "title": "Munsell 9.3 YR 3.6/1.8",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "C04",
+      "title": "Munsell 8.9 YR 3.6/1.9",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "C05",
+      "title": "Munsell 0.4 Y 5.5/2.6",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "C06",
+      "title": "Munsell 9.0 YR 5.7/5.2",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "C07",
+      "title": "Munsell 8.1 YR 5.7/7.2",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "C08",
+      "title": "Munsell 6.7 YR 5.8/8.5",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "C09",
+      "title": "Munsell 9.5 YR 7.4/1.1",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "C10",
+      "title": "Munsell 8.0 YR 7.4/2.2",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "C11",
+      "title": "Munsell 6.6 YR 7.4/3.8",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "C12",
+      "title": "Munsell 6.6 YR 7.4/5.2",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "C13",
+      "title": "Munsell 6.0 B 8.4/3.2",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "C14",
+      "title": "Munsell 8.7 P 8.1/5.3",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "C15",
+      "title": "Munsell 3.3 Y 8.9/2.3",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "C16",
+      "title": "Munsell 4.4 YR 7.4/.1",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "C17",
+      "title": "Munsell 6.0 R 7.9/3.6",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "C18",
+      "title": "Munsell 1.1 G 8.0/2.2",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "C19",
+      "title": "Munsell 8.2 PB 7.5/4.3",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "C20",
+      "title": "Munsell 3.9 R 3.0/.7",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "C21",
+      "title": "Munsell 1.1 YR 5.4/5.8",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "C22",
+      "title": "Munsell 0.7 YR 6.7/2.3",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "D01",
+      "title": "Munsell 5.4 GY 3.5/.9",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "D02",
+      "title": "Munsell 2.0 GY 3.5/1.4",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "D03",
+      "title": "Munsell 1.2 GY 3.5/1.6",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "D04",
+      "title": "Munsell 1.5 GY 3.6/1.6",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "D05",
+      "title": "Munsell 9.8 Y 6.0/2.1",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "D06",
+      "title": "Munsell 7.9 Y 6.0/4.2",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "D07",
+      "title": "Munsell 8.3 Y 5.9/5.6",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "D08",
+      "title": "Munsell 7.8 Y 6.1/6.8",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "D09",
+      "title": "Munsell 0.2 GY 7.6/1.1",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "D10",
+      "title": "Munsell 9.3 Y 7.8/2.0",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "D11",
+      "title": "Munsell 0.2 GY 7.8/3.2",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "D12",
+      "title": "Munsell 9.3 Y 7.9/4.5",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "D13",
+      "title": "Munsell 5.2 B 7.9/4.2",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "D14",
+      "title": "Munsell 9.1 P 7.6/6.8",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "D15",
+      "title": "Munsell 3.7 Y 8.7/3.4",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "D16",
+      "title": "Munsell 6.1 RP 6.6/.1",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "D17",
+      "title": "Munsell 5.4 R 7.4/4.7",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "D18",
+      "title": "Munsell 1.9 G 7.7/3.3",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "D19",
+      "title": "Munsell 8.2 PB 6.9/5.4",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "D20",
+      "title": "Munsell 1.5 YR 4.7/5.0",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "D21",
+      "title": "Munsell 5.3 YR 5.8/1.5",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "D22",
+      "title": "Munsell 4.5 YR 7.1/1.6",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "E01",
+      "title": "Munsell 1.3 G 3.5/1.4",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "E02",
+      "title": "Munsell 9.8 GY 3.4/2.0",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "E03",
+      "title": "Munsell 9.6 GY 3.5/2.7",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "E04",
+      "title": "Munsell 9.9 GY 3.5/2.6",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "E05",
+      "title": "Munsell 8.3 GY 4.7/2.2",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "E06",
+      "title": "Munsell 7.3 GY 4.7/3.8",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "E07",
+      "title": "Munsell 7.4 GY 4.6/5.3",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "E08",
+      "title": "Munsell 7.8 GY 4.8/5.9",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "E09",
+      "title": "Munsell 7.7 GY 6.8/1.0",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "E10",
+      "title": "Munsell 7.5 GY 6.8/1.7",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "E11",
+      "title": "Munsell 6.9 GY 6.8/2.8",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "E12",
+      "title": "Munsell 6.9 GY 7.0/4.3",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "E13",
+      "title": "Munsell 4.8 B 7.5/5.5",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "E14",
+      "title": "Munsell 9.4 P 7.1/8.5",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "E15",
+      "title": "Munsell 3.8 Y 8.5/4.5",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "E16",
+      "title": "Munsell 1.1 PB 5.8/.2",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "E17",
+      "title": "Munsell 5.4 R 6.8/5.9",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "E18",
+      "title": "Munsell 2.4 G 7.2/4.5",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "E19",
+      "title": "Munsell 7.8 PB 6.1/6.6",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "E20",
+      "title": "Munsell 3.6 YR 5.3/8.0",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "E21",
+      "title": "Munsell 6.2 YR 5.2/5.6",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "E22",
+      "title": "Munsell 7.0 YR 6.2/4.3",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "F01",
+      "title": "Munsell 4.9 BG 3.0/1.1",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "F02",
+      "title": "Munsell 0.6 BG 3.0/1.7",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "F03",
+      "title": "Munsell 9.3 G 3.0/1.9",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "F04",
+      "title": "Munsell 9.6 G 3.1/1.8",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "F05",
+      "title": "Munsell 10.0 G 4.0/2.3",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "F06",
+      "title": "Munsell 7.9 G 3.9/3.6",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "F07",
+      "title": "Munsell 7.1 G 3.8/4.7",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "F08",
+      "title": "Munsell 6.0 G 4.0/5.7",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "F09",
+      "title": "Munsell 10.0 G 6.8/1.0",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "F10",
+      "title": "Munsell 9.7 G 6.8/1.4",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "F11",
+      "title": "Munsell 8.0 G 6.8/2.4",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "F12",
+      "title": "Munsell 7.1 G 6.9/3.6",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "F13",
+      "title": "Munsell 4.6 B 7.2/6.3",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "F14",
+      "title": "Munsell 9.6 P 6.8/9.6",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "F15",
+      "title": "Munsell 3.8 Y 8.5/5.7",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "F16",
+      "title": "Munsell 7.3 BG 5.3/.2",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "F17",
+      "title": "Munsell 5.9 R 6.4/6.4",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "F18",
+      "title": "Munsell 2.4 G 6.8/5.3",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "F19",
+      "title": "Munsell 7.7 PB 5.6/7.3",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "F20",
+      "title": "Munsell 9.3 YR 6.1/1.9",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "F21",
+      "title": "Munsell 9.2 YR 6.5/3.6",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "F22",
+      "title": "Munsell 9.3 YR 7.0/2.6",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "G01",
+      "title": "Munsell 9.1 BG 3.2/1.4",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "G02",
+      "title": "Munsell 8.0 BG 3.2/2.1",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "G03",
+      "title": "Munsell 7.2 BG 3.3/2.7",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "G04",
+      "title": "Munsell 7.0 BG 3.3/2.6",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "G05",
+      "title": "Munsell 7.5 BG 4.4/2.4",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "G06",
+      "title": "Munsell 6.7 BG 4.3/3.7",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "G07",
+      "title": "Munsell 7.2 BG 4.2/4.9",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "G08",
+      "title": "Munsell 7.0 BG 4.2/6.0",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "G09",
+      "title": "Munsell 7.5 BG 6.8/1.1",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "G10",
+      "title": "Munsell 6.7 BG 6.8/1.7",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "G11",
+      "title": "Munsell 6.6 BG 6.8/2.8",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "G12",
+      "title": "Munsell 5.4 BG 6.9/4.0",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "G13",
+      "title": "Munsell 4.4 B 6.8/7.2",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "G14",
+      "title": "Munsell 9.8 P 6.3/10.7",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "G15",
+      "title": "Munsell 3.7 Y 8.4/6.8",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "G16",
+      "title": "Munsell 5.0 BG 4.7/.2",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "G17",
+      "title": "Munsell 6.2 R 5.9/7.5",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "G18",
+      "title": "Munsell 2.3 G 6.4/6.1",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "G19",
+      "title": "Munsell 7.6 PB 5.0/8.0",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "G20",
+      "title": "Munsell 1.8 Y 6.9/2.4",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "G21",
+      "title": "Munsell 3.2 Y 6.8/4.1",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "G22",
+      "title": "Munsell 3.6 Y 7.4/9.3",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "H01",
+      "title": "Munsell 7.5 B 3.1/1.5",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "H02",
+      "title": "Munsell 8.5 B 3.1/2.3",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "H03",
+      "title": "Munsell 8.9 B 3.3/3.3",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "H04",
+      "title": "Munsell 9.5 B 3.3/3.3",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "H05",
+      "title": "Munsell 6.4 B 4.4/2.6",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "H06",
+      "title": "Munsell 7.2 B 4.3/4.3",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "H07",
+      "title": "Munsell 7.1 B 4.3/6.0",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "H08",
+      "title": "Munsell 7.9 B 4.2/7.1",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "H09",
+      "title": "Munsell 7.4 B 6.7/1.7",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "H10",
+      "title": "Munsell 8.4 B 6.8/2.5",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "H11",
+      "title": "Munsell 9.7 B 6.8/4.3",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "H12",
+      "title": "Munsell 0.2 PB 6.8/5.5",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "H13",
+      "title": "Munsell 4.4 B 6.4/8.1",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "H14",
+      "title": "Munsell 0.1 RP 5.8/12.2",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "H15",
+      "title": "Munsell 3.5 Y 8.1/8.1",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "H16",
+      "title": "Munsell 8.6 BG 4.0/.4",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "H17",
+      "title": "Munsell 6.4 R 5.5/8.5",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "H18",
+      "title": "Munsell 2.3 G 5.7/6.9",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "H19",
+      "title": "Munsell 7.4 PB 4.4/9.0",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "H20",
+      "title": "Munsell 6.2 Y 7.1/2.8",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "H21",
+      "title": "Munsell 0.9 GY 6.8/.8",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "H22",
+      "title": "Munsell 0.9 GY 7.0/4.0",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "I01",
+      "title": "Munsell 4.1 PB 3.5/2.1",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "I02",
+      "title": "Munsell 5.4 PB 3.4/4.0",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "I03",
+      "title": "Munsell 5.9 PB 3.4/5.8",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "I04",
+      "title": "Munsell 6.0 PB 3.4/7.2",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "I05",
+      "title": "Munsell 4.2 PB 4.8/2.4",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "I06",
+      "title": "Munsell 5.3 PB 4.8/4.1",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "I07",
+      "title": "Munsell 5.5 PB 4.8/5.4",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "I08",
+      "title": "Munsell 6.0 PB 4.7/7.1",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "I09",
+      "title": "Munsell 4.8 PB 6.8/1.6",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "I10",
+      "title": "Munsell 6.2 PB 6.8/2.6",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "I11",
+      "title": "Munsell 7.1 PB 6.8/4.2",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "I12",
+      "title": "Munsell 7.0 PB 6.8/5.4",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "I13",
+      "title": "Munsell 4.4 B 5.9/8.5",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "I14",
+      "title": "Munsell 0.3 RP 5.4/12.7",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "I15",
+      "title": "Munsell 3.3 Y 8.1/9.1",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "I16",
+      "title": "Munsell 5.2 B 3.5/.5",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "I17",
+      "title": "Munsell 6.3 R 5.0/8.9",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "I18",
+      "title": "Munsell 2.2 G 5.3/7.2",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "I19",
+      "title": "Munsell 7.5 PB 3.9/9.1",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "I20",
+      "title": "Munsell 4.7 GY 7.2/3.4",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "I21",
+      "title": "Munsell 7.5 GY 5.1/5.1",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "I22",
+      "title": "Munsell 1.2 G 6.9/4.1",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "J01",
+      "title": "Munsell 7.7 PB 2.9/1.9",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "J02",
+      "title": "Munsell 8.8 PB 3.0/3.2",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "J03",
+      "title": "Munsell 8.8 PB 2.9/5.1",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "J04",
+      "title": "Munsell 8.7 PB 2.9/6.9",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "J05",
+      "title": "Munsell 7.7 PB 4.4/2.5",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "J06",
+      "title": "Munsell 9.3 PB 4.4/4.2",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "J07",
+      "title": "Munsell 0.2 P 4.4/5.7",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "J08",
+      "title": "Munsell 0.3 P 4.4/7.1",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "J09",
+      "title": "Munsell 9.0 PB 6.7/1.6",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "J10",
+      "title": "Munsell 0.7 P 6.8/2.6",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "J11",
+      "title": "Munsell 0.7 P 6.8/4.2",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "J12",
+      "title": "Munsell 0.7 P 6.8/5.9",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "J13",
+      "title": "Munsell 4.4 B 5.5/8.7",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "J14",
+      "title": "Munsell 0.6 RP 5.0/13.3",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "J15",
+      "title": "Munsell 2.6 Y 7.7/10.3",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "J16",
+      "title": "Munsell 7.3 B 3.1/.5",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "J17",
+      "title": "Munsell 6.2 R 4.6/9.2",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "J18",
+      "title": "Munsell 2.2 G 4.8/7.4",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "J19",
+      "title": "Munsell 7.7 PB 3.4/9.0",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "J20",
+      "title": "Munsell 6.4 G 6.8/3.8",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "J21",
+      "title": "Munsell 2.1 G 4.0/5.1",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "J22",
+      "title": "Munsell 9.7 G 3.0/1.6",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "K01",
+      "title": "Munsell 3.1 P 3.4/2.0",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "K02",
+      "title": "Munsell 6.0 P 3.4/4.8",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "K03",
+      "title": "Munsell 6.6 P 3.4/7.0",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "K04",
+      "title": "Munsell 7.2 P 3.4/9.0",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "K05",
+      "title": "Munsell 4.8 P 4.7/2.7",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "K06",
+      "title": "Munsell 6.5 P 4.7/5.3",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "K07",
+      "title": "Munsell 7.4 P 4.8/7.6",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "K08",
+      "title": "Munsell 6.7 P 4.7/11.3",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "K09",
+      "title": "Munsell 5.0 P 6.7/1.9",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "K10",
+      "title": "Munsell 6.3 P 6.8/3.2",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "K11",
+      "title": "Munsell 6.2 P 6.9/5.4",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "K12",
+      "title": "Munsell 6.2 P 6.9/7.0",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "K13",
+      "title": "Munsell 4.6 B 5.3/9.1",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "K14",
+      "title": "Munsell 0.9 RP 4.6/13.8",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "K15",
+      "title": "Munsell 2.4 Y 7.6/10.6",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "K16",
+      "title": "Munsell 0.2 PB 2.8/.5",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "K17",
+      "title": "Munsell 6.3 R 4.3/9.5",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "K18",
+      "title": "Munsell 2.1 G 4.1/6.5",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "K19",
+      "title": "Munsell 8.0 PB 3.1/8.1",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "K20",
+      "title": "Munsell 4.5 BG 3.3/1.5",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "K21",
+      "title": "Munsell 8.9 BG 3.1/1.3",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "K22",
+      "title": "Munsell 8.5 B 3.1/2.0",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "L01",
+      "title": "Munsell 8.5 P 3.2/1.0",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "L02",
+      "title": "Munsell 2.4 RP 3.1/2.6",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "L03",
+      "title": "Munsell 3.5 RP 3.2/4.6",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "L04",
+      "title": "Munsell 3.3 RP 3.3/5.8",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "L05",
+      "title": "Munsell 1.4 RP 4.5/2.7",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "L06",
+      "title": "Munsell 3.0 RP 4.4/5.3",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "L07",
+      "title": "Munsell 3.2 RP 4.4/8.4",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "L08",
+      "title": "Munsell 3.7 RP 4.4/10.0",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "L09",
+      "title": "Munsell 0.3 RP 6.8/1.7",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "L10",
+      "title": "Munsell 2.5 RP 6.9/2.8",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "L11",
+      "title": "Munsell 3.7 RP 6.9/4.4",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "L12",
+      "title": "Munsell 4.6 RP 7.1/6.5",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "L13",
+      "title": "Munsell 5.0 B 4.8/8.8",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "L14",
+      "title": "Munsell 1.0 RP 4.3/13.6",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "L15",
+      "title": "Munsell 2.1 Y 7.5/10.9",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "L16",
+      "title": "Munsell 3.3 PB 2.6/.5",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "L17",
+      "title": "Munsell 5.3 R 4.0/9.3",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "L18",
+      "title": "Munsell 2.3 G 4.0/6.5",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "L19",
+      "title": "Munsell 8.2 PB 3.0/7.5",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "L20",
+      "title": "Munsell 9.8 B 2.7/.6",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "L21",
+      "title": "Munsell 6.2 PB 2.8/.7",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "L22",
+      "title": "Munsell 0.9 RP 3.0/1.1",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "N01",
+      "title": "Munsell 8.9 YR 8.9/.1",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "N02",
+      "title": "Munsell 2.3 PB 8.2/.4",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "N03",
+      "title": "Munsell 6.2 B 7.7/.4",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "N04",
+      "title": "Munsell 2.6 PB 7.3/.5",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "N05",
+      "title": "Munsell 1.0 PB 7.1/.4",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "N06",
+      "title": "Munsell 2.9 PB 6.7/.5",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "N07",
+      "title": "Munsell 1.1 PB 6.3/.6",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "N08",
+      "title": "Munsell 1.3 PB 5.9/.6",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "N09",
+      "title": "Munsell 8.3 B 5.6/.6",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "N10",
+      "title": "Munsell 6.3 B 5.3/.5",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "N11",
+      "title": "Munsell 9.7 B 5.0/.5",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "N12",
+      "title": "Munsell 7.4 B 4.7/.5",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "N13",
+      "title": "Munsell 5.5 B 4.3/.5",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "N14",
+      "title": "Munsell 2.3 B 4.0/.5",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "N15",
+      "title": "Munsell 7.4 B 3.7/.6",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "N16",
+      "title": "Munsell 6.9 B 3.5/.6",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "N17",
+      "title": "Munsell 7.3 B 3.3/.6",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "N18",
+      "title": "Munsell 8.9 B 3.2/.6",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "N19",
+      "title": "Munsell 8.5 B 2.9/.5",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "N20",
+      "title": "Munsell 8.4 B 2.8/.5",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "N21",
+      "title": "Munsell 0.2 PB 2.8/.5",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "N22",
+      "title": "Munsell 1.7 PB 2.7/.5",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "BLACK",
+      "title": "Munsell 6.3 PB 2.7/.6",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "WHITE",
+      "title": "Munsell 6.3 P 9.1/1.2",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/charts/agfa_it8_7_2.json",
+      "file_type": "batch",
+      "id": "CAL-WHITE",
+      "title": "Munsell 4.0 B 9.5/.1",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        400.0,
+        700.0
+      ],
+      "n_points": 31,
+      "date": "1994-03-29",
+      "tags": [
+        "it8.7/2",
+        "color-target",
+        "calibration",
+        "agfa"
+      ],
+      "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
     {
       "path": "spectra/colorbooks/munsell/glossy/uef/B.json",
       "file_type": "batch",
