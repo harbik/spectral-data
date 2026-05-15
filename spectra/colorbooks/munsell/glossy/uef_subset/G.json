@@ -1,0 +1,1170 @@
+{
+  "schema_version": "1.0.0",
+  "file_type": "batch",
+  "batch_metadata": {
+    "title": "Munsell Glossy 32-chip subset — Hue Family G",
+    "date": "1999-01-01",
+    "instrument": {
+      "manufacturer": "Minolta",
+      "model": "CM-2002"
+    },
+    "measurement_conditions": {
+      "spectral_resolution_nm": 10.0,
+      "specular_component": "excluded"
+    }
+  },
+  "spectra": [
+    {
+      "id": "5G-6-6",
+      "metadata": {
+        "measurement_type": "reflectance",
+        "date": "1999-01-01",
+        "title": "Munsell 5G 6/6",
+        "surface": "Glossy",
+        "instrument": {
+          "manufacturer": "Minolta",
+          "model": "CM-2002"
+        },
+        "measurement_conditions": {
+          "spectral_resolution_nm": 10.0,
+          "specular_component": "excluded"
+        },
+        "tags": [
+          "munsell",
+          "color-chip",
+          "glossy",
+          "color-book"
+        ],
+        "copyright": "© University of Eastern Finland (UEF) / Markku Hauta-Kasari. Non-commercial use only. Source: https://sites.uef.fi/spectral/munsell-colors-glossy-spectrofotometer-measured/"
+      },
+      "wavelength_axis": {
+        "range_nm": {
+          "start": 400,
+          "end": 700,
+          "interval": 10
+        }
+      },
+      "spectral_data": {
+        "values": [
+          0.1234,
+          0.1434,
+          0.152,
+          0.1574,
+          0.1659,
+          0.1776,
+          0.1957,
+          0.2294,
+          0.2761,
+          0.3198,
+          0.3498,
+          0.3626,
+          0.3628,
+          0.3566,
+          0.3461,
+          0.329,
+          0.3052,
+          0.2784,
+          0.2458,
+          0.2077,
+          0.1662,
+          0.1299,
+          0.1067,
+          0.0948,
+          0.0867,
+          0.0796,
+          0.0741,
+          0.0746,
+          0.0801,
+          0.0861,
+          0.0931
+        ],
+        "scale": "fractional"
+      },
+      "provenance": {
+        "source_file": "munsell400_700_10.mat",
+        "source_format": "MATLAB (UEF Munsell Glossy 32-chip dataset)",
+        "notes": "Measurement date is approximate (ca. 1999); exact date not published. Source values were in percent (0–100); divided by 100 for fractional scale. Specular component excluded. Each Munsell chip appears to have been measured twice; duplicate measurements are preserved as separate records."
+      }
+    },
+    {
+      "id": "5G-6-6",
+      "metadata": {
+        "measurement_type": "reflectance",
+        "date": "1999-01-01",
+        "title": "Munsell 5G 6/6",
+        "surface": "Glossy",
+        "instrument": {
+          "manufacturer": "Minolta",
+          "model": "CM-2002"
+        },
+        "measurement_conditions": {
+          "spectral_resolution_nm": 10.0,
+          "specular_component": "excluded"
+        },
+        "tags": [
+          "munsell",
+          "color-chip",
+          "glossy",
+          "color-book"
+        ],
+        "copyright": "© University of Eastern Finland (UEF) / Markku Hauta-Kasari. Non-commercial use only. Source: https://sites.uef.fi/spectral/munsell-colors-glossy-spectrofotometer-measured/"
+      },
+      "wavelength_axis": {
+        "range_nm": {
+          "start": 400,
+          "end": 700,
+          "interval": 10
+        }
+      },
+      "spectral_data": {
+        "values": [
+          0.1247,
+          0.1441,
+          0.1528,
+          0.1587,
+          0.1672,
+          0.1783,
+          0.1964,
+          0.2302,
+          0.2765,
+          0.3201,
+          0.35,
+          0.3631,
+          0.3633,
+          0.3567,
+          0.3465,
+          0.3294,
+          0.3059,
+          0.2789,
+          0.2462,
+          0.2083,
+          0.1669,
+          0.1305,
+          0.1074,
+          0.0959,
+          0.0876,
+          0.0803,
+          0.0753,
+          0.0756,
+          0.0809,
+          0.0868,
+          0.0938
+        ],
+        "scale": "fractional"
+      },
+      "provenance": {
+        "source_file": "munsell400_700_10.mat",
+        "source_format": "MATLAB (UEF Munsell Glossy 32-chip dataset)",
+        "notes": "Measurement date is approximate (ca. 1999); exact date not published. Source values were in percent (0–100); divided by 100 for fractional scale. Specular component excluded. Each Munsell chip appears to have been measured twice; duplicate measurements are preserved as separate records."
+      }
+    },
+    {
+      "id": "5G-6-8",
+      "metadata": {
+        "measurement_type": "reflectance",
+        "date": "1999-01-01",
+        "title": "Munsell 5G 6/8",
+        "surface": "Glossy",
+        "instrument": {
+          "manufacturer": "Minolta",
+          "model": "CM-2002"
+        },
+        "measurement_conditions": {
+          "spectral_resolution_nm": 10.0,
+          "specular_component": "excluded"
+        },
+        "tags": [
+          "munsell",
+          "color-chip",
+          "glossy",
+          "color-book"
+        ],
+        "copyright": "© University of Eastern Finland (UEF) / Markku Hauta-Kasari. Non-commercial use only. Source: https://sites.uef.fi/spectral/munsell-colors-glossy-spectrofotometer-measured/"
+      },
+      "wavelength_axis": {
+        "range_nm": {
+          "start": 400,
+          "end": 700,
+          "interval": 10
+        }
+      },
+      "spectral_data": {
+        "values": [
+          0.1026,
+          0.117,
+          0.1243,
+          0.13,
+          0.1389,
+          0.1509,
+          0.1704,
+          0.2097,
+          0.2689,
+          0.3307,
+          0.3802,
+          0.4042,
+          0.4045,
+          0.3919,
+          0.3719,
+          0.342,
+          0.3033,
+          0.2629,
+          0.2199,
+          0.1746,
+          0.1302,
+          0.0943,
+          0.0735,
+          0.0638,
+          0.0571,
+          0.051,
+          0.0468,
+          0.0475,
+          0.0522,
+          0.0572,
+          0.0632
+        ],
+        "scale": "fractional"
+      },
+      "provenance": {
+        "source_file": "munsell400_700_10.mat",
+        "source_format": "MATLAB (UEF Munsell Glossy 32-chip dataset)",
+        "notes": "Measurement date is approximate (ca. 1999); exact date not published. Source values were in percent (0–100); divided by 100 for fractional scale. Specular component excluded. Each Munsell chip appears to have been measured twice; duplicate measurements are preserved as separate records."
+      }
+    },
+    {
+      "id": "5G-6-8",
+      "metadata": {
+        "measurement_type": "reflectance",
+        "date": "1999-01-01",
+        "title": "Munsell 5G 6/8",
+        "surface": "Glossy",
+        "instrument": {
+          "manufacturer": "Minolta",
+          "model": "CM-2002"
+        },
+        "measurement_conditions": {
+          "spectral_resolution_nm": 10.0,
+          "specular_component": "excluded"
+        },
+        "tags": [
+          "munsell",
+          "color-chip",
+          "glossy",
+          "color-book"
+        ],
+        "copyright": "© University of Eastern Finland (UEF) / Markku Hauta-Kasari. Non-commercial use only. Source: https://sites.uef.fi/spectral/munsell-colors-glossy-spectrofotometer-measured/"
+      },
+      "wavelength_axis": {
+        "range_nm": {
+          "start": 400,
+          "end": 700,
+          "interval": 10
+        }
+      },
+      "spectral_data": {
+        "values": [
+          0.1019,
+          0.1167,
+          0.1237,
+          0.1293,
+          0.138,
+          0.1503,
+          0.1701,
+          0.209,
+          0.2681,
+          0.3302,
+          0.3796,
+          0.4033,
+          0.4035,
+          0.3912,
+          0.371,
+          0.3411,
+          0.3027,
+          0.2623,
+          0.2191,
+          0.1737,
+          0.1298,
+          0.0939,
+          0.0728,
+          0.0632,
+          0.0566,
+          0.0507,
+          0.0462,
+          0.0468,
+          0.0515,
+          0.0566,
+          0.0627
+        ],
+        "scale": "fractional"
+      },
+      "provenance": {
+        "source_file": "munsell400_700_10.mat",
+        "source_format": "MATLAB (UEF Munsell Glossy 32-chip dataset)",
+        "notes": "Measurement date is approximate (ca. 1999); exact date not published. Source values were in percent (0–100); divided by 100 for fractional scale. Specular component excluded. Each Munsell chip appears to have been measured twice; duplicate measurements are preserved as separate records."
+      }
+    },
+    {
+      "id": "5G-5-6",
+      "metadata": {
+        "measurement_type": "reflectance",
+        "date": "1999-01-01",
+        "title": "Munsell 5G 5/6",
+        "surface": "Glossy",
+        "instrument": {
+          "manufacturer": "Minolta",
+          "model": "CM-2002"
+        },
+        "measurement_conditions": {
+          "spectral_resolution_nm": 10.0,
+          "specular_component": "excluded"
+        },
+        "tags": [
+          "munsell",
+          "color-chip",
+          "glossy",
+          "color-book"
+        ],
+        "copyright": "© University of Eastern Finland (UEF) / Markku Hauta-Kasari. Non-commercial use only. Source: https://sites.uef.fi/spectral/munsell-colors-glossy-spectrofotometer-measured/"
+      },
+      "wavelength_axis": {
+        "range_nm": {
+          "start": 400,
+          "end": 700,
+          "interval": 10
+        }
+      },
+      "spectral_data": {
+        "values": [
+          0.0706,
+          0.0805,
+          0.0847,
+          0.0887,
+          0.0946,
+          0.1027,
+          0.1163,
+          0.1435,
+          0.1808,
+          0.2139,
+          0.2342,
+          0.242,
+          0.2411,
+          0.2351,
+          0.2274,
+          0.2148,
+          0.1972,
+          0.1769,
+          0.1527,
+          0.1245,
+          0.0935,
+          0.0679,
+          0.0528,
+          0.0454,
+          0.04,
+          0.0356,
+          0.0324,
+          0.033,
+          0.0373,
+          0.0421,
+          0.0479
+        ],
+        "scale": "fractional"
+      },
+      "provenance": {
+        "source_file": "munsell400_700_10.mat",
+        "source_format": "MATLAB (UEF Munsell Glossy 32-chip dataset)",
+        "notes": "Measurement date is approximate (ca. 1999); exact date not published. Source values were in percent (0–100); divided by 100 for fractional scale. Specular component excluded. Each Munsell chip appears to have been measured twice; duplicate measurements are preserved as separate records."
+      }
+    },
+    {
+      "id": "5G-5-6",
+      "metadata": {
+        "measurement_type": "reflectance",
+        "date": "1999-01-01",
+        "title": "Munsell 5G 5/6",
+        "surface": "Glossy",
+        "instrument": {
+          "manufacturer": "Minolta",
+          "model": "CM-2002"
+        },
+        "measurement_conditions": {
+          "spectral_resolution_nm": 10.0,
+          "specular_component": "excluded"
+        },
+        "tags": [
+          "munsell",
+          "color-chip",
+          "glossy",
+          "color-book"
+        ],
+        "copyright": "© University of Eastern Finland (UEF) / Markku Hauta-Kasari. Non-commercial use only. Source: https://sites.uef.fi/spectral/munsell-colors-glossy-spectrofotometer-measured/"
+      },
+      "wavelength_axis": {
+        "range_nm": {
+          "start": 400,
+          "end": 700,
+          "interval": 10
+        }
+      },
+      "spectral_data": {
+        "values": [
+          0.0695,
+          0.0793,
+          0.084,
+          0.0879,
+          0.0938,
+          0.1018,
+          0.1155,
+          0.143,
+          0.1803,
+          0.2134,
+          0.234,
+          0.2418,
+          0.2406,
+          0.2347,
+          0.2271,
+          0.2147,
+          0.197,
+          0.1764,
+          0.1523,
+          0.1239,
+          0.093,
+          0.0672,
+          0.0519,
+          0.0446,
+          0.0395,
+          0.0349,
+          0.0316,
+          0.0324,
+          0.0367,
+          0.0414,
+          0.0473
+        ],
+        "scale": "fractional"
+      },
+      "provenance": {
+        "source_file": "munsell400_700_10.mat",
+        "source_format": "MATLAB (UEF Munsell Glossy 32-chip dataset)",
+        "notes": "Measurement date is approximate (ca. 1999); exact date not published. Source values were in percent (0–100); divided by 100 for fractional scale. Specular component excluded. Each Munsell chip appears to have been measured twice; duplicate measurements are preserved as separate records."
+      }
+    },
+    {
+      "id": "5G-5-8",
+      "metadata": {
+        "measurement_type": "reflectance",
+        "date": "1999-01-01",
+        "title": "Munsell 5G 5/8",
+        "surface": "Glossy",
+        "instrument": {
+          "manufacturer": "Minolta",
+          "model": "CM-2002"
+        },
+        "measurement_conditions": {
+          "spectral_resolution_nm": 10.0,
+          "specular_component": "excluded"
+        },
+        "tags": [
+          "munsell",
+          "color-chip",
+          "glossy",
+          "color-book"
+        ],
+        "copyright": "© University of Eastern Finland (UEF) / Markku Hauta-Kasari. Non-commercial use only. Source: https://sites.uef.fi/spectral/munsell-colors-glossy-spectrofotometer-measured/"
+      },
+      "wavelength_axis": {
+        "range_nm": {
+          "start": 400,
+          "end": 700,
+          "interval": 10
+        }
+      },
+      "spectral_data": {
+        "values": [
+          0.0524,
+          0.0606,
+          0.065,
+          0.0694,
+          0.0761,
+          0.0857,
+          0.1006,
+          0.13,
+          0.1739,
+          0.2206,
+          0.2593,
+          0.2787,
+          0.2785,
+          0.2668,
+          0.2492,
+          0.2238,
+          0.1913,
+          0.1585,
+          0.1252,
+          0.092,
+          0.0609,
+          0.038,
+          0.0254,
+          0.0199,
+          0.0162,
+          0.0133,
+          0.0111,
+          0.0117,
+          0.0147,
+          0.0176,
+          0.0215
+        ],
+        "scale": "fractional"
+      },
+      "provenance": {
+        "source_file": "munsell400_700_10.mat",
+        "source_format": "MATLAB (UEF Munsell Glossy 32-chip dataset)",
+        "notes": "Measurement date is approximate (ca. 1999); exact date not published. Source values were in percent (0–100); divided by 100 for fractional scale. Specular component excluded. Each Munsell chip appears to have been measured twice; duplicate measurements are preserved as separate records."
+      }
+    },
+    {
+      "id": "5G-5-8",
+      "metadata": {
+        "measurement_type": "reflectance",
+        "date": "1999-01-01",
+        "title": "Munsell 5G 5/8",
+        "surface": "Glossy",
+        "instrument": {
+          "manufacturer": "Minolta",
+          "model": "CM-2002"
+        },
+        "measurement_conditions": {
+          "spectral_resolution_nm": 10.0,
+          "specular_component": "excluded"
+        },
+        "tags": [
+          "munsell",
+          "color-chip",
+          "glossy",
+          "color-book"
+        ],
+        "copyright": "© University of Eastern Finland (UEF) / Markku Hauta-Kasari. Non-commercial use only. Source: https://sites.uef.fi/spectral/munsell-colors-glossy-spectrofotometer-measured/"
+      },
+      "wavelength_axis": {
+        "range_nm": {
+          "start": 400,
+          "end": 700,
+          "interval": 10
+        }
+      },
+      "spectral_data": {
+        "values": [
+          0.0521,
+          0.0602,
+          0.0648,
+          0.069,
+          0.0757,
+          0.0854,
+          0.1001,
+          0.1294,
+          0.173,
+          0.2195,
+          0.2582,
+          0.2777,
+          0.2771,
+          0.2655,
+          0.2487,
+          0.2228,
+          0.1904,
+          0.1579,
+          0.1246,
+          0.0917,
+          0.0608,
+          0.0378,
+          0.0254,
+          0.0198,
+          0.0161,
+          0.0133,
+          0.011,
+          0.0118,
+          0.0149,
+          0.0176,
+          0.0212
+        ],
+        "scale": "fractional"
+      },
+      "provenance": {
+        "source_file": "munsell400_700_10.mat",
+        "source_format": "MATLAB (UEF Munsell Glossy 32-chip dataset)",
+        "notes": "Measurement date is approximate (ca. 1999); exact date not published. Source values were in percent (0–100); divided by 100 for fractional scale. Specular component excluded. Each Munsell chip appears to have been measured twice; duplicate measurements are preserved as separate records."
+      }
+    },
+    {
+      "id": "7.5G-6-6",
+      "metadata": {
+        "measurement_type": "reflectance",
+        "date": "1999-01-01",
+        "title": "Munsell 7.5G 6/6",
+        "surface": "Glossy",
+        "instrument": {
+          "manufacturer": "Minolta",
+          "model": "CM-2002"
+        },
+        "measurement_conditions": {
+          "spectral_resolution_nm": 10.0,
+          "specular_component": "excluded"
+        },
+        "tags": [
+          "munsell",
+          "color-chip",
+          "glossy",
+          "color-book"
+        ],
+        "copyright": "© University of Eastern Finland (UEF) / Markku Hauta-Kasari. Non-commercial use only. Source: https://sites.uef.fi/spectral/munsell-colors-glossy-spectrofotometer-measured/"
+      },
+      "wavelength_axis": {
+        "range_nm": {
+          "start": 400,
+          "end": 700,
+          "interval": 10
+        }
+      },
+      "spectral_data": {
+        "values": [
+          0.1306,
+          0.1539,
+          0.1647,
+          0.1722,
+          0.1839,
+          0.199,
+          0.2243,
+          0.2681,
+          0.3231,
+          0.3679,
+          0.3895,
+          0.3923,
+          0.385,
+          0.3712,
+          0.3519,
+          0.3253,
+          0.2926,
+          0.2584,
+          0.2218,
+          0.1852,
+          0.153,
+          0.1316,
+          0.1208,
+          0.1162,
+          0.112,
+          0.1092,
+          0.1098,
+          0.1171,
+          0.1278,
+          0.1363,
+          0.1431
+        ],
+        "scale": "fractional"
+      },
+      "provenance": {
+        "source_file": "munsell400_700_10.mat",
+        "source_format": "MATLAB (UEF Munsell Glossy 32-chip dataset)",
+        "notes": "Measurement date is approximate (ca. 1999); exact date not published. Source values were in percent (0–100); divided by 100 for fractional scale. Specular component excluded. Each Munsell chip appears to have been measured twice; duplicate measurements are preserved as separate records."
+      }
+    },
+    {
+      "id": "7.5G-6-6",
+      "metadata": {
+        "measurement_type": "reflectance",
+        "date": "1999-01-01",
+        "title": "Munsell 7.5G 6/6",
+        "surface": "Glossy",
+        "instrument": {
+          "manufacturer": "Minolta",
+          "model": "CM-2002"
+        },
+        "measurement_conditions": {
+          "spectral_resolution_nm": 10.0,
+          "specular_component": "excluded"
+        },
+        "tags": [
+          "munsell",
+          "color-chip",
+          "glossy",
+          "color-book"
+        ],
+        "copyright": "© University of Eastern Finland (UEF) / Markku Hauta-Kasari. Non-commercial use only. Source: https://sites.uef.fi/spectral/munsell-colors-glossy-spectrofotometer-measured/"
+      },
+      "wavelength_axis": {
+        "range_nm": {
+          "start": 400,
+          "end": 700,
+          "interval": 10
+        }
+      },
+      "spectral_data": {
+        "values": [
+          0.1319,
+          0.1555,
+          0.1664,
+          0.1738,
+          0.1851,
+          0.2002,
+          0.2254,
+          0.2692,
+          0.3241,
+          0.3685,
+          0.39,
+          0.3931,
+          0.3857,
+          0.3718,
+          0.3526,
+          0.3261,
+          0.2934,
+          0.2595,
+          0.2231,
+          0.1863,
+          0.1542,
+          0.1329,
+          0.122,
+          0.1172,
+          0.1131,
+          0.1104,
+          0.1111,
+          0.118,
+          0.129,
+          0.1381,
+          0.1444
+        ],
+        "scale": "fractional"
+      },
+      "provenance": {
+        "source_file": "munsell400_700_10.mat",
+        "source_format": "MATLAB (UEF Munsell Glossy 32-chip dataset)",
+        "notes": "Measurement date is approximate (ca. 1999); exact date not published. Source values were in percent (0–100); divided by 100 for fractional scale. Specular component excluded. Each Munsell chip appears to have been measured twice; duplicate measurements are preserved as separate records."
+      }
+    },
+    {
+      "id": "7.5G-6-8",
+      "metadata": {
+        "measurement_type": "reflectance",
+        "date": "1999-01-01",
+        "title": "Munsell 7.5G 6/8",
+        "surface": "Glossy",
+        "instrument": {
+          "manufacturer": "Minolta",
+          "model": "CM-2002"
+        },
+        "measurement_conditions": {
+          "spectral_resolution_nm": 10.0,
+          "specular_component": "excluded"
+        },
+        "tags": [
+          "munsell",
+          "color-chip",
+          "glossy",
+          "color-book"
+        ],
+        "copyright": "© University of Eastern Finland (UEF) / Markku Hauta-Kasari. Non-commercial use only. Source: https://sites.uef.fi/spectral/munsell-colors-glossy-spectrofotometer-measured/"
+      },
+      "wavelength_axis": {
+        "range_nm": {
+          "start": 400,
+          "end": 700,
+          "interval": 10
+        }
+      },
+      "spectral_data": {
+        "values": [
+          0.1111,
+          0.1303,
+          0.14,
+          0.1483,
+          0.1607,
+          0.1778,
+          0.2078,
+          0.2625,
+          0.3383,
+          0.4067,
+          0.4439,
+          0.4484,
+          0.4322,
+          0.4058,
+          0.3713,
+          0.3277,
+          0.2796,
+          0.2354,
+          0.1923,
+          0.1523,
+          0.1195,
+          0.0985,
+          0.0887,
+          0.0845,
+          0.0811,
+          0.0785,
+          0.0789,
+          0.0861,
+          0.0964,
+          0.1047,
+          0.1117
+        ],
+        "scale": "fractional"
+      },
+      "provenance": {
+        "source_file": "munsell400_700_10.mat",
+        "source_format": "MATLAB (UEF Munsell Glossy 32-chip dataset)",
+        "notes": "Measurement date is approximate (ca. 1999); exact date not published. Source values were in percent (0–100); divided by 100 for fractional scale. Specular component excluded. Each Munsell chip appears to have been measured twice; duplicate measurements are preserved as separate records."
+      }
+    },
+    {
+      "id": "7.5G-6-8",
+      "metadata": {
+        "measurement_type": "reflectance",
+        "date": "1999-01-01",
+        "title": "Munsell 7.5G 6/8",
+        "surface": "Glossy",
+        "instrument": {
+          "manufacturer": "Minolta",
+          "model": "CM-2002"
+        },
+        "measurement_conditions": {
+          "spectral_resolution_nm": 10.0,
+          "specular_component": "excluded"
+        },
+        "tags": [
+          "munsell",
+          "color-chip",
+          "glossy",
+          "color-book"
+        ],
+        "copyright": "© University of Eastern Finland (UEF) / Markku Hauta-Kasari. Non-commercial use only. Source: https://sites.uef.fi/spectral/munsell-colors-glossy-spectrofotometer-measured/"
+      },
+      "wavelength_axis": {
+        "range_nm": {
+          "start": 400,
+          "end": 700,
+          "interval": 10
+        }
+      },
+      "spectral_data": {
+        "values": [
+          0.1114,
+          0.1302,
+          0.1402,
+          0.1489,
+          0.1614,
+          0.1783,
+          0.208,
+          0.2626,
+          0.3383,
+          0.4067,
+          0.4435,
+          0.4481,
+          0.4323,
+          0.4053,
+          0.371,
+          0.3278,
+          0.28,
+          0.2355,
+          0.1925,
+          0.1525,
+          0.1196,
+          0.099,
+          0.0891,
+          0.0848,
+          0.081,
+          0.0787,
+          0.0793,
+          0.0863,
+          0.0966,
+          0.105,
+          0.1119
+        ],
+        "scale": "fractional"
+      },
+      "provenance": {
+        "source_file": "munsell400_700_10.mat",
+        "source_format": "MATLAB (UEF Munsell Glossy 32-chip dataset)",
+        "notes": "Measurement date is approximate (ca. 1999); exact date not published. Source values were in percent (0–100); divided by 100 for fractional scale. Specular component excluded. Each Munsell chip appears to have been measured twice; duplicate measurements are preserved as separate records."
+      }
+    },
+    {
+      "id": "7.5G-5-6",
+      "metadata": {
+        "measurement_type": "reflectance",
+        "date": "1999-01-01",
+        "title": "Munsell 7.5G 5/6",
+        "surface": "Glossy",
+        "instrument": {
+          "manufacturer": "Minolta",
+          "model": "CM-2002"
+        },
+        "measurement_conditions": {
+          "spectral_resolution_nm": 10.0,
+          "specular_component": "excluded"
+        },
+        "tags": [
+          "munsell",
+          "color-chip",
+          "glossy",
+          "color-book"
+        ],
+        "copyright": "© University of Eastern Finland (UEF) / Markku Hauta-Kasari. Non-commercial use only. Source: https://sites.uef.fi/spectral/munsell-colors-glossy-spectrofotometer-measured/"
+      },
+      "wavelength_axis": {
+        "range_nm": {
+          "start": 400,
+          "end": 700,
+          "interval": 10
+        }
+      },
+      "spectral_data": {
+        "values": [
+          0.0798,
+          0.0915,
+          0.097,
+          0.1011,
+          0.1081,
+          0.1184,
+          0.1363,
+          0.1688,
+          0.212,
+          0.2493,
+          0.2682,
+          0.2705,
+          0.2622,
+          0.2478,
+          0.2297,
+          0.2058,
+          0.1787,
+          0.1532,
+          0.1285,
+          0.1052,
+          0.0851,
+          0.0721,
+          0.0654,
+          0.062,
+          0.0592,
+          0.0577,
+          0.0579,
+          0.0618,
+          0.0673,
+          0.071,
+          0.0733
+        ],
+        "scale": "fractional"
+      },
+      "provenance": {
+        "source_file": "munsell400_700_10.mat",
+        "source_format": "MATLAB (UEF Munsell Glossy 32-chip dataset)",
+        "notes": "Measurement date is approximate (ca. 1999); exact date not published. Source values were in percent (0–100); divided by 100 for fractional scale. Specular component excluded. Each Munsell chip appears to have been measured twice; duplicate measurements are preserved as separate records."
+      }
+    },
+    {
+      "id": "7.5G-5-6",
+      "metadata": {
+        "measurement_type": "reflectance",
+        "date": "1999-01-01",
+        "title": "Munsell 7.5G 5/6",
+        "surface": "Glossy",
+        "instrument": {
+          "manufacturer": "Minolta",
+          "model": "CM-2002"
+        },
+        "measurement_conditions": {
+          "spectral_resolution_nm": 10.0,
+          "specular_component": "excluded"
+        },
+        "tags": [
+          "munsell",
+          "color-chip",
+          "glossy",
+          "color-book"
+        ],
+        "copyright": "© University of Eastern Finland (UEF) / Markku Hauta-Kasari. Non-commercial use only. Source: https://sites.uef.fi/spectral/munsell-colors-glossy-spectrofotometer-measured/"
+      },
+      "wavelength_axis": {
+        "range_nm": {
+          "start": 400,
+          "end": 700,
+          "interval": 10
+        }
+      },
+      "spectral_data": {
+        "values": [
+          0.0794,
+          0.0911,
+          0.0967,
+          0.1011,
+          0.1081,
+          0.1182,
+          0.1359,
+          0.1687,
+          0.2119,
+          0.2491,
+          0.2681,
+          0.2705,
+          0.2623,
+          0.2479,
+          0.2298,
+          0.2058,
+          0.1784,
+          0.153,
+          0.1283,
+          0.1053,
+          0.085,
+          0.0717,
+          0.0649,
+          0.0618,
+          0.0592,
+          0.0577,
+          0.0575,
+          0.0617,
+          0.0674,
+          0.0708,
+          0.0732
+        ],
+        "scale": "fractional"
+      },
+      "provenance": {
+        "source_file": "munsell400_700_10.mat",
+        "source_format": "MATLAB (UEF Munsell Glossy 32-chip dataset)",
+        "notes": "Measurement date is approximate (ca. 1999); exact date not published. Source values were in percent (0–100); divided by 100 for fractional scale. Specular component excluded. Each Munsell chip appears to have been measured twice; duplicate measurements are preserved as separate records."
+      }
+    },
+    {
+      "id": "7.5G-5-8",
+      "metadata": {
+        "measurement_type": "reflectance",
+        "date": "1999-01-01",
+        "title": "Munsell 7.5G 5/8",
+        "surface": "Glossy",
+        "instrument": {
+          "manufacturer": "Minolta",
+          "model": "CM-2002"
+        },
+        "measurement_conditions": {
+          "spectral_resolution_nm": 10.0,
+          "specular_component": "excluded"
+        },
+        "tags": [
+          "munsell",
+          "color-chip",
+          "glossy",
+          "color-book"
+        ],
+        "copyright": "© University of Eastern Finland (UEF) / Markku Hauta-Kasari. Non-commercial use only. Source: https://sites.uef.fi/spectral/munsell-colors-glossy-spectrofotometer-measured/"
+      },
+      "wavelength_axis": {
+        "range_nm": {
+          "start": 400,
+          "end": 700,
+          "interval": 10
+        }
+      },
+      "spectral_data": {
+        "values": [
+          0.0603,
+          0.0699,
+          0.0752,
+          0.0805,
+          0.0885,
+          0.1002,
+          0.1209,
+          0.1606,
+          0.2171,
+          0.2681,
+          0.2955,
+          0.2993,
+          0.2878,
+          0.2675,
+          0.2414,
+          0.208,
+          0.1714,
+          0.1379,
+          0.1061,
+          0.0777,
+          0.0547,
+          0.0409,
+          0.0345,
+          0.0322,
+          0.0303,
+          0.0292,
+          0.0299,
+          0.0348,
+          0.0423,
+          0.0472,
+          0.0514
+        ],
+        "scale": "fractional"
+      },
+      "provenance": {
+        "source_file": "munsell400_700_10.mat",
+        "source_format": "MATLAB (UEF Munsell Glossy 32-chip dataset)",
+        "notes": "Measurement date is approximate (ca. 1999); exact date not published. Source values were in percent (0–100); divided by 100 for fractional scale. Specular component excluded. Each Munsell chip appears to have been measured twice; duplicate measurements are preserved as separate records."
+      }
+    },
+    {
+      "id": "7.5G-5-8",
+      "metadata": {
+        "measurement_type": "reflectance",
+        "date": "1999-01-01",
+        "title": "Munsell 7.5G 5/8",
+        "surface": "Glossy",
+        "instrument": {
+          "manufacturer": "Minolta",
+          "model": "CM-2002"
+        },
+        "measurement_conditions": {
+          "spectral_resolution_nm": 10.0,
+          "specular_component": "excluded"
+        },
+        "tags": [
+          "munsell",
+          "color-chip",
+          "glossy",
+          "color-book"
+        ],
+        "copyright": "© University of Eastern Finland (UEF) / Markku Hauta-Kasari. Non-commercial use only. Source: https://sites.uef.fi/spectral/munsell-colors-glossy-spectrofotometer-measured/"
+      },
+      "wavelength_axis": {
+        "range_nm": {
+          "start": 400,
+          "end": 700,
+          "interval": 10
+        }
+      },
+      "spectral_data": {
+        "values": [
+          0.0607,
+          0.0703,
+          0.0755,
+          0.0808,
+          0.0889,
+          0.1006,
+          0.1213,
+          0.1612,
+          0.2176,
+          0.2687,
+          0.2961,
+          0.3001,
+          0.2888,
+          0.2681,
+          0.2422,
+          0.2086,
+          0.1718,
+          0.1387,
+          0.1068,
+          0.0781,
+          0.0551,
+          0.0412,
+          0.0351,
+          0.0327,
+          0.0304,
+          0.0295,
+          0.0305,
+          0.0353,
+          0.0426,
+          0.0476,
+          0.0517
+        ],
+        "scale": "fractional"
+      },
+      "provenance": {
+        "source_file": "munsell400_700_10.mat",
+        "source_format": "MATLAB (UEF Munsell Glossy 32-chip dataset)",
+        "notes": "Measurement date is approximate (ca. 1999); exact date not published. Source values were in percent (0–100); divided by 100 for fractional scale. Specular component excluded. Each Munsell chip appears to have been measured twice; duplicate measurements are preserved as separate records."
+      }
+    }
+  ]
+}
