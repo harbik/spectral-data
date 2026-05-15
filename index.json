@@ -1,7 +1,7 @@
 {
   "schema_version": "1",
   "generated": "2026-05-15",
-  "count": 4461,
+  "count": 4513,
   "spectra": [
     {
       "path": "spectra/candies/uef_dyes.json",
@@ -90493,6 +90493,1009 @@
         "aotf"
       ],
       "copyright": "© University of Eastern Finland (UEF) / Markku Hauta-Kasari. Non-commercial use only. Source: https://sites.uef.fi/spectral/munsell-colors-matt-aotf-measured/"
+    },
+    {
+      "path": "spectra/nature/uef_daylight.json",
+      "file_type": "batch",
+      "id": "baso4-01",
+      "title": "BaSO4 white reference panel #1",
+      "measurement_type": "Radiance",
+      "wavelength_range_nm": [
+        390.0,
+        1070.0
+      ],
+      "n_points": 171,
+      "date": "1995-03-30",
+      "tags": [
+        "barium-sulfate",
+        "white-reference",
+        "daylight"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jussi Parkkinen, Pertti Silfsten. Non-commercial use only. Source: https://sites.uef.fi/spectral/daylight-spectra/"
+    },
+    {
+      "path": "spectra/nature/uef_daylight.json",
+      "file_type": "batch",
+      "id": "baso4-02",
+      "title": "BaSO4 white reference panel #2",
+      "measurement_type": "Radiance",
+      "wavelength_range_nm": [
+        390.0,
+        1070.0
+      ],
+      "n_points": 171,
+      "date": "1995-03-30",
+      "tags": [
+        "barium-sulfate",
+        "white-reference",
+        "daylight"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jussi Parkkinen, Pertti Silfsten. Non-commercial use only. Source: https://sites.uef.fi/spectral/daylight-spectra/"
+    },
+    {
+      "path": "spectra/nature/uef_daylight.json",
+      "file_type": "batch",
+      "id": "baso4-03",
+      "title": "BaSO4 white reference panel #3",
+      "measurement_type": "Radiance",
+      "wavelength_range_nm": [
+        390.0,
+        1070.0
+      ],
+      "n_points": 171,
+      "date": "1995-03-30",
+      "tags": [
+        "barium-sulfate",
+        "white-reference",
+        "daylight"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jussi Parkkinen, Pertti Silfsten. Non-commercial use only. Source: https://sites.uef.fi/spectral/daylight-spectra/"
+    },
+    {
+      "path": "spectra/nature/uef_daylight.json",
+      "file_type": "batch",
+      "id": "baso4-04",
+      "title": "BaSO4 white reference panel #4",
+      "measurement_type": "Radiance",
+      "wavelength_range_nm": [
+        390.0,
+        1070.0
+      ],
+      "n_points": 171,
+      "date": "1995-03-30",
+      "tags": [
+        "barium-sulfate",
+        "white-reference",
+        "daylight"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jussi Parkkinen, Pertti Silfsten. Non-commercial use only. Source: https://sites.uef.fi/spectral/daylight-spectra/"
+    },
+    {
+      "path": "spectra/nature/uef_daylight.json",
+      "file_type": "batch",
+      "id": "baso4-05",
+      "title": "BaSO4 white reference panel #5",
+      "measurement_type": "Radiance",
+      "wavelength_range_nm": [
+        390.0,
+        1070.0
+      ],
+      "n_points": 171,
+      "date": "1995-03-30",
+      "tags": [
+        "barium-sulfate",
+        "white-reference",
+        "daylight"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jussi Parkkinen, Pertti Silfsten. Non-commercial use only. Source: https://sites.uef.fi/spectral/daylight-spectra/"
+    },
+    {
+      "path": "spectra/nature/uef_daylight.json",
+      "file_type": "batch",
+      "id": "baso4-06",
+      "title": "BaSO4 white reference panel #6",
+      "measurement_type": "Radiance",
+      "wavelength_range_nm": [
+        390.0,
+        1070.0
+      ],
+      "n_points": 171,
+      "date": "1995-03-30",
+      "tags": [
+        "barium-sulfate",
+        "white-reference",
+        "daylight"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jussi Parkkinen, Pertti Silfsten. Non-commercial use only. Source: https://sites.uef.fi/spectral/daylight-spectra/"
+    },
+    {
+      "path": "spectra/nature/uef_daylight.json",
+      "file_type": "batch",
+      "id": "baso4-07",
+      "title": "BaSO4 white reference panel #7",
+      "measurement_type": "Radiance",
+      "wavelength_range_nm": [
+        390.0,
+        1070.0
+      ],
+      "n_points": 171,
+      "date": "1995-03-30",
+      "tags": [
+        "barium-sulfate",
+        "white-reference",
+        "daylight"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jussi Parkkinen, Pertti Silfsten. Non-commercial use only. Source: https://sites.uef.fi/spectral/daylight-spectra/"
+    },
+    {
+      "path": "spectra/nature/uef_daylight.json",
+      "file_type": "batch",
+      "id": "baso4-08",
+      "title": "BaSO4 white reference panel #8",
+      "measurement_type": "Radiance",
+      "wavelength_range_nm": [
+        390.0,
+        1070.0
+      ],
+      "n_points": 171,
+      "date": "1995-03-30",
+      "tags": [
+        "barium-sulfate",
+        "white-reference",
+        "daylight"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jussi Parkkinen, Pertti Silfsten. Non-commercial use only. Source: https://sites.uef.fi/spectral/daylight-spectra/"
+    },
+    {
+      "path": "spectra/nature/uef_daylight.json",
+      "file_type": "batch",
+      "id": "baso4-09",
+      "title": "BaSO4 white reference panel #9",
+      "measurement_type": "Radiance",
+      "wavelength_range_nm": [
+        390.0,
+        1070.0
+      ],
+      "n_points": 171,
+      "date": "1995-03-30",
+      "tags": [
+        "barium-sulfate",
+        "white-reference",
+        "daylight"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jussi Parkkinen, Pertti Silfsten. Non-commercial use only. Source: https://sites.uef.fi/spectral/daylight-spectra/"
+    },
+    {
+      "path": "spectra/nature/uef_daylight.json",
+      "file_type": "batch",
+      "id": "baso4-10",
+      "title": "BaSO4 white reference panel #10",
+      "measurement_type": "Radiance",
+      "wavelength_range_nm": [
+        390.0,
+        1070.0
+      ],
+      "n_points": 171,
+      "date": "1995-03-30",
+      "tags": [
+        "barium-sulfate",
+        "white-reference",
+        "daylight"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jussi Parkkinen, Pertti Silfsten. Non-commercial use only. Source: https://sites.uef.fi/spectral/daylight-spectra/"
+    },
+    {
+      "path": "spectra/nature/uef_daylight.json",
+      "file_type": "batch",
+      "id": "baso4-11",
+      "title": "BaSO4 white reference panel #11",
+      "measurement_type": "Radiance",
+      "wavelength_range_nm": [
+        390.0,
+        1070.0
+      ],
+      "n_points": 171,
+      "date": "1995-03-30",
+      "tags": [
+        "barium-sulfate",
+        "white-reference",
+        "daylight"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jussi Parkkinen, Pertti Silfsten. Non-commercial use only. Source: https://sites.uef.fi/spectral/daylight-spectra/"
+    },
+    {
+      "path": "spectra/nature/uef_daylight.json",
+      "file_type": "batch",
+      "id": "baso4-12",
+      "title": "BaSO4 white reference panel #12",
+      "measurement_type": "Radiance",
+      "wavelength_range_nm": [
+        390.0,
+        1070.0
+      ],
+      "n_points": 171,
+      "date": "1995-03-30",
+      "tags": [
+        "barium-sulfate",
+        "white-reference",
+        "daylight"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jussi Parkkinen, Pertti Silfsten. Non-commercial use only. Source: https://sites.uef.fi/spectral/daylight-spectra/"
+    },
+    {
+      "path": "spectra/nature/uef_daylight.json",
+      "file_type": "batch",
+      "id": "baso4-13",
+      "title": "BaSO4 white reference panel #13",
+      "measurement_type": "Radiance",
+      "wavelength_range_nm": [
+        390.0,
+        1070.0
+      ],
+      "n_points": 171,
+      "date": "1995-03-30",
+      "tags": [
+        "barium-sulfate",
+        "white-reference",
+        "daylight"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jussi Parkkinen, Pertti Silfsten. Non-commercial use only. Source: https://sites.uef.fi/spectral/daylight-spectra/"
+    },
+    {
+      "path": "spectra/nature/uef_daylight.json",
+      "file_type": "batch",
+      "id": "baso4-14",
+      "title": "BaSO4 white reference panel #14",
+      "measurement_type": "Radiance",
+      "wavelength_range_nm": [
+        390.0,
+        1070.0
+      ],
+      "n_points": 171,
+      "date": "1995-03-30",
+      "tags": [
+        "barium-sulfate",
+        "white-reference",
+        "daylight"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jussi Parkkinen, Pertti Silfsten. Non-commercial use only. Source: https://sites.uef.fi/spectral/daylight-spectra/"
+    },
+    {
+      "path": "spectra/nature/uef_daylight.json",
+      "file_type": "batch",
+      "id": "baso4-15",
+      "title": "BaSO4 white reference panel #15",
+      "measurement_type": "Radiance",
+      "wavelength_range_nm": [
+        390.0,
+        1070.0
+      ],
+      "n_points": 171,
+      "date": "1995-03-30",
+      "tags": [
+        "barium-sulfate",
+        "white-reference",
+        "daylight"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jussi Parkkinen, Pertti Silfsten. Non-commercial use only. Source: https://sites.uef.fi/spectral/daylight-spectra/"
+    },
+    {
+      "path": "spectra/nature/uef_daylight.json",
+      "file_type": "batch",
+      "id": "sky-01",
+      "title": "Sky (mirror reflection) #1",
+      "measurement_type": "Radiance",
+      "wavelength_range_nm": [
+        390.0,
+        1070.0
+      ],
+      "n_points": 171,
+      "date": "1995-03-30",
+      "tags": [
+        "sky",
+        "daylight",
+        "natural-illuminant"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jussi Parkkinen, Pertti Silfsten. Non-commercial use only. Source: https://sites.uef.fi/spectral/daylight-spectra/"
+    },
+    {
+      "path": "spectra/nature/uef_daylight.json",
+      "file_type": "batch",
+      "id": "sky-02",
+      "title": "Sky (mirror reflection) #2",
+      "measurement_type": "Radiance",
+      "wavelength_range_nm": [
+        390.0,
+        1070.0
+      ],
+      "n_points": 171,
+      "date": "1995-03-30",
+      "tags": [
+        "sky",
+        "daylight",
+        "natural-illuminant"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jussi Parkkinen, Pertti Silfsten. Non-commercial use only. Source: https://sites.uef.fi/spectral/daylight-spectra/"
+    },
+    {
+      "path": "spectra/nature/uef_daylight.json",
+      "file_type": "batch",
+      "id": "sky-03",
+      "title": "Sky (mirror reflection) #3",
+      "measurement_type": "Radiance",
+      "wavelength_range_nm": [
+        390.0,
+        1070.0
+      ],
+      "n_points": 171,
+      "date": "1995-03-30",
+      "tags": [
+        "sky",
+        "daylight",
+        "natural-illuminant"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jussi Parkkinen, Pertti Silfsten. Non-commercial use only. Source: https://sites.uef.fi/spectral/daylight-spectra/"
+    },
+    {
+      "path": "spectra/nature/uef_daylight.json",
+      "file_type": "batch",
+      "id": "sky-04",
+      "title": "Sky (mirror reflection) #4",
+      "measurement_type": "Radiance",
+      "wavelength_range_nm": [
+        390.0,
+        1070.0
+      ],
+      "n_points": 171,
+      "date": "1995-03-30",
+      "tags": [
+        "sky",
+        "daylight",
+        "natural-illuminant"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jussi Parkkinen, Pertti Silfsten. Non-commercial use only. Source: https://sites.uef.fi/spectral/daylight-spectra/"
+    },
+    {
+      "path": "spectra/nature/uef_daylight.json",
+      "file_type": "batch",
+      "id": "sky-05",
+      "title": "Sky (mirror reflection) #5",
+      "measurement_type": "Radiance",
+      "wavelength_range_nm": [
+        390.0,
+        1070.0
+      ],
+      "n_points": 171,
+      "date": "1995-03-30",
+      "tags": [
+        "sky",
+        "daylight",
+        "natural-illuminant"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jussi Parkkinen, Pertti Silfsten. Non-commercial use only. Source: https://sites.uef.fi/spectral/daylight-spectra/"
+    },
+    {
+      "path": "spectra/nature/uef_daylight.json",
+      "file_type": "batch",
+      "id": "sky-06",
+      "title": "Sky (mirror reflection) #6",
+      "measurement_type": "Radiance",
+      "wavelength_range_nm": [
+        390.0,
+        1070.0
+      ],
+      "n_points": 171,
+      "date": "1995-03-30",
+      "tags": [
+        "sky",
+        "daylight",
+        "natural-illuminant"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jussi Parkkinen, Pertti Silfsten. Non-commercial use only. Source: https://sites.uef.fi/spectral/daylight-spectra/"
+    },
+    {
+      "path": "spectra/nature/uef_daylight.json",
+      "file_type": "batch",
+      "id": "sky-07",
+      "title": "Sky (mirror reflection) #7",
+      "measurement_type": "Radiance",
+      "wavelength_range_nm": [
+        390.0,
+        1070.0
+      ],
+      "n_points": 171,
+      "date": "1995-03-30",
+      "tags": [
+        "sky",
+        "daylight",
+        "natural-illuminant"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jussi Parkkinen, Pertti Silfsten. Non-commercial use only. Source: https://sites.uef.fi/spectral/daylight-spectra/"
+    },
+    {
+      "path": "spectra/nature/uef_daylight.json",
+      "file_type": "batch",
+      "id": "sky-08",
+      "title": "Sky (mirror reflection) #8",
+      "measurement_type": "Radiance",
+      "wavelength_range_nm": [
+        390.0,
+        1070.0
+      ],
+      "n_points": 171,
+      "date": "1995-03-30",
+      "tags": [
+        "sky",
+        "daylight",
+        "natural-illuminant"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jussi Parkkinen, Pertti Silfsten. Non-commercial use only. Source: https://sites.uef.fi/spectral/daylight-spectra/"
+    },
+    {
+      "path": "spectra/nature/uef_daylight.json",
+      "file_type": "batch",
+      "id": "sky-09",
+      "title": "Sky (mirror reflection) #9",
+      "measurement_type": "Radiance",
+      "wavelength_range_nm": [
+        390.0,
+        1070.0
+      ],
+      "n_points": 171,
+      "date": "1995-03-30",
+      "tags": [
+        "sky",
+        "daylight",
+        "natural-illuminant"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jussi Parkkinen, Pertti Silfsten. Non-commercial use only. Source: https://sites.uef.fi/spectral/daylight-spectra/"
+    },
+    {
+      "path": "spectra/nature/uef_daylight.json",
+      "file_type": "batch",
+      "id": "sky-10",
+      "title": "Sky (mirror reflection) #10",
+      "measurement_type": "Radiance",
+      "wavelength_range_nm": [
+        390.0,
+        1070.0
+      ],
+      "n_points": 171,
+      "date": "1995-03-30",
+      "tags": [
+        "sky",
+        "daylight",
+        "natural-illuminant"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jussi Parkkinen, Pertti Silfsten. Non-commercial use only. Source: https://sites.uef.fi/spectral/daylight-spectra/"
+    },
+    {
+      "path": "spectra/nature/uef_daylight.json",
+      "file_type": "batch",
+      "id": "sky-11",
+      "title": "Sky (mirror reflection) #11",
+      "measurement_type": "Radiance",
+      "wavelength_range_nm": [
+        390.0,
+        1070.0
+      ],
+      "n_points": 171,
+      "date": "1995-03-30",
+      "tags": [
+        "sky",
+        "daylight",
+        "natural-illuminant"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jussi Parkkinen, Pertti Silfsten. Non-commercial use only. Source: https://sites.uef.fi/spectral/daylight-spectra/"
+    },
+    {
+      "path": "spectra/nature/uef_daylight.json",
+      "file_type": "batch",
+      "id": "sky-12",
+      "title": "Sky (mirror reflection) #12",
+      "measurement_type": "Radiance",
+      "wavelength_range_nm": [
+        390.0,
+        1070.0
+      ],
+      "n_points": 171,
+      "date": "1995-03-30",
+      "tags": [
+        "sky",
+        "daylight",
+        "natural-illuminant"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jussi Parkkinen, Pertti Silfsten. Non-commercial use only. Source: https://sites.uef.fi/spectral/daylight-spectra/"
+    },
+    {
+      "path": "spectra/nature/uef_daylight.json",
+      "file_type": "batch",
+      "id": "sky-13",
+      "title": "Sky (mirror reflection) #13",
+      "measurement_type": "Radiance",
+      "wavelength_range_nm": [
+        390.0,
+        1070.0
+      ],
+      "n_points": 171,
+      "date": "1995-03-30",
+      "tags": [
+        "sky",
+        "daylight",
+        "natural-illuminant"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jussi Parkkinen, Pertti Silfsten. Non-commercial use only. Source: https://sites.uef.fi/spectral/daylight-spectra/"
+    },
+    {
+      "path": "spectra/nature/uef_daylight.json",
+      "file_type": "batch",
+      "id": "sky-14",
+      "title": "Sky (mirror reflection) #14",
+      "measurement_type": "Radiance",
+      "wavelength_range_nm": [
+        390.0,
+        1070.0
+      ],
+      "n_points": 171,
+      "date": "1995-03-30",
+      "tags": [
+        "sky",
+        "daylight",
+        "natural-illuminant"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jussi Parkkinen, Pertti Silfsten. Non-commercial use only. Source: https://sites.uef.fi/spectral/daylight-spectra/"
+    },
+    {
+      "path": "spectra/nature/uef_daylight.json",
+      "file_type": "batch",
+      "id": "sky-15",
+      "title": "Sky (mirror reflection) #15",
+      "measurement_type": "Radiance",
+      "wavelength_range_nm": [
+        390.0,
+        1070.0
+      ],
+      "n_points": 171,
+      "date": "1995-03-30",
+      "tags": [
+        "sky",
+        "daylight",
+        "natural-illuminant"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jussi Parkkinen, Pertti Silfsten. Non-commercial use only. Source: https://sites.uef.fi/spectral/daylight-spectra/"
+    },
+    {
+      "path": "spectra/nature/uef_daylight.json",
+      "file_type": "batch",
+      "id": "sky-16",
+      "title": "Sky (mirror reflection) #16",
+      "measurement_type": "Radiance",
+      "wavelength_range_nm": [
+        390.0,
+        1070.0
+      ],
+      "n_points": 171,
+      "date": "1995-03-30",
+      "tags": [
+        "sky",
+        "daylight",
+        "natural-illuminant"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jussi Parkkinen, Pertti Silfsten. Non-commercial use only. Source: https://sites.uef.fi/spectral/daylight-spectra/"
+    },
+    {
+      "path": "spectra/nature/uef_daylight.json",
+      "file_type": "batch",
+      "id": "sky-17",
+      "title": "Sky (mirror reflection) #17",
+      "measurement_type": "Radiance",
+      "wavelength_range_nm": [
+        390.0,
+        1070.0
+      ],
+      "n_points": 171,
+      "date": "1995-03-30",
+      "tags": [
+        "sky",
+        "daylight",
+        "natural-illuminant"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jussi Parkkinen, Pertti Silfsten. Non-commercial use only. Source: https://sites.uef.fi/spectral/daylight-spectra/"
+    },
+    {
+      "path": "spectra/nature/uef_daylight.json",
+      "file_type": "batch",
+      "id": "sky-18",
+      "title": "Sky (mirror reflection) #18",
+      "measurement_type": "Radiance",
+      "wavelength_range_nm": [
+        390.0,
+        1070.0
+      ],
+      "n_points": 171,
+      "date": "1995-03-30",
+      "tags": [
+        "sky",
+        "daylight",
+        "natural-illuminant"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jussi Parkkinen, Pertti Silfsten. Non-commercial use only. Source: https://sites.uef.fi/spectral/daylight-spectra/"
+    },
+    {
+      "path": "spectra/nature/uef_daylight.json",
+      "file_type": "batch",
+      "id": "sky-19",
+      "title": "Sky (mirror reflection) #19",
+      "measurement_type": "Radiance",
+      "wavelength_range_nm": [
+        390.0,
+        1070.0
+      ],
+      "n_points": 171,
+      "date": "1995-03-30",
+      "tags": [
+        "sky",
+        "daylight",
+        "natural-illuminant"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jussi Parkkinen, Pertti Silfsten. Non-commercial use only. Source: https://sites.uef.fi/spectral/daylight-spectra/"
+    },
+    {
+      "path": "spectra/nature/uef_daylight.json",
+      "file_type": "batch",
+      "id": "sky-20",
+      "title": "Sky (mirror reflection) #20",
+      "measurement_type": "Radiance",
+      "wavelength_range_nm": [
+        390.0,
+        1070.0
+      ],
+      "n_points": 171,
+      "date": "1995-03-30",
+      "tags": [
+        "sky",
+        "daylight",
+        "natural-illuminant"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jussi Parkkinen, Pertti Silfsten. Non-commercial use only. Source: https://sites.uef.fi/spectral/daylight-spectra/"
+    },
+    {
+      "path": "spectra/nature/uef_daylight.json",
+      "file_type": "batch",
+      "id": "sky-21",
+      "title": "Sky (mirror reflection) #21",
+      "measurement_type": "Radiance",
+      "wavelength_range_nm": [
+        390.0,
+        1070.0
+      ],
+      "n_points": 171,
+      "date": "1995-03-30",
+      "tags": [
+        "sky",
+        "daylight",
+        "natural-illuminant"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jussi Parkkinen, Pertti Silfsten. Non-commercial use only. Source: https://sites.uef.fi/spectral/daylight-spectra/"
+    },
+    {
+      "path": "spectra/nature/uef_daylight.json",
+      "file_type": "batch",
+      "id": "sky-22",
+      "title": "Sky (mirror reflection) #22",
+      "measurement_type": "Radiance",
+      "wavelength_range_nm": [
+        390.0,
+        1070.0
+      ],
+      "n_points": 171,
+      "date": "1995-03-30",
+      "tags": [
+        "sky",
+        "daylight",
+        "natural-illuminant"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jussi Parkkinen, Pertti Silfsten. Non-commercial use only. Source: https://sites.uef.fi/spectral/daylight-spectra/"
+    },
+    {
+      "path": "spectra/nature/uef_daylight.json",
+      "file_type": "batch",
+      "id": "tree-01",
+      "title": "Spruce tree (~100 m distance) #1",
+      "measurement_type": "Radiance",
+      "wavelength_range_nm": [
+        390.0,
+        1070.0
+      ],
+      "n_points": 171,
+      "date": "1995-03-30",
+      "tags": [
+        "tree",
+        "spruce",
+        "vegetation",
+        "daylight"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jussi Parkkinen, Pertti Silfsten. Non-commercial use only. Source: https://sites.uef.fi/spectral/daylight-spectra/"
+    },
+    {
+      "path": "spectra/nature/uef_daylight.json",
+      "file_type": "batch",
+      "id": "tree-02",
+      "title": "Spruce tree (~100 m distance) #2",
+      "measurement_type": "Radiance",
+      "wavelength_range_nm": [
+        390.0,
+        1070.0
+      ],
+      "n_points": 171,
+      "date": "1995-03-30",
+      "tags": [
+        "tree",
+        "spruce",
+        "vegetation",
+        "daylight"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jussi Parkkinen, Pertti Silfsten. Non-commercial use only. Source: https://sites.uef.fi/spectral/daylight-spectra/"
+    },
+    {
+      "path": "spectra/nature/uef_daylight.json",
+      "file_type": "batch",
+      "id": "tree-03",
+      "title": "Spruce tree (~100 m distance) #3",
+      "measurement_type": "Radiance",
+      "wavelength_range_nm": [
+        390.0,
+        1070.0
+      ],
+      "n_points": 171,
+      "date": "1995-03-30",
+      "tags": [
+        "tree",
+        "spruce",
+        "vegetation",
+        "daylight"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jussi Parkkinen, Pertti Silfsten. Non-commercial use only. Source: https://sites.uef.fi/spectral/daylight-spectra/"
+    },
+    {
+      "path": "spectra/nature/uef_daylight.json",
+      "file_type": "batch",
+      "id": "tree-04",
+      "title": "Spruce tree (~100 m distance) #4",
+      "measurement_type": "Radiance",
+      "wavelength_range_nm": [
+        390.0,
+        1070.0
+      ],
+      "n_points": 171,
+      "date": "1995-03-30",
+      "tags": [
+        "tree",
+        "spruce",
+        "vegetation",
+        "daylight"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jussi Parkkinen, Pertti Silfsten. Non-commercial use only. Source: https://sites.uef.fi/spectral/daylight-spectra/"
+    },
+    {
+      "path": "spectra/nature/uef_daylight.json",
+      "file_type": "batch",
+      "id": "tree-05",
+      "title": "Spruce tree (~100 m distance) #5",
+      "measurement_type": "Radiance",
+      "wavelength_range_nm": [
+        390.0,
+        1070.0
+      ],
+      "n_points": 171,
+      "date": "1995-03-30",
+      "tags": [
+        "tree",
+        "spruce",
+        "vegetation",
+        "daylight"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jussi Parkkinen, Pertti Silfsten. Non-commercial use only. Source: https://sites.uef.fi/spectral/daylight-spectra/"
+    },
+    {
+      "path": "spectra/nature/uef_daylight.json",
+      "file_type": "batch",
+      "id": "tree-06",
+      "title": "Spruce tree (~100 m distance) #6",
+      "measurement_type": "Radiance",
+      "wavelength_range_nm": [
+        390.0,
+        1070.0
+      ],
+      "n_points": 171,
+      "date": "1995-03-30",
+      "tags": [
+        "tree",
+        "spruce",
+        "vegetation",
+        "daylight"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jussi Parkkinen, Pertti Silfsten. Non-commercial use only. Source: https://sites.uef.fi/spectral/daylight-spectra/"
+    },
+    {
+      "path": "spectra/nature/uef_daylight.json",
+      "file_type": "batch",
+      "id": "tree-07",
+      "title": "Spruce tree (~100 m distance) #7",
+      "measurement_type": "Radiance",
+      "wavelength_range_nm": [
+        390.0,
+        1070.0
+      ],
+      "n_points": 171,
+      "date": "1995-03-30",
+      "tags": [
+        "tree",
+        "spruce",
+        "vegetation",
+        "daylight"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jussi Parkkinen, Pertti Silfsten. Non-commercial use only. Source: https://sites.uef.fi/spectral/daylight-spectra/"
+    },
+    {
+      "path": "spectra/nature/uef_daylight.json",
+      "file_type": "batch",
+      "id": "tree-08",
+      "title": "Spruce tree (~100 m distance) #8",
+      "measurement_type": "Radiance",
+      "wavelength_range_nm": [
+        390.0,
+        1070.0
+      ],
+      "n_points": 171,
+      "date": "1995-03-30",
+      "tags": [
+        "tree",
+        "spruce",
+        "vegetation",
+        "daylight"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jussi Parkkinen, Pertti Silfsten. Non-commercial use only. Source: https://sites.uef.fi/spectral/daylight-spectra/"
+    },
+    {
+      "path": "spectra/nature/uef_daylight.json",
+      "file_type": "batch",
+      "id": "tree-09",
+      "title": "Spruce tree (~100 m distance) #9",
+      "measurement_type": "Radiance",
+      "wavelength_range_nm": [
+        390.0,
+        1070.0
+      ],
+      "n_points": 171,
+      "date": "1995-03-30",
+      "tags": [
+        "tree",
+        "spruce",
+        "vegetation",
+        "daylight"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jussi Parkkinen, Pertti Silfsten. Non-commercial use only. Source: https://sites.uef.fi/spectral/daylight-spectra/"
+    },
+    {
+      "path": "spectra/nature/uef_daylight.json",
+      "file_type": "batch",
+      "id": "tree-10",
+      "title": "Spruce tree (~100 m distance) #10",
+      "measurement_type": "Radiance",
+      "wavelength_range_nm": [
+        390.0,
+        1070.0
+      ],
+      "n_points": 171,
+      "date": "1995-03-30",
+      "tags": [
+        "tree",
+        "spruce",
+        "vegetation",
+        "daylight"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jussi Parkkinen, Pertti Silfsten. Non-commercial use only. Source: https://sites.uef.fi/spectral/daylight-spectra/"
+    },
+    {
+      "path": "spectra/nature/uef_daylight.json",
+      "file_type": "batch",
+      "id": "tree-11",
+      "title": "Spruce tree (~100 m distance) #11",
+      "measurement_type": "Radiance",
+      "wavelength_range_nm": [
+        390.0,
+        1070.0
+      ],
+      "n_points": 171,
+      "date": "1995-03-30",
+      "tags": [
+        "tree",
+        "spruce",
+        "vegetation",
+        "daylight"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jussi Parkkinen, Pertti Silfsten. Non-commercial use only. Source: https://sites.uef.fi/spectral/daylight-spectra/"
+    },
+    {
+      "path": "spectra/nature/uef_daylight.json",
+      "file_type": "batch",
+      "id": "tree-12",
+      "title": "Spruce tree (~100 m distance) #12",
+      "measurement_type": "Radiance",
+      "wavelength_range_nm": [
+        390.0,
+        1070.0
+      ],
+      "n_points": 171,
+      "date": "1995-03-30",
+      "tags": [
+        "tree",
+        "spruce",
+        "vegetation",
+        "daylight"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jussi Parkkinen, Pertti Silfsten. Non-commercial use only. Source: https://sites.uef.fi/spectral/daylight-spectra/"
+    },
+    {
+      "path": "spectra/nature/uef_daylight.json",
+      "file_type": "batch",
+      "id": "tree-13",
+      "title": "Spruce tree (~100 m distance) #13",
+      "measurement_type": "Radiance",
+      "wavelength_range_nm": [
+        390.0,
+        1070.0
+      ],
+      "n_points": 171,
+      "date": "1995-03-30",
+      "tags": [
+        "tree",
+        "spruce",
+        "vegetation",
+        "daylight"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jussi Parkkinen, Pertti Silfsten. Non-commercial use only. Source: https://sites.uef.fi/spectral/daylight-spectra/"
+    },
+    {
+      "path": "spectra/nature/uef_daylight.json",
+      "file_type": "batch",
+      "id": "tree-14",
+      "title": "Spruce tree (~100 m distance) #14",
+      "measurement_type": "Radiance",
+      "wavelength_range_nm": [
+        390.0,
+        1070.0
+      ],
+      "n_points": 171,
+      "date": "1995-03-30",
+      "tags": [
+        "tree",
+        "spruce",
+        "vegetation",
+        "daylight"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jussi Parkkinen, Pertti Silfsten. Non-commercial use only. Source: https://sites.uef.fi/spectral/daylight-spectra/"
+    },
+    {
+      "path": "spectra/nature/uef_daylight.json",
+      "file_type": "batch",
+      "id": "tree-15",
+      "title": "Spruce tree (~100 m distance) #15",
+      "measurement_type": "Radiance",
+      "wavelength_range_nm": [
+        390.0,
+        1070.0
+      ],
+      "n_points": 171,
+      "date": "1995-03-30",
+      "tags": [
+        "tree",
+        "spruce",
+        "vegetation",
+        "daylight"
+      ],
+      "copyright": "© University of Eastern Finland (UEF) / Jussi Parkkinen, Pertti Silfsten. Non-commercial use only. Source: https://sites.uef.fi/spectral/daylight-spectra/"
     }
   ]
 }
