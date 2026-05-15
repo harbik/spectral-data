@@ -1,0 +1,239 @@
+{
+  "schema_version": "1.0.0",
+  "file_type": "batch",
+  "batch_metadata": {
+    "title": "UEF Paper Dataset — Mirror Calibration Reference",
+    "date": "1994-10-10",
+    "operator": "Jouni Haanpalo",
+    "instrument": {
+      "manufacturer": "Minolta",
+      "model": "CM-2002"
+    },
+    "measurement_conditions": {
+      "spectral_resolution_nm": 10.0,
+      "geometry": "d/8",
+      "specular_component": "included"
+    }
+  },
+  "spectra": [
+    {
+      "id": "mirror-sci-01",
+      "metadata": {
+        "measurement_type": "reflectance",
+        "date": "1994-10-10",
+        "title": "First-surface mirror calibration reference #1",
+        "operator": "Jouni Haanpalo",
+        "instrument": {
+          "manufacturer": "Minolta",
+          "model": "CM-2002"
+        },
+        "measurement_conditions": {
+          "spectral_resolution_nm": 10.0,
+          "geometry": "d/8",
+          "specular_component": "included"
+        },
+        "tags": [
+          "paper",
+          "mirror",
+          "calibration",
+          "sci"
+        ],
+        "copyright": "© University of Eastern Finland (UEF) / Jouni Haanpalo. Non-commercial use only. Source: https://sites.uef.fi/spectral/paper-spectra/"
+      },
+      "wavelength_axis": {
+        "range_nm": {
+          "start": 400,
+          "end": 700,
+          "interval": 10
+        }
+      },
+      "spectral_data": {
+        "values": [
+          0.977,
+          0.9771,
+          0.9747,
+          0.9721,
+          0.971,
+          0.9706,
+          0.9708,
+          0.971,
+          0.9709,
+          0.9716,
+          0.9714,
+          0.9717,
+          0.9714,
+          0.9712,
+          0.9703,
+          0.97,
+          0.9692,
+          0.9686,
+          0.9685,
+          0.9676,
+          0.9657,
+          0.9648,
+          0.9641,
+          0.9628,
+          0.9612,
+          0.9604,
+          0.9606,
+          0.961,
+          0.9608,
+          0.962,
+          0.9621
+        ],
+        "scale": "fractional"
+      },
+      "provenance": {
+        "source_file": "mirrorsci.mat",
+        "source_format": "MATLAB (UEF paper dataset)",
+        "notes": "Calibration spectra measured from a first-surface mirror used as SCI reference. Source values in percent; divided by 100."
+      }
+    },
+    {
+      "id": "mirror-sci-02",
+      "metadata": {
+        "measurement_type": "reflectance",
+        "date": "1994-10-10",
+        "title": "First-surface mirror calibration reference #2",
+        "operator": "Jouni Haanpalo",
+        "instrument": {
+          "manufacturer": "Minolta",
+          "model": "CM-2002"
+        },
+        "measurement_conditions": {
+          "spectral_resolution_nm": 10.0,
+          "geometry": "d/8",
+          "specular_component": "included"
+        },
+        "tags": [
+          "paper",
+          "mirror",
+          "calibration",
+          "sci"
+        ],
+        "copyright": "© University of Eastern Finland (UEF) / Jouni Haanpalo. Non-commercial use only. Source: https://sites.uef.fi/spectral/paper-spectra/"
+      },
+      "wavelength_axis": {
+        "range_nm": {
+          "start": 400,
+          "end": 700,
+          "interval": 10
+        }
+      },
+      "spectral_data": {
+        "values": [
+          0.977,
+          0.9771,
+          0.9743,
+          0.9718,
+          0.9712,
+          0.9705,
+          0.9706,
+          0.9709,
+          0.971,
+          0.9714,
+          0.9713,
+          0.9715,
+          0.9718,
+          0.9712,
+          0.9704,
+          0.9696,
+          0.9693,
+          0.9687,
+          0.9677,
+          0.9672,
+          0.9661,
+          0.9648,
+          0.9637,
+          0.9621,
+          0.9609,
+          0.9608,
+          0.9604,
+          0.9606,
+          0.9613,
+          0.9618,
+          0.9616
+        ],
+        "scale": "fractional"
+      },
+      "provenance": {
+        "source_file": "mirrorsci.mat",
+        "source_format": "MATLAB (UEF paper dataset)",
+        "notes": "Calibration spectra measured from a first-surface mirror used as SCI reference. Source values in percent; divided by 100."
+      }
+    },
+    {
+      "id": "mirror-sci-03",
+      "metadata": {
+        "measurement_type": "reflectance",
+        "date": "1994-10-10",
+        "title": "First-surface mirror calibration reference #3",
+        "operator": "Jouni Haanpalo",
+        "instrument": {
+          "manufacturer": "Minolta",
+          "model": "CM-2002"
+        },
+        "measurement_conditions": {
+          "spectral_resolution_nm": 10.0,
+          "geometry": "d/8",
+          "specular_component": "included"
+        },
+        "tags": [
+          "paper",
+          "mirror",
+          "calibration",
+          "sci"
+        ],
+        "copyright": "© University of Eastern Finland (UEF) / Jouni Haanpalo. Non-commercial use only. Source: https://sites.uef.fi/spectral/paper-spectra/"
+      },
+      "wavelength_axis": {
+        "range_nm": {
+          "start": 400,
+          "end": 700,
+          "interval": 10
+        }
+      },
+      "spectral_data": {
+        "values": [
+          0.9772,
+          0.9772,
+          0.9744,
+          0.972,
+          0.9713,
+          0.9707,
+          0.9709,
+          0.9708,
+          0.9708,
+          0.9716,
+          0.9714,
+          0.9717,
+          0.9717,
+          0.9714,
+          0.9704,
+          0.9701,
+          0.9693,
+          0.9686,
+          0.9679,
+          0.9673,
+          0.9662,
+          0.9649,
+          0.9638,
+          0.9625,
+          0.9611,
+          0.9605,
+          0.9605,
+          0.9609,
+          0.9614,
+          0.962,
+          0.9622
+        ],
+        "scale": "fractional"
+      },
+      "provenance": {
+        "source_file": "mirrorsci.mat",
+        "source_format": "MATLAB (UEF paper dataset)",
+        "notes": "Calibration spectra measured from a first-surface mirror used as SCI reference. Source values in percent; divided by 100."
+      }
+    }
+  ]
+}
