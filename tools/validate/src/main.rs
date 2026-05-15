@@ -16,7 +16,12 @@ fn main() {
         match SpectrumFile::from_path(&path) {
             Ok(file) => {
                 let n = file.spectra().len();
-                println!("ok  {} ({} {})", arg, n, if n == 1 { "spectrum" } else { "spectra" });
+                println!(
+                    "ok  {} ({} {})",
+                    arg,
+                    n,
+                    if n == 1 { "spectrum" } else { "spectra" }
+                );
             }
             Err(e) => {
                 eprintln!("ERR {arg}");
