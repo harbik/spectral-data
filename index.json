@@ -1,7 +1,7 @@
 {
   "schema_version": "1",
-  "generated": "2026-05-15",
-  "count": 6882,
+  "generated": "2026-05-17",
+  "count": 7202,
   "spectra": [
     {
       "path": "spectra/candies/uef_dyes.json",
@@ -6223,6 +6223,4486 @@
         "agfa"
       ],
       "copyright": "© Elzbieta Marszalec / University of Oulu. Source: https://sites.uef.fi/spectral/agfa-it8-7-2-set/ (contact: Markku Hauta-Kasari, University of Eastern Finland)"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS01",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS02",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS03",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS04",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS05",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS06",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS07",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS08",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS09",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS10",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS11",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS12",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS13",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS14",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS15",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS16",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS17",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS18",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS19",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS20",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS21",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS22",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS23",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS24",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS25",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS26",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS27",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS28",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS29",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS30",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS31",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS32",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS33",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS34",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS35",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS36",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS37",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS38",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS39",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS40",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS41",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS42",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS43",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS44",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS45",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS46",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS47",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS48",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS49",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS50",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS51",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS52",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS53",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS54",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS55",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS56",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS57",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS58",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS59",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS60",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS61",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS62",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS63",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS64",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS65",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS66",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS67",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS68",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS69",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS70",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS71",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS72",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS73",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS74",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS75",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS76",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS77",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS78",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS79",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS80",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS81",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS82",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS83",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS84",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS85",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS86",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS87",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS88",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS89",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS90",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS91",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS92",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS93",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS94",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS95",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS96",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS97",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS98",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_1nm.json",
+      "file_type": "batch",
+      "id": "CS99",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (1 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS01",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS02",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS03",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS04",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS05",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS06",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS07",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS08",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS09",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS10",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS11",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS12",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS13",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS14",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS15",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS16",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS17",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS18",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS19",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS20",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS21",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS22",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS23",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS24",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS25",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS26",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS27",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS28",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS29",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS30",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS31",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS32",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS33",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS34",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS35",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS36",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS37",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS38",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS39",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS40",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS41",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS42",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS43",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS44",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS45",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS46",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS47",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS48",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS49",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS50",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS51",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS52",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS53",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS54",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS55",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS56",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS57",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS58",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS59",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS60",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS61",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS62",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS63",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS64",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS65",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS66",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS67",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS68",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS69",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS70",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS71",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS72",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS73",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS74",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS75",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS76",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS77",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS78",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS79",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS80",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS81",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS82",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS83",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS84",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS85",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS86",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS87",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS88",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS89",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS90",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS91",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS92",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS93",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS94",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS95",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS96",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS97",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS98",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cfi_99_test_samples_5nm.json",
+      "file_type": "batch",
+      "id": "CS99",
+      "title": "CIE Colour Fidelity Index — Spectral Radiance Factors of 99 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2017-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cqs_15_test_samples.json",
+      "file_type": "batch",
+      "id": "VS1",
+      "title": "CIE Colour Quality Scale — Spectral Radiance Factors of 15 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2024-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cqs_15_test_samples.json",
+      "file_type": "batch",
+      "id": "VS2",
+      "title": "CIE Colour Quality Scale — Spectral Radiance Factors of 15 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2024-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cqs_15_test_samples.json",
+      "file_type": "batch",
+      "id": "VS3",
+      "title": "CIE Colour Quality Scale — Spectral Radiance Factors of 15 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2024-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cqs_15_test_samples.json",
+      "file_type": "batch",
+      "id": "VS4",
+      "title": "CIE Colour Quality Scale — Spectral Radiance Factors of 15 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2024-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cqs_15_test_samples.json",
+      "file_type": "batch",
+      "id": "VS5",
+      "title": "CIE Colour Quality Scale — Spectral Radiance Factors of 15 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2024-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cqs_15_test_samples.json",
+      "file_type": "batch",
+      "id": "VS6",
+      "title": "CIE Colour Quality Scale — Spectral Radiance Factors of 15 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2024-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cqs_15_test_samples.json",
+      "file_type": "batch",
+      "id": "VS7",
+      "title": "CIE Colour Quality Scale — Spectral Radiance Factors of 15 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2024-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cqs_15_test_samples.json",
+      "file_type": "batch",
+      "id": "VS8",
+      "title": "CIE Colour Quality Scale — Spectral Radiance Factors of 15 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2024-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cqs_15_test_samples.json",
+      "file_type": "batch",
+      "id": "VS9",
+      "title": "CIE Colour Quality Scale — Spectral Radiance Factors of 15 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2024-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cqs_15_test_samples.json",
+      "file_type": "batch",
+      "id": "VS10",
+      "title": "CIE Colour Quality Scale — Spectral Radiance Factors of 15 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2024-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cqs_15_test_samples.json",
+      "file_type": "batch",
+      "id": "VS11",
+      "title": "CIE Colour Quality Scale — Spectral Radiance Factors of 15 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2024-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cqs_15_test_samples.json",
+      "file_type": "batch",
+      "id": "VS12",
+      "title": "CIE Colour Quality Scale — Spectral Radiance Factors of 15 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2024-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cqs_15_test_samples.json",
+      "file_type": "batch",
+      "id": "VS13",
+      "title": "CIE Colour Quality Scale — Spectral Radiance Factors of 15 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2024-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cqs_15_test_samples.json",
+      "file_type": "batch",
+      "id": "VS14",
+      "title": "CIE Colour Quality Scale — Spectral Radiance Factors of 15 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2024-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cqs_15_test_samples.json",
+      "file_type": "batch",
+      "id": "VS15",
+      "title": "CIE Colour Quality Scale — Spectral Radiance Factors of 15 Test Colour Samples (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2024-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cri_14_test_samples.json",
+      "file_type": "batch",
+      "id": "TCS01",
+      "title": "CIE Colour Rendering Index — Spectral Radiance Factors of 14 Test Colour Samples",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        360.0,
+        830.0
+      ],
+      "n_points": 95,
+      "date": "1995-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cri_14_test_samples.json",
+      "file_type": "batch",
+      "id": "TCS02",
+      "title": "CIE Colour Rendering Index — Spectral Radiance Factors of 14 Test Colour Samples",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        360.0,
+        830.0
+      ],
+      "n_points": 95,
+      "date": "1995-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cri_14_test_samples.json",
+      "file_type": "batch",
+      "id": "TCS03",
+      "title": "CIE Colour Rendering Index — Spectral Radiance Factors of 14 Test Colour Samples",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        360.0,
+        830.0
+      ],
+      "n_points": 95,
+      "date": "1995-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cri_14_test_samples.json",
+      "file_type": "batch",
+      "id": "TCS04",
+      "title": "CIE Colour Rendering Index — Spectral Radiance Factors of 14 Test Colour Samples",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        360.0,
+        830.0
+      ],
+      "n_points": 95,
+      "date": "1995-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cri_14_test_samples.json",
+      "file_type": "batch",
+      "id": "TCS05",
+      "title": "CIE Colour Rendering Index — Spectral Radiance Factors of 14 Test Colour Samples",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        360.0,
+        830.0
+      ],
+      "n_points": 95,
+      "date": "1995-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cri_14_test_samples.json",
+      "file_type": "batch",
+      "id": "TCS06",
+      "title": "CIE Colour Rendering Index — Spectral Radiance Factors of 14 Test Colour Samples",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        360.0,
+        830.0
+      ],
+      "n_points": 95,
+      "date": "1995-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cri_14_test_samples.json",
+      "file_type": "batch",
+      "id": "TCS07",
+      "title": "CIE Colour Rendering Index — Spectral Radiance Factors of 14 Test Colour Samples",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        360.0,
+        830.0
+      ],
+      "n_points": 95,
+      "date": "1995-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cri_14_test_samples.json",
+      "file_type": "batch",
+      "id": "TCS08",
+      "title": "CIE Colour Rendering Index — Spectral Radiance Factors of 14 Test Colour Samples",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        360.0,
+        830.0
+      ],
+      "n_points": 95,
+      "date": "1995-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cri_14_test_samples.json",
+      "file_type": "batch",
+      "id": "TCS09",
+      "title": "CIE Colour Rendering Index — Spectral Radiance Factors of 14 Test Colour Samples",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        360.0,
+        830.0
+      ],
+      "n_points": 95,
+      "date": "1995-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cri_14_test_samples.json",
+      "file_type": "batch",
+      "id": "TCS10",
+      "title": "CIE Colour Rendering Index — Spectral Radiance Factors of 14 Test Colour Samples",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        360.0,
+        830.0
+      ],
+      "n_points": 95,
+      "date": "1995-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cri_14_test_samples.json",
+      "file_type": "batch",
+      "id": "TCS11",
+      "title": "CIE Colour Rendering Index — Spectral Radiance Factors of 14 Test Colour Samples",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        360.0,
+        830.0
+      ],
+      "n_points": 95,
+      "date": "1995-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cri_14_test_samples.json",
+      "file_type": "batch",
+      "id": "TCS12",
+      "title": "CIE Colour Rendering Index — Spectral Radiance Factors of 14 Test Colour Samples",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        360.0,
+        830.0
+      ],
+      "n_points": 95,
+      "date": "1995-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cri_14_test_samples.json",
+      "file_type": "batch",
+      "id": "TCS13",
+      "title": "CIE Colour Rendering Index — Spectral Radiance Factors of 14 Test Colour Samples",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        360.0,
+        830.0
+      ],
+      "n_points": 95,
+      "date": "1995-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_cri_14_test_samples.json",
+      "file_type": "batch",
+      "id": "TCS14",
+      "title": "CIE Colour Rendering Index — Spectral Radiance Factors of 14 Test Colour Samples",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        360.0,
+        830.0
+      ],
+      "n_points": 95,
+      "date": "1995-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_four_colour_rygb.json",
+      "file_type": "batch",
+      "id": "Red",
+      "title": "CIE Four-Colour Combination — Spectral Radiance Factors of Red, Yellow, Green, Blue (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_four_colour_rygb.json",
+      "file_type": "batch",
+      "id": "Yellow",
+      "title": "CIE Four-Colour Combination — Spectral Radiance Factors of Red, Yellow, Green, Blue (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_four_colour_rygb.json",
+      "file_type": "batch",
+      "id": "Green",
+      "title": "CIE Four-Colour Combination — Spectral Radiance Factors of Red, Yellow, Green, Blue (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_four_colour_rygb.json",
+      "file_type": "batch",
+      "id": "Blue",
+      "title": "CIE Four-Colour Combination — Spectral Radiance Factors of Red, Yellow, Green, Blue (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/color_rendering/cie_japanese_skin_complexion.json",
+      "file_type": "single",
+      "id": "beta_15",
+      "title": "CIE Test Colour Sample 15 — Japanese Skin Complexion (5 nm)",
+      "measurement_type": "Reflectance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_illum_daylight_components.json",
+      "file_type": "batch",
+      "id": "S0",
+      "title": "CIE Daylight Spectral Components S0, S1, S2",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        300.0,
+        830.0
+      ],
+      "n_points": 107,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_illum_daylight_components.json",
+      "file_type": "batch",
+      "id": "S1",
+      "title": "CIE Daylight Spectral Components S0, S1, S2",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        300.0,
+        830.0
+      ],
+      "n_points": 107,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_illum_daylight_components.json",
+      "file_type": "batch",
+      "id": "S2",
+      "title": "CIE Daylight Spectral Components S0, S1, S2",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        300.0,
+        830.0
+      ],
+      "n_points": 107,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_illum_fl_lamps_1nm.json",
+      "file_type": "batch",
+      "id": "FL1",
+      "title": "CIE Fluorescent Lamp Illuminants FL1–FL12 and FL3.1–FL3.15 (1 nm)",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_illum_fl_lamps_1nm.json",
+      "file_type": "batch",
+      "id": "FL2",
+      "title": "CIE Fluorescent Lamp Illuminants FL1–FL12 and FL3.1–FL3.15 (1 nm)",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_illum_fl_lamps_1nm.json",
+      "file_type": "batch",
+      "id": "FL3",
+      "title": "CIE Fluorescent Lamp Illuminants FL1–FL12 and FL3.1–FL3.15 (1 nm)",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_illum_fl_lamps_1nm.json",
+      "file_type": "batch",
+      "id": "FL4",
+      "title": "CIE Fluorescent Lamp Illuminants FL1–FL12 and FL3.1–FL3.15 (1 nm)",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_illum_fl_lamps_1nm.json",
+      "file_type": "batch",
+      "id": "FL5",
+      "title": "CIE Fluorescent Lamp Illuminants FL1–FL12 and FL3.1–FL3.15 (1 nm)",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_illum_fl_lamps_1nm.json",
+      "file_type": "batch",
+      "id": "FL6",
+      "title": "CIE Fluorescent Lamp Illuminants FL1–FL12 and FL3.1–FL3.15 (1 nm)",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_illum_fl_lamps_1nm.json",
+      "file_type": "batch",
+      "id": "FL7",
+      "title": "CIE Fluorescent Lamp Illuminants FL1–FL12 and FL3.1–FL3.15 (1 nm)",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_illum_fl_lamps_1nm.json",
+      "file_type": "batch",
+      "id": "FL8",
+      "title": "CIE Fluorescent Lamp Illuminants FL1–FL12 and FL3.1–FL3.15 (1 nm)",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_illum_fl_lamps_1nm.json",
+      "file_type": "batch",
+      "id": "FL9",
+      "title": "CIE Fluorescent Lamp Illuminants FL1–FL12 and FL3.1–FL3.15 (1 nm)",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_illum_fl_lamps_1nm.json",
+      "file_type": "batch",
+      "id": "FL10",
+      "title": "CIE Fluorescent Lamp Illuminants FL1–FL12 and FL3.1–FL3.15 (1 nm)",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_illum_fl_lamps_1nm.json",
+      "file_type": "batch",
+      "id": "FL11",
+      "title": "CIE Fluorescent Lamp Illuminants FL1–FL12 and FL3.1–FL3.15 (1 nm)",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_illum_fl_lamps_1nm.json",
+      "file_type": "batch",
+      "id": "FL12",
+      "title": "CIE Fluorescent Lamp Illuminants FL1–FL12 and FL3.1–FL3.15 (1 nm)",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_illum_fl_lamps_1nm.json",
+      "file_type": "batch",
+      "id": "FL3.1",
+      "title": "CIE Fluorescent Lamp Illuminants FL1–FL12 and FL3.1–FL3.15 (1 nm)",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_illum_fl_lamps_1nm.json",
+      "file_type": "batch",
+      "id": "FL3.2",
+      "title": "CIE Fluorescent Lamp Illuminants FL1–FL12 and FL3.1–FL3.15 (1 nm)",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_illum_fl_lamps_1nm.json",
+      "file_type": "batch",
+      "id": "FL3.3",
+      "title": "CIE Fluorescent Lamp Illuminants FL1–FL12 and FL3.1–FL3.15 (1 nm)",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_illum_fl_lamps_1nm.json",
+      "file_type": "batch",
+      "id": "FL3.4",
+      "title": "CIE Fluorescent Lamp Illuminants FL1–FL12 and FL3.1–FL3.15 (1 nm)",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_illum_fl_lamps_1nm.json",
+      "file_type": "batch",
+      "id": "FL3.5",
+      "title": "CIE Fluorescent Lamp Illuminants FL1–FL12 and FL3.1–FL3.15 (1 nm)",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_illum_fl_lamps_1nm.json",
+      "file_type": "batch",
+      "id": "FL3.6",
+      "title": "CIE Fluorescent Lamp Illuminants FL1–FL12 and FL3.1–FL3.15 (1 nm)",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_illum_fl_lamps_1nm.json",
+      "file_type": "batch",
+      "id": "FL3.7",
+      "title": "CIE Fluorescent Lamp Illuminants FL1–FL12 and FL3.1–FL3.15 (1 nm)",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_illum_fl_lamps_1nm.json",
+      "file_type": "batch",
+      "id": "FL3.8",
+      "title": "CIE Fluorescent Lamp Illuminants FL1–FL12 and FL3.1–FL3.15 (1 nm)",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_illum_fl_lamps_1nm.json",
+      "file_type": "batch",
+      "id": "FL3.9",
+      "title": "CIE Fluorescent Lamp Illuminants FL1–FL12 and FL3.1–FL3.15 (1 nm)",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_illum_fl_lamps_1nm.json",
+      "file_type": "batch",
+      "id": "FL3.10",
+      "title": "CIE Fluorescent Lamp Illuminants FL1–FL12 and FL3.1–FL3.15 (1 nm)",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_illum_fl_lamps_1nm.json",
+      "file_type": "batch",
+      "id": "FL3.11",
+      "title": "CIE Fluorescent Lamp Illuminants FL1–FL12 and FL3.1–FL3.15 (1 nm)",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_illum_fl_lamps_1nm.json",
+      "file_type": "batch",
+      "id": "FL3.12",
+      "title": "CIE Fluorescent Lamp Illuminants FL1–FL12 and FL3.1–FL3.15 (1 nm)",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_illum_fl_lamps_1nm.json",
+      "file_type": "batch",
+      "id": "FL3.13",
+      "title": "CIE Fluorescent Lamp Illuminants FL1–FL12 and FL3.1–FL3.15 (1 nm)",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_illum_fl_lamps_1nm.json",
+      "file_type": "batch",
+      "id": "FL3.14",
+      "title": "CIE Fluorescent Lamp Illuminants FL1–FL12 and FL3.1–FL3.15 (1 nm)",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_illum_fl_lamps_1nm.json",
+      "file_type": "batch",
+      "id": "FL3.15",
+      "title": "CIE Fluorescent Lamp Illuminants FL1–FL12 and FL3.1–FL3.15 (1 nm)",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_illum_fl_lamps_5nm.json",
+      "file_type": "batch",
+      "id": "FL1",
+      "title": "CIE Fluorescent Lamp Illuminants FL1–FL12 and FL3.1–FL3.15 (5 nm)",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_illum_fl_lamps_5nm.json",
+      "file_type": "batch",
+      "id": "FL2",
+      "title": "CIE Fluorescent Lamp Illuminants FL1–FL12 and FL3.1–FL3.15 (5 nm)",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_illum_fl_lamps_5nm.json",
+      "file_type": "batch",
+      "id": "FL3",
+      "title": "CIE Fluorescent Lamp Illuminants FL1–FL12 and FL3.1–FL3.15 (5 nm)",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_illum_fl_lamps_5nm.json",
+      "file_type": "batch",
+      "id": "FL4",
+      "title": "CIE Fluorescent Lamp Illuminants FL1–FL12 and FL3.1–FL3.15 (5 nm)",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_illum_fl_lamps_5nm.json",
+      "file_type": "batch",
+      "id": "FL5",
+      "title": "CIE Fluorescent Lamp Illuminants FL1–FL12 and FL3.1–FL3.15 (5 nm)",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_illum_fl_lamps_5nm.json",
+      "file_type": "batch",
+      "id": "FL6",
+      "title": "CIE Fluorescent Lamp Illuminants FL1–FL12 and FL3.1–FL3.15 (5 nm)",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_illum_fl_lamps_5nm.json",
+      "file_type": "batch",
+      "id": "FL7",
+      "title": "CIE Fluorescent Lamp Illuminants FL1–FL12 and FL3.1–FL3.15 (5 nm)",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_illum_fl_lamps_5nm.json",
+      "file_type": "batch",
+      "id": "FL8",
+      "title": "CIE Fluorescent Lamp Illuminants FL1–FL12 and FL3.1–FL3.15 (5 nm)",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_illum_fl_lamps_5nm.json",
+      "file_type": "batch",
+      "id": "FL9",
+      "title": "CIE Fluorescent Lamp Illuminants FL1–FL12 and FL3.1–FL3.15 (5 nm)",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_illum_fl_lamps_5nm.json",
+      "file_type": "batch",
+      "id": "FL10",
+      "title": "CIE Fluorescent Lamp Illuminants FL1–FL12 and FL3.1–FL3.15 (5 nm)",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_illum_fl_lamps_5nm.json",
+      "file_type": "batch",
+      "id": "FL11",
+      "title": "CIE Fluorescent Lamp Illuminants FL1–FL12 and FL3.1–FL3.15 (5 nm)",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_illum_fl_lamps_5nm.json",
+      "file_type": "batch",
+      "id": "FL12",
+      "title": "CIE Fluorescent Lamp Illuminants FL1–FL12 and FL3.1–FL3.15 (5 nm)",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_illum_fl_lamps_5nm.json",
+      "file_type": "batch",
+      "id": "FL3.1",
+      "title": "CIE Fluorescent Lamp Illuminants FL1–FL12 and FL3.1–FL3.15 (5 nm)",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_illum_fl_lamps_5nm.json",
+      "file_type": "batch",
+      "id": "FL3.2",
+      "title": "CIE Fluorescent Lamp Illuminants FL1–FL12 and FL3.1–FL3.15 (5 nm)",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_illum_fl_lamps_5nm.json",
+      "file_type": "batch",
+      "id": "FL3.3",
+      "title": "CIE Fluorescent Lamp Illuminants FL1–FL12 and FL3.1–FL3.15 (5 nm)",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_illum_fl_lamps_5nm.json",
+      "file_type": "batch",
+      "id": "FL3.4",
+      "title": "CIE Fluorescent Lamp Illuminants FL1–FL12 and FL3.1–FL3.15 (5 nm)",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_illum_fl_lamps_5nm.json",
+      "file_type": "batch",
+      "id": "FL3.5",
+      "title": "CIE Fluorescent Lamp Illuminants FL1–FL12 and FL3.1–FL3.15 (5 nm)",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_illum_fl_lamps_5nm.json",
+      "file_type": "batch",
+      "id": "FL3.6",
+      "title": "CIE Fluorescent Lamp Illuminants FL1–FL12 and FL3.1–FL3.15 (5 nm)",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_illum_fl_lamps_5nm.json",
+      "file_type": "batch",
+      "id": "FL3.7",
+      "title": "CIE Fluorescent Lamp Illuminants FL1–FL12 and FL3.1–FL3.15 (5 nm)",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_illum_fl_lamps_5nm.json",
+      "file_type": "batch",
+      "id": "FL3.8",
+      "title": "CIE Fluorescent Lamp Illuminants FL1–FL12 and FL3.1–FL3.15 (5 nm)",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_illum_fl_lamps_5nm.json",
+      "file_type": "batch",
+      "id": "FL3.9",
+      "title": "CIE Fluorescent Lamp Illuminants FL1–FL12 and FL3.1–FL3.15 (5 nm)",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_illum_fl_lamps_5nm.json",
+      "file_type": "batch",
+      "id": "FL3.10",
+      "title": "CIE Fluorescent Lamp Illuminants FL1–FL12 and FL3.1–FL3.15 (5 nm)",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_illum_fl_lamps_5nm.json",
+      "file_type": "batch",
+      "id": "FL3.11",
+      "title": "CIE Fluorescent Lamp Illuminants FL1–FL12 and FL3.1–FL3.15 (5 nm)",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_illum_fl_lamps_5nm.json",
+      "file_type": "batch",
+      "id": "FL3.12",
+      "title": "CIE Fluorescent Lamp Illuminants FL1–FL12 and FL3.1–FL3.15 (5 nm)",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_illum_fl_lamps_5nm.json",
+      "file_type": "batch",
+      "id": "FL3.13",
+      "title": "CIE Fluorescent Lamp Illuminants FL1–FL12 and FL3.1–FL3.15 (5 nm)",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_illum_fl_lamps_5nm.json",
+      "file_type": "batch",
+      "id": "FL3.14",
+      "title": "CIE Fluorescent Lamp Illuminants FL1–FL12 and FL3.1–FL3.15 (5 nm)",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_illum_fl_lamps_5nm.json",
+      "file_type": "batch",
+      "id": "FL3.15",
+      "title": "CIE Fluorescent Lamp Illuminants FL1–FL12 and FL3.1–FL3.15 (5 nm)",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_illum_hp_lamps.json",
+      "file_type": "batch",
+      "id": "HP1",
+      "title": "CIE High-Pressure Discharge Lamp Illuminants HP1–HP5",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_illum_hp_lamps.json",
+      "file_type": "batch",
+      "id": "HP2",
+      "title": "CIE High-Pressure Discharge Lamp Illuminants HP1–HP5",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_illum_hp_lamps.json",
+      "file_type": "batch",
+      "id": "HP3",
+      "title": "CIE High-Pressure Discharge Lamp Illuminants HP1–HP5",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_illum_hp_lamps.json",
+      "file_type": "batch",
+      "id": "HP4",
+      "title": "CIE High-Pressure Discharge Lamp Illuminants HP1–HP5",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_illum_hp_lamps.json",
+      "file_type": "batch",
+      "id": "HP5",
+      "title": "CIE High-Pressure Discharge Lamp Illuminants HP1–HP5",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_illum_id50.json",
+      "file_type": "single",
+      "id": "ID50",
+      "title": "CIE Indoor Daylight Illuminant ID50",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        300.0,
+        780.0
+      ],
+      "n_points": 97,
+      "date": "2009-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_illum_id65.json",
+      "file_type": "single",
+      "id": "ID65",
+      "title": "CIE Indoor Daylight Illuminant ID65",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        300.0,
+        780.0
+      ],
+      "n_points": 97,
+      "date": "2009-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_illum_led_lamps_1nm.json",
+      "file_type": "batch",
+      "id": "LED-B1",
+      "title": "CIE LED Illuminants LED-B1–B5, LED-BH1, LED-RGB1, LED-V1–V2 (1 nm)",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_illum_led_lamps_1nm.json",
+      "file_type": "batch",
+      "id": "LED-B2",
+      "title": "CIE LED Illuminants LED-B1–B5, LED-BH1, LED-RGB1, LED-V1–V2 (1 nm)",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_illum_led_lamps_1nm.json",
+      "file_type": "batch",
+      "id": "LED-B3",
+      "title": "CIE LED Illuminants LED-B1–B5, LED-BH1, LED-RGB1, LED-V1–V2 (1 nm)",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_illum_led_lamps_1nm.json",
+      "file_type": "batch",
+      "id": "LED-B4",
+      "title": "CIE LED Illuminants LED-B1–B5, LED-BH1, LED-RGB1, LED-V1–V2 (1 nm)",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_illum_led_lamps_1nm.json",
+      "file_type": "batch",
+      "id": "LED-B5",
+      "title": "CIE LED Illuminants LED-B1–B5, LED-BH1, LED-RGB1, LED-V1–V2 (1 nm)",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_illum_led_lamps_1nm.json",
+      "file_type": "batch",
+      "id": "LED-BH1",
+      "title": "CIE LED Illuminants LED-B1–B5, LED-BH1, LED-RGB1, LED-V1–V2 (1 nm)",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_illum_led_lamps_1nm.json",
+      "file_type": "batch",
+      "id": "LED-RGB1",
+      "title": "CIE LED Illuminants LED-B1–B5, LED-BH1, LED-RGB1, LED-V1–V2 (1 nm)",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_illum_led_lamps_1nm.json",
+      "file_type": "batch",
+      "id": "LED-V1",
+      "title": "CIE LED Illuminants LED-B1–B5, LED-BH1, LED-RGB1, LED-V1–V2 (1 nm)",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_illum_led_lamps_1nm.json",
+      "file_type": "batch",
+      "id": "LED-V2",
+      "title": "CIE LED Illuminants LED-B1–B5, LED-BH1, LED-RGB1, LED-V1–V2 (1 nm)",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_illum_led_lamps_5nm.json",
+      "file_type": "batch",
+      "id": "LED-B1",
+      "title": "CIE LED Illuminants LED-B1–B5, LED-BH1, LED-RGB1, LED-V1–V2 (5 nm)",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_illum_led_lamps_5nm.json",
+      "file_type": "batch",
+      "id": "LED-B2",
+      "title": "CIE LED Illuminants LED-B1–B5, LED-BH1, LED-RGB1, LED-V1–V2 (5 nm)",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_illum_led_lamps_5nm.json",
+      "file_type": "batch",
+      "id": "LED-B3",
+      "title": "CIE LED Illuminants LED-B1–B5, LED-BH1, LED-RGB1, LED-V1–V2 (5 nm)",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_illum_led_lamps_5nm.json",
+      "file_type": "batch",
+      "id": "LED-B4",
+      "title": "CIE LED Illuminants LED-B1–B5, LED-BH1, LED-RGB1, LED-V1–V2 (5 nm)",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_illum_led_lamps_5nm.json",
+      "file_type": "batch",
+      "id": "LED-B5",
+      "title": "CIE LED Illuminants LED-B1–B5, LED-BH1, LED-RGB1, LED-V1–V2 (5 nm)",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_illum_led_lamps_5nm.json",
+      "file_type": "batch",
+      "id": "LED-BH1",
+      "title": "CIE LED Illuminants LED-B1–B5, LED-BH1, LED-RGB1, LED-V1–V2 (5 nm)",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_illum_led_lamps_5nm.json",
+      "file_type": "batch",
+      "id": "LED-RGB1",
+      "title": "CIE LED Illuminants LED-B1–B5, LED-BH1, LED-RGB1, LED-V1–V2 (5 nm)",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_illum_led_lamps_5nm.json",
+      "file_type": "batch",
+      "id": "LED-V1",
+      "title": "CIE LED Illuminants LED-B1–B5, LED-BH1, LED-RGB1, LED-V1–V2 (5 nm)",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_illum_led_lamps_5nm.json",
+      "file_type": "batch",
+      "id": "LED-V2",
+      "title": "CIE LED Illuminants LED-B1–B5, LED-BH1, LED-RGB1, LED-V1–V2 (5 nm)",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_std_illum_a.json",
+      "file_type": "single",
+      "id": "A",
+      "title": "CIE Standard Illuminant A",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        300.0,
+        830.0
+      ],
+      "n_points": 531,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_std_illum_c.json",
+      "file_type": "single",
+      "id": "C",
+      "title": "CIE Standard Illuminant C",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        300.0,
+        780.0
+      ],
+      "n_points": 97,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_std_illum_d50.json",
+      "file_type": "single",
+      "id": "D50",
+      "title": "CIE Standard Illuminant D50",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        300.0,
+        830.0
+      ],
+      "n_points": 531,
+      "date": "2022-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_std_illum_d55.json",
+      "file_type": "single",
+      "id": "D55",
+      "title": "CIE Standard Illuminant D55",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        300.0,
+        780.0
+      ],
+      "n_points": 97,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_std_illum_d65.json",
+      "file_type": "single",
+      "id": "D65",
+      "title": "CIE Standard Illuminant D65",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        300.0,
+        830.0
+      ],
+      "n_points": 531,
+      "date": "2022-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/illuminants/cie_std_illum_d75.json",
+      "file_type": "single",
+      "id": "D75",
+      "title": "CIE Standard Illuminant D75",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        300.0,
+        780.0
+      ],
+      "n_points": 97,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
     },
     {
       "path": "spectra/colorbooks/munsell/glossy/uef/B.json",
