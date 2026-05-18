@@ -67,15 +67,13 @@ Place files under a descriptive subfolder of `spectra/`:
 | Folder | Contents |
 |---|---|
 | `candies/` | Confectionery, food packaging |
-| `ceramics/` | Tiles, tableware, porcelain |
 | `charts/` | Colour reference charts (Munsell, Macbeth, etc.) |
-| `fabrics/` | Textiles, yarns |
-| `filters/` | Optical filters, gels |
-| `inks/` | Printing inks, toners |
-| `monitors/` | Display / monitor emission spectra |
+| `cie/` | CIE standard illuminants, CMFs, sensitivity and response functions |
+| `colorbooks/` | Colour swatch books and fan decks |
+| `elements/` | Elemental emission and absorption spectra |
 | `nature/` | Leaves, flowers, minerals, sky |
-| `paints/` | Paint swatches, automotive finishes |
 | `papers/` | Substrates, unprinted papers |
+| `wood/` | Wood species and timber samples |
 
 Do not see a category for your material? Create a new subfolder — choose a
 short, lowercase, singular noun.
@@ -85,7 +83,7 @@ short, lowercase, singular noun.
 At minimum each `SpectrumRecord` must have:
 
 - `metadata.measurement_type` — one of `reflectance`, `transmittance`,
-  `absorbance`, `radiance`, `irradiance`
+  `absorbance`, `radiance`, `irradiance`, `emission`, `sensitivity`
 - `metadata.date` — ISO 8601 (`YYYY-MM-DD`)
 - A unique `id` string within the file
 - `wavelength_axis` — either `range_nm` (evenly spaced) or `values_nm`

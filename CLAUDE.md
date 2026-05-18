@@ -35,7 +35,7 @@ pin in both `tools/validate/Cargo.toml` and `tools/index-gen/Cargo.toml`.
 
 ## Repository layout
 
-```
+```text
 spectra/           ← all data files, one subfolder per category
   candies/
   ceramics/
@@ -116,6 +116,7 @@ data.
 Triggered by any PR that adds or modifies files matching `spectra/**/*.json`.
 
 Steps:
+
 1. Check out the repo.
 2. Build `spectral-validate` (cached via `Swatinem/rust-cache`).
 3. Use `tj-actions/changed-files` to find the changed JSON files.
@@ -129,6 +130,7 @@ maintainers should **not** merge a red PR.
 Triggered on push to `main` for the same path pattern.
 
 Steps:
+
 1. Check out the repo.
 2. Build `spectral-index-gen`.
 3. Run `spectral-index-gen spectra/ index.json`.
@@ -152,7 +154,7 @@ Key rules enforced by `spectral-validate`:
 - `schema_version` must be `"1.0.0"`.
 - `file_type` must be `"single"` or `"batch"`.
 - `measurement_type` must be one of: `reflectance`, `transmittance`,
-  `absorbance`, `radiance`, `irradiance`.
+  `absorbance`, `radiance`, `irradiance`, `emission`, `sensitivity`.
 - `date` must be ISO 8601 (`YYYY-MM-DD`).
 - `wavelength_axis` must have exactly one of `range_nm` or `values_nm`.
 - Wavelengths must be strictly increasing.
