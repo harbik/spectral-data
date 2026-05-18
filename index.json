@@ -1,7 +1,7 @@
 {
   "schema_version": "1",
-  "generated": "2026-05-17",
-  "count": 7202,
+  "generated": "2026-05-18",
+  "count": 7233,
   "spectra": [
     {
       "path": "spectra/candies/uef_dyes.json",
@@ -10621,6 +10621,20 @@
       "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
     },
     {
+      "path": "spectra/cie/illuminants/cie_reference_spectrum_l41.json",
+      "file_type": "single",
+      "id": "L41",
+      "title": "CIE Reference Spectrum L41",
+      "measurement_type": "Irradiance",
+      "wavelength_range_nm": [
+        360.0,
+        830.0
+      ],
+      "n_points": 471,
+      "date": "2023-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
       "path": "spectra/cie/illuminants/cie_std_illum_a.json",
       "file_type": "single",
       "id": "A",
@@ -10701,6 +10715,426 @@
         780.0
       ],
       "n_points": 97,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/sensitivity/cie_alpha_opic_action_spectra.json",
+      "file_type": "batch",
+      "id": "s_sc",
+      "title": "CIE Alpha-Opic Action Spectra (S-cone, M-cone, L-cone, Rod, Melanopsin)",
+      "measurement_type": "Sensitivity",
+      "wavelength_range_nm": [
+        390.0,
+        615.0
+      ],
+      "n_points": 226,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/sensitivity/cie_alpha_opic_action_spectra.json",
+      "file_type": "batch",
+      "id": "s_mc",
+      "title": "CIE Alpha-Opic Action Spectra (S-cone, M-cone, L-cone, Rod, Melanopsin)",
+      "measurement_type": "Sensitivity",
+      "wavelength_range_nm": [
+        390.0,
+        780.0
+      ],
+      "n_points": 391,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/sensitivity/cie_alpha_opic_action_spectra.json",
+      "file_type": "batch",
+      "id": "s_lc",
+      "title": "CIE Alpha-Opic Action Spectra (S-cone, M-cone, L-cone, Rod, Melanopsin)",
+      "measurement_type": "Sensitivity",
+      "wavelength_range_nm": [
+        390.0,
+        780.0
+      ],
+      "n_points": 391,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/sensitivity/cie_alpha_opic_action_spectra.json",
+      "file_type": "batch",
+      "id": "s_rh",
+      "title": "CIE Alpha-Opic Action Spectra (S-cone, M-cone, L-cone, Rod, Melanopsin)",
+      "measurement_type": "Sensitivity",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/sensitivity/cie_alpha_opic_action_spectra.json",
+      "file_type": "batch",
+      "id": "s_mel",
+      "title": "CIE Alpha-Opic Action Spectra (S-cone, M-cone, L-cone, Rod, Melanopsin)",
+      "measurement_type": "Sensitivity",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/sensitivity/cie_cfb_luminous_efficiency_10deg.json",
+      "file_type": "single",
+      "id": "V_F10",
+      "title": "CIE Cone-Fundamental-Based Spectral Luminous Efficiency, 10° Field Size",
+      "measurement_type": "Sensitivity",
+      "wavelength_range_nm": [
+        390.0,
+        830.0
+      ],
+      "n_points": 441,
+      "date": "2015-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/sensitivity/cie_cfb_luminous_efficiency_2deg.json",
+      "file_type": "single",
+      "id": "V_F",
+      "title": "CIE Cone-Fundamental-Based Spectral Luminous Efficiency, 2° Field Size",
+      "measurement_type": "Sensitivity",
+      "wavelength_range_nm": [
+        390.0,
+        830.0
+      ],
+      "n_points": 441,
+      "date": "2015-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/sensitivity/cie_cfb_xyz_10deg.json",
+      "file_type": "batch",
+      "id": "x_F10",
+      "title": "CIE Cone-Fundamental-Based Spectral Tristimulus Values, 10° Field Size",
+      "measurement_type": "Sensitivity",
+      "wavelength_range_nm": [
+        390.0,
+        830.0
+      ],
+      "n_points": 441,
+      "date": "2015-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/sensitivity/cie_cfb_xyz_10deg.json",
+      "file_type": "batch",
+      "id": "y_F10",
+      "title": "CIE Cone-Fundamental-Based Spectral Tristimulus Values, 10° Field Size",
+      "measurement_type": "Sensitivity",
+      "wavelength_range_nm": [
+        390.0,
+        830.0
+      ],
+      "n_points": 441,
+      "date": "2015-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/sensitivity/cie_cfb_xyz_10deg.json",
+      "file_type": "batch",
+      "id": "z_F10",
+      "title": "CIE Cone-Fundamental-Based Spectral Tristimulus Values, 10° Field Size",
+      "measurement_type": "Sensitivity",
+      "wavelength_range_nm": [
+        390.0,
+        830.0
+      ],
+      "n_points": 441,
+      "date": "2015-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/sensitivity/cie_cfb_xyz_2deg.json",
+      "file_type": "batch",
+      "id": "x_F",
+      "title": "CIE Cone-Fundamental-Based Spectral Tristimulus Values, 2° Field Size",
+      "measurement_type": "Sensitivity",
+      "wavelength_range_nm": [
+        390.0,
+        830.0
+      ],
+      "n_points": 441,
+      "date": "2015-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/sensitivity/cie_cfb_xyz_2deg.json",
+      "file_type": "batch",
+      "id": "y_F",
+      "title": "CIE Cone-Fundamental-Based Spectral Tristimulus Values, 2° Field Size",
+      "measurement_type": "Sensitivity",
+      "wavelength_range_nm": [
+        390.0,
+        830.0
+      ],
+      "n_points": 441,
+      "date": "2015-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/sensitivity/cie_cfb_xyz_2deg.json",
+      "file_type": "batch",
+      "id": "z_F",
+      "title": "CIE Cone-Fundamental-Based Spectral Tristimulus Values, 2° Field Size",
+      "measurement_type": "Sensitivity",
+      "wavelength_range_nm": [
+        390.0,
+        830.0
+      ],
+      "n_points": 441,
+      "date": "2015-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/sensitivity/cie_cmf_1931_2deg.json",
+      "file_type": "batch",
+      "id": "x_bar",
+      "title": "CIE 1931 Colour-Matching Functions, 2° Observer",
+      "measurement_type": "Sensitivity",
+      "wavelength_range_nm": [
+        360.0,
+        830.0
+      ],
+      "n_points": 471,
+      "date": "2019-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/sensitivity/cie_cmf_1931_2deg.json",
+      "file_type": "batch",
+      "id": "y_bar",
+      "title": "CIE 1931 Colour-Matching Functions, 2° Observer",
+      "measurement_type": "Sensitivity",
+      "wavelength_range_nm": [
+        360.0,
+        830.0
+      ],
+      "n_points": 471,
+      "date": "2019-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/sensitivity/cie_cmf_1931_2deg.json",
+      "file_type": "batch",
+      "id": "z_bar",
+      "title": "CIE 1931 Colour-Matching Functions, 2° Observer",
+      "measurement_type": "Sensitivity",
+      "wavelength_range_nm": [
+        360.0,
+        830.0
+      ],
+      "n_points": 471,
+      "date": "2019-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/sensitivity/cie_cmf_1964_10deg.json",
+      "file_type": "batch",
+      "id": "x_bar_10",
+      "title": "CIE 1964 Colour-Matching Functions, 10° Observer",
+      "measurement_type": "Sensitivity",
+      "wavelength_range_nm": [
+        360.0,
+        830.0
+      ],
+      "n_points": 471,
+      "date": "2019-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/sensitivity/cie_cmf_1964_10deg.json",
+      "file_type": "batch",
+      "id": "y_bar_10",
+      "title": "CIE 1964 Colour-Matching Functions, 10° Observer",
+      "measurement_type": "Sensitivity",
+      "wavelength_range_nm": [
+        360.0,
+        830.0
+      ],
+      "n_points": 471,
+      "date": "2019-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/sensitivity/cie_cmf_1964_10deg.json",
+      "file_type": "batch",
+      "id": "z_bar_10",
+      "title": "CIE 1964 Colour-Matching Functions, 10° Observer",
+      "measurement_type": "Sensitivity",
+      "wavelength_range_nm": [
+        360.0,
+        559.0
+      ],
+      "n_points": 200,
+      "date": "2019-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/sensitivity/cie_lms_cone_fundamentals_10deg.json",
+      "file_type": "batch",
+      "id": "l_bar_10",
+      "title": "CIE 2006 LMS Cone Fundamentals, 10° Field Size",
+      "measurement_type": "Sensitivity",
+      "wavelength_range_nm": [
+        390.0,
+        830.0
+      ],
+      "n_points": 89,
+      "date": "2006-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/sensitivity/cie_lms_cone_fundamentals_10deg.json",
+      "file_type": "batch",
+      "id": "m_bar_10",
+      "title": "CIE 2006 LMS Cone Fundamentals, 10° Field Size",
+      "measurement_type": "Sensitivity",
+      "wavelength_range_nm": [
+        390.0,
+        830.0
+      ],
+      "n_points": 89,
+      "date": "2006-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/sensitivity/cie_lms_cone_fundamentals_10deg.json",
+      "file_type": "batch",
+      "id": "s_bar_10",
+      "title": "CIE 2006 LMS Cone Fundamentals, 10° Field Size",
+      "measurement_type": "Sensitivity",
+      "wavelength_range_nm": [
+        390.0,
+        615.0
+      ],
+      "n_points": 46,
+      "date": "2006-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/sensitivity/cie_lms_cone_fundamentals_2deg.json",
+      "file_type": "batch",
+      "id": "l_bar",
+      "title": "CIE 2006 LMS Cone Fundamentals, 2° Field Size",
+      "measurement_type": "Sensitivity",
+      "wavelength_range_nm": [
+        390.0,
+        830.0
+      ],
+      "n_points": 89,
+      "date": "2006-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/sensitivity/cie_lms_cone_fundamentals_2deg.json",
+      "file_type": "batch",
+      "id": "m_bar",
+      "title": "CIE 2006 LMS Cone Fundamentals, 2° Field Size",
+      "measurement_type": "Sensitivity",
+      "wavelength_range_nm": [
+        390.0,
+        830.0
+      ],
+      "n_points": 89,
+      "date": "2006-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/sensitivity/cie_lms_cone_fundamentals_2deg.json",
+      "file_type": "batch",
+      "id": "s_bar",
+      "title": "CIE 2006 LMS Cone Fundamentals, 2° Field Size",
+      "measurement_type": "Sensitivity",
+      "wavelength_range_nm": [
+        390.0,
+        615.0
+      ],
+      "n_points": 46,
+      "date": "2006-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/sensitivity/cie_luminous_efficiency_photopic.json",
+      "file_type": "single",
+      "id": "V",
+      "title": "CIE Spectral Luminous Efficiency for Photopic Vision V(λ)",
+      "measurement_type": "Sensitivity",
+      "wavelength_range_nm": [
+        360.0,
+        830.0
+      ],
+      "n_points": 471,
+      "date": "2019-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/sensitivity/cie_luminous_efficiency_scotopic.json",
+      "file_type": "single",
+      "id": "V_prime",
+      "title": "CIE Spectral Luminous Efficiency for Scotopic Vision V′(λ)",
+      "measurement_type": "Sensitivity",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 401,
+      "date": "2019-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/sensitivity/cie_metamerism_index_1st_deviation.json",
+      "file_type": "batch",
+      "id": "f1",
+      "title": "CIE First Deviation Function for Special Metamerism Index (Change in Observer)",
+      "measurement_type": "Sensitivity",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/sensitivity/cie_metamerism_index_1st_deviation.json",
+      "file_type": "batch",
+      "id": "f2",
+      "title": "CIE First Deviation Function for Special Metamerism Index (Change in Observer)",
+      "measurement_type": "Sensitivity",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
+      "date": "2018-01-01",
+      "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
+    },
+    {
+      "path": "spectra/cie/sensitivity/cie_metamerism_index_1st_deviation.json",
+      "file_type": "batch",
+      "id": "f3",
+      "title": "CIE First Deviation Function for Special Metamerism Index (Change in Observer)",
+      "measurement_type": "Sensitivity",
+      "wavelength_range_nm": [
+        380.0,
+        780.0
+      ],
+      "n_points": 81,
       "date": "2018-01-01",
       "copyright": "© International Commission on Illumination (CIE). Licensed CC BY-SA 4.0. https://cie.co.at/data-tables"
     },
